@@ -19,3 +19,6 @@ python FeatureGrouper.py
 # Original amount of phenomena: 4079
 # With TF-IDF deduplicating the amount of phenomena is reduced to: 2932
 ```
+Adjust the distance threshold to finetune the granularity. 
+
+The GroupName is simply the first option in the group, more sophisticated group naming could be applied.
