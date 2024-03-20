@@ -1,0 +1,4080 @@
+Option,Group,GroupName
+Höhe (barometrisch),-1,Ungrouped
+motion,-1,Ungrouped
+Motorstrom,-1,Ungrouped
+MP10,-1,Ungrouped
+MP2.5,-1,Ungrouped
+Müll,-1,Ungrouped
+N/A,-1,Ungrouped
+n05,-1,Ungrouped
+n1,-1,Ungrouped
+n10,-1,Ungrouped
+n2.5,-1,Ungrouped
+n4,-1,Ungrouped
+Natężenie światła,-1,Ungrouped
+nauwkerigheid sensor,-1,Ungrouped
+Nauwkeurigheid,-1,Ungrouped
+NBIoTEmpfang,-1,Ungrouped
+NBIoTEmpfangProzent,-1,Ungrouped
+"nc0.5, n0.5, nc05, n05",-1,Ungrouped
+"nc1.0, nc1, n1.0, n1",-1,Ungrouped
+NC10,-1,Ungrouped
+"nc10, n10",-1,Ungrouped
+"nc2.5, n2.5",-1,Ungrouped
+monitorStatus,-1,Ungrouped
+"nc4.0, n4.0, nc4, n4",-1,Ungrouped
+Moisture,-1,Ungrouped
+Mittelwert Windgeschwindigkeit,-1,Ungrouped
+Maximalwert der Wind- geschwindigkeit (Böe),-1,Ungrouped
+Maximum Umgebungslautstärke (LAmax),-1,Ungrouped
+MCPTemperature,-1,Ungrouped
+Measurement status,-1,Ungrouped
+Measuring interval,-1,Ungrouped
+Messung Nr.,-1,Ungrouped
+Messungen seit Neustart,-1,Ungrouped
+Methan,-1,Ungrouped
+Methane - CH4,-1,Ungrouped
+MiCS6814 - C2H5OH - Ethanol,-1,Ungrouped
+MiCS6814 - C3H8 - Propane,-1,Ungrouped
+MiCS6814 - C4H10 - Butane,-1,Ungrouped
+MiCS6814 - CH4 - Methane,-1,Ungrouped
+MiCS6814 - H2 - Hydrogene,-1,Ungrouped
+Minimal Umgebungslautstärke,-1,Ungrouped
+minimale Beleuchtungsstärke (im Sendeintervall),-1,Ungrouped
+minimale rel. Luftfeuchte (im Sendeintervall),-1,Ungrouped
+minimale Temperatur (im Sendeintervall),-1,Ungrouped
+minimaler Luftdruck (im Sende-Intervall),-1,Ungrouped
+minimaler Luftdruck (im Sendeintervall),-1,Ungrouped
+Minimalster Lärmpegel (2.5 Minuten),-1,Ungrouped
+Mittelwert Windrichtung,-1,Ungrouped
+Net power,-1,Ungrouped
+Netz,-1,Ungrouped
+Nhiệt độ không khí,-1,Ungrouped
+NO3,-1,Ungrouped
+Noise,-1,Ungrouped
+Northeast roof shingles temperature,-1,Ungrouped
+Northwest roof shingles temperature,-1,Ungrouped
+Notify Code,-1,Ungrouped
+NOx,-1,Ungrouped
+nPosts,-1,Ungrouped
+NTC-Time,-1,Ungrouped
+Num0.5,-1,Ungrouped
+Num1.0,-1,Ungrouped
+Num10,-1,Ungrouped
+Num2.5,-1,Ungrouped
+Num4.0,-1,Ungrouped
+Number of Counted Birds – Accipiter cooperii,-1,Ungrouped
+Number of Counted Birds – Anhinga anhinga,-1,Ungrouped
+Number of Counted Birds – Aphelocoma californica,-1,Ungrouped
+Number of Counted Birds – Aquila chrysaetos,-1,Ungrouped
+Number of Counted Birds – Ardea alba,-1,Ungrouped
+Number of Counted Birds – Ardea herodias,-1,Ungrouped
+Number of Counted Birds – Baeolophus bicolor,-1,Ungrouped
+Number of Counted Birds – Bombycilla cedrorum,-1,Ungrouped
+NO2 WE,-1,Ungrouped
+NO2 AE,-1,Ungrouped
+NO2,-1,Ungrouped
+NO,-1,Ungrouped
+Nhiệt độ nước,-1,Ungrouped
+Ni,-1,Ungrouped
+Niederschlag (Stunde),-1,Ungrouped
+Niederschlag (Tag),-1,Ungrouped
+Niederschlag (total),-1,Ungrouped
+Niederschlag 1h,-1,Ungrouped
+Niederschlag 24h,-1,Ungrouped
+Niederschlag akt. Stunde,-1,Ungrouped
+Niederschlag Aktuelle Stunde,-1,Ungrouped
+Niederschlag Detector,-1,Ungrouped
+Maximaler Lärmpegel (2.5 Minuten),-1,Ungrouped
+Niederschlag Gestern,-1,Ungrouped
+Niederschlag letzte Stunde,-1,Ungrouped
+Niederschlag_Davis,-1,Ungrouped
+Niederschlagsart,-1,Ungrouped
+Niederschlagsereignis,-1,Ungrouped
+Niederschlagsmenge,-1,Ungrouped
+Niederschlagsmenge absolut,-1,Ungrouped
+Niederschlagsmenge heute,-1,Ungrouped
+Nitrat,-1,Ungrouped
+Nitrit,-1,Ungrouped
+Nitrogen Dioxide - Oxidising,-1,Ungrouped
+Niederschlag im Monat,-1,Ungrouped
+maximaler Luftdruck (im Sendeintervall),-1,Ungrouped
+maximaler Luftdruck (im Sende-Intervall),-1,Ungrouped
+maximale Windböengeschwindigkeit,-1,Ungrouped
+LuftfeuchteSCD41,-1,Ungrouped
+LuftfeuchteSHT31,-1,Ungrouped
+LuftfeuchteSHT_0,-1,Ungrouped
+LuftfeuchteSHT_1,-1,Ungrouped
+LuftfeuchteSHT_2,-1,Ungrouped
+LuftfeuchteSHT_3,-1,Ungrouped
+LuftfeuchteSHT_4,-1,Ungrouped
+LuftfeuchteSHT_5,-1,Ungrouped
+LuftfeuchteSHT_6,-1,Ungrouped
+LuftfeuchteSHT_7,-1,Ungrouped
+Luftfeuchtigjkeit,-1,Ungrouped
+Luftfeuchtigkeit AM2301,-1,Ungrouped
+Luftfeuchtigkeit HDC1080,-1,Ungrouped
+Luftfeuchtigkeit SFA30,-1,Ungrouped
+Luftfeuchtigkeit SHT31_0,-1,Ungrouped
+Luftfeuchtigkeit SHT31_1,-1,Ungrouped
+Luftfeuchtigkeit SHT31_2,-1,Ungrouped
+Luftfeuchtigkeit SHT31_3,-1,Ungrouped
+Luftfeuchtigkeit SHT85_0,-1,Ungrouped
+Luftfeuchtigkeit SHT85_1,-1,Ungrouped
+Luftfeuchtigkeit SHT85_2,-1,Ungrouped
+LuftfeuchteSCD30,-1,Ungrouped
+LuftfeuchteBME,-1,Ungrouped
+Luftfeuchte SCD4,-1,Ungrouped
+Luftfeuchte abs. (SHT31),-1,Ungrouped
+Luftdruck gemessen,-1,Ungrouped
+Luftdruck Meereshöhe,-1,Ungrouped
+Luftdruck MPL3115A2,-1,Ungrouped
+Luftdruck normalisiert,-1,Ungrouped
+Luftdruck real,-1,Ungrouped
+Luftdruck relativ,-1,Ungrouped
+Luftdruck TV,-1,Ungrouped
+Luftdruck Umgebung,-1,Ungrouped
+"luftdruck, druck",-1,Ungrouped
+LuftdruckBME,-1,Ungrouped
+Luftfeuchtigkeit SHT85_3,-1,Ungrouped
+Luftdruk,-1,Ungrouped
+"Luftfeinstaubkonzentration, SDS011 (PM10)",-1,Ungrouped
+"Luftfeinstaubkonzentration, SDS011 (PM2.5)",-1,Ungrouped
+"Luftfeinstaubkonzentration, SPS30 (PM0.5)",-1,Ungrouped
+"Luftfeinstaubkonzentration, SPS30 (PM10)",-1,Ungrouped
+"Luftfeinstaubkonzentration, SPS30 (PM2.5)",-1,Ungrouped
+Luftfeuche,-1,Ungrouped
+Luftfeuche 0 (oben),-1,Ungrouped
+Luftfeuchte (Box),-1,Ungrouped
+Luftfeuchte (SHT35),-1,Ungrouped
+Luftfeuchte 2-SHT31 Nr.2,-1,Ungrouped
+Luftemperatur,-1,Ungrouped
+Number of Counted Birds – Bubulcus ibis,-1,Ungrouped
+Luftfeuchtigkeit SHTC1,-1,Ungrouped
+Luftfeuchtigkeit_01,-1,Ungrouped
+Luminosidade,-1,Ungrouped
+Lutfdruck,-1,Ungrouped
+Luxmeter,-1,Ungrouped
+LV+UV,-1,Ungrouped
+LZ.avg,-1,Ungrouped
+LZ.max,-1,Ungrouped
+LZ.min,-1,Ungrouped
+Lämpötila,-1,Ungrouped
+Längengrad,-1,Ungrouped
+Lärm,-1,Ungrouped
+Läutstärke,-1,Ungrouped
+Lüftung,-1,Ungrouped
+M - PM1 SDS011,-1,Ungrouped
+M.ü.M MPL3115A2,-1,Ungrouped
+Magnetkompass Differenzwinkel Geräte- Nordmarkierung zum magnetischen Nordpol,-1,Ungrouped
+Magnifik,-1,Ungrouped
+Manual Mode,-1,Ungrouped
+Max Wind Speed (Five Minutes),-1,Ungrouped
+maximale Beleuchtungsstärke (im Sendeintervall),-1,Ungrouped
+maximale rel. Luftfeuchte (im Sendeintervall),-1,Ungrouped
+maximale Temperatur (im Sendeintervall),-1,Ungrouped
+Lumina,-1,Ungrouped
+Lumen,-1,Ungrouped
+Luftzfeuchtigkeit,-1,Ungrouped
+Luftwiderstand,-1,Ungrouped
+Luftfeuchtigkeit_02,-1,Ungrouped
+Luftfeuchtigkeit_03,-1,Ungrouped
+Luftfeuchtigkeit_04,-1,Ungrouped
+Luftfeuchtigkeit_05,-1,Ungrouped
+Luftfeuchtigkeit_Um,-1,Ungrouped
+LuftfeuchtigkeitBME,-1,Ungrouped
+Luftfeutigkeit,-1,Ungrouped
+Luftgüte,-1,Ungrouped
+Luftgüte_01,-1,Ungrouped
+Luftqualität,-1,Ungrouped
+Luftfeuchtigkeit(Beute),-1,Ungrouped
+Luftqualität PM10,-1,Ungrouped
+Lufttemperatur 2-SHT31 Nr.2,-1,Ungrouped
+Lufttemperatur am Inn,-1,Ungrouped
+Lufttemperatur HDC,-1,Ungrouped
+Lufttemperatur SCD3,-1,Ungrouped
+Lufttemperatur SCD4,-1,Ungrouped
+Lufttemperatur unkorrigiert,-1,Ungrouped
+LufttemperaturBME,-1,Ungrouped
+Lufttemperature,-1,Ungrouped
+LufttemperaturSCD30,-1,Ungrouped
+Luftvolumen,-1,Ungrouped
+Luftqualität PM2.5,-1,Ungrouped
+Luftdruck BMP280,-1,Ungrouped
+Number of Counted Birds – Cacatua galerita,-1,Ungrouped
+Number of Counted Birds – Cathartes aura,-1,Ungrouped
+PH Stärke,-1,Ungrouped
+Phenomenon: BME680 - Temperature,-1,Ungrouped
+Phenomenon: Luftdruck,-1,Ungrouped
+Phenomenon: Luftfeuchte,-1,Ungrouped
+Phenomenon: Lufttemperatur,-1,Ungrouped
+Phenomenon: rel. Luftfeuchte,-1,Ungrouped
+Phenomenon: Temperatur,-1,Ungrouped
+Photoresistance,-1,Ungrouped
+Pi-Temperatur,-1,Ungrouped
+Pienhiukkaset PM2.5,-1,Ungrouped
+ping,-1,Ungrouped
+Pitch vom Magnetkompass Winkel zwischen Nord- Süd zur Horizontalen,-1,Ungrouped
+Plantbox16 soil temperature,-1,Ungrouped
+Plantbox17 soil temperature,-1,Ungrouped
+Plantbox2 soil temperature,-1,Ungrouped
+Plantbox3 soil temperature,-1,Ungrouped
+Plantbox4 soil temperature,-1,Ungrouped
+Plantbox5 soil temperature,-1,Ungrouped
+PM size SPS30,-1,Ungrouped
+PM0.5nc,-1,Ungrouped
+PM01 (PMS 3003),-1,Ungrouped
+pH AtalsScientific,-1,Ungrouped
+PM01 (PMS 7003M),-1,Ungrouped
+pH,-1,Ungrouped
+Pgn,-1,Ungrouped
+Particles >0.3 µm,-1,Ungrouped
+Particles >0.5,-1,Ungrouped
+Particles >10 µm,-1,Ungrouped
+Particles >100 µm,-1,Ungrouped
+Particles >25 µm,-1,Ungrouped
+Particles >50 µm,-1,Ungrouped
+Particulate Matter 10µm,-1,Ungrouped
+Particulate Matter <10.0µm concentration,-1,Ungrouped
+particulate matter sensor,-1,Ungrouped
+Particulate Matter Typical Size,-1,Ungrouped
+Particulate meter PM10,-1,Ungrouped
+Particulate meter PM2.5,-1,Ungrouped
+Particulate0p5SPS30,-1,Ungrouped
+Particulate10SPS30,-1,Ungrouped
+Particulate1p0SPS30,-1,Ungrouped
+Particulate2.5SPS30,-1,Ungrouped
+ParticulateSDS011,-1,Ungrouped
+Pb,-1,Ungrouped
+Pdc,-1,Ungrouped
+Pegel,-1,Ungrouped
+Personenanzahl,-1,Ungrouped
+Pgn_p,-1,Ungrouped
+"pm01, pm0, p1.0, p0",-1,Ungrouped
+PM0111,-1,Ungrouped
+PM04,-1,Ungrouped
+PM2.5 (polveri),-1,Ungrouped
+"PM2.5 (weniger als 2,5 Mikrometer)",-1,Ungrouped
+PM2.5 30 min. Mittelwert,-1,Ungrouped
+PM2.5 Daily Average,-1,Ungrouped
+PM2.5 env,-1,Ungrouped
+PM2.5 fijn stof,-1,Ungrouped
+PM2.5 Hourly Average,-1,Ungrouped
+PM2.5 Momentanwert,-1,Ungrouped
+PM2.5 pył zawieszony,-1,Ungrouped
+"pm2.5, pm25, p2.5, p25, p2",-1,Ungrouped
+PM2.5Color,-1,Ungrouped
+PM2.5nc,-1,Ungrouped
+PM2_5,-1,Ungrouped
+"pm4, p4",-1,Ungrouped
+PM4.0nc,-1,Ungrouped
+PM_2.5,-1,Ungrouped
+PM_mittlererDurchmesser,-1,Ungrouped
+PMS PM1,-1,Ungrouped
+polveri sottili,-1,Ungrouped
+Ponto de orvalho,-1,Ungrouped
+Pooltemperatur,-1,Ungrouped
+PM2.5 (PMS3003),-1,Ungrouped
+PM2.5 (PMS 7003M),-1,Ungrouped
+PM2.5 (PMS 3003),-1,Ungrouped
+PM10nc,-1,Ungrouped
+PM1.0 Daily Average,-1,Ungrouped
+PM1.0 env,-1,Ungrouped
+PM1.0 Hourly Average,-1,Ungrouped
+PM1.0nc,-1,Ungrouped
+PM10 (max 10 Mikrometer),-1,Ungrouped
+PM10 (PMS 3003),-1,Ungrouped
+PM10 (PMS 7003M),-1,Ungrouped
+PM10 (PMS3003),-1,Ungrouped
+PM10 (polveri),-1,Ungrouped
+PM10 24h average,-1,Ungrouped
+Particles 2.5 µg/m³,-1,Ungrouped
+PM10 30min. Mittelwert,-1,Ungrouped
+PM10 env,-1,Ungrouped
+PM10 fijn stof,-1,Ungrouped
+PM10 geglättet,-1,Ungrouped
+PM10 Gleitender Mittelwert 24h,-1,Ungrouped
+PM10 Hourly Average,-1,Ungrouped
+PM10 Momentanwert,-1,Ungrouped
+PM10 pył zawieszony,-1,Ungrouped
+"pm10, p10, p1",-1,Ungrouped
+PM100,-1,Ungrouped
+PM10Color,-1,Ungrouped
+PM10 Daily Average,-1,Ungrouped
+Particles 10 µg/m³,-1,Ungrouped
+Particle Sensor,-1,Ungrouped
+particle PM2.5,-1,Ungrouped
+Number of Counted Birds – Myiopsitta monachus,-1,Ungrouped
+Number of Counted Birds – Nycticorax nycticorax,-1,Ungrouped
+Number of Counted Birds – Ortalis vetula,-1,Ungrouped
+Number of Counted Birds – Parus major,-1,Ungrouped
+Number of Counted Birds – Passer domesticus,-1,Ungrouped
+Number of Counted Birds – Passerina ciris,-1,Ungrouped
+Number of Counted Birds – Pelecanus occidentalis,-1,Ungrouped
+Number of Counted Birds – Pheucticus melanocephalus,-1,Ungrouped
+Number of Counted Birds – Pica pica,-1,Ungrouped
+Number of Counted Birds – Picoides nuttallii,-1,Ungrouped
+Number of Counted Birds – Picoides pubescens,-1,Ungrouped
+Number of Counted Birds – Pitangus sulphuratus,-1,Ungrouped
+Number of Counted Birds – Poecile atricapillus,-1,Ungrouped
+Number of Counted Birds – Poecile carolinensis,-1,Ungrouped
+Number of Counted Birds – Poecile gambeli,-1,Ungrouped
+Number of Counted Birds – Poecile rufescens,-1,Ungrouped
+Number of Counted Birds – Quiscalus quiscula,-1,Ungrouped
+Number of Counted Birds – Sayornis nigricans,-1,Ungrouped
+Number of Counted Birds – Setophaga coronata,-1,Ungrouped
+Number of Counted Birds – Sialia mexicana,-1,Ungrouped
+Number of Counted Birds – Sialia sialis,-1,Ungrouped
+Number of Counted Birds – Mimus polyglottos,-1,Ungrouped
+Number of Counted Birds – Melospiza melodia,-1,Ungrouped
+Number of Counted Birds – Meleagris gallopavo,-1,Ungrouped
+Number of Counted Birds – Melanerpes carolinus,-1,Ungrouped
+Number of Counted Birds – Catharus guttatus,-1,Ungrouped
+Number of Counted Birds – Coereba flaveola,-1,Ungrouped
+Number of Counted Birds – Columba livia,-1,Ungrouped
+Number of Counted Birds – Columba palumbus,-1,Ungrouped
+Number of Counted Birds – Corvus brachyrhynchos,-1,Ungrouped
+Number of Counted Birds – Corvus monedula,-1,Ungrouped
+Number of Counted Birds – Cyanistes caeruleus,-1,Ungrouped
+Number of Counted Birds – Cyanocitta stelleri,-1,Ungrouped
+Number of Counted Birds – Dumetella carolinensis,-1,Ungrouped
+Number of Counted Birds – Erithacus rubecula,-1,Ungrouped
+Number of Counted Birds – Sitta canadensis,-1,Ungrouped
+Number of Counted Birds – Falco sparverius,-1,Ungrouped
+Number of Counted Birds – Garrulus glandarius,-1,Ungrouped
+Number of Counted Birds – Gavia immer,-1,Ungrouped
+Number of Counted Birds – Haemorhous mexicanus,-1,Ungrouped
+Number of Counted Birds – Haemorhous purpureus,-1,Ungrouped
+Number of Counted Birds – Hemiphaga novaeseelandiae,-1,Ungrouped
+Number of Counted Birds – Hirundo rustica,-1,Ungrouped
+Number of Counted Birds – Junco hyemalis,-1,Ungrouped
+Number of Counted Birds – Larus heermanni,-1,Ungrouped
+Number of Counted Birds – Lophodytes cucullatus,-1,Ungrouped
+Number of Counted Birds – Loxia curvirostra,-1,Ungrouped
+Number of Counted Birds – Fringilla coelebs,-1,Ungrouped
+Number of Counted Birds – Cardinalis cardinalis,-1,Ungrouped
+Number of Counted Birds – Sitta carolinensis,-1,Ungrouped
+Number of Counted Birds – Spinus tristis,-1,Ungrouped
+Outbox temperature,-1,Ungrouped
+Outdoor Humidity,-1,Ungrouped
+Outdoor Temp,-1,Ungrouped
+Outdoor Temperature,-1,Ungrouped
+Outside Temperature,-1,Ungrouped
+Oxidation,-1,Ungrouped
+Oxidised,-1,Ungrouped
+Oxygen,-1,Ungrouped
+Ozon,-1,Ungrouped
+p,-1,Ungrouped
+P1,-1,Ungrouped
+P101,-1,Ungrouped
+P2,-1,Ungrouped
+P3,-1,Ungrouped
+P4,-1,Ungrouped
+Panelleistung,-1,Ungrouped
+Parkplatz,-1,Ungrouped
+Particals PM10,-1,Ungrouped
+Particle 10,-1,Ungrouped
+"Particle 2,5",-1,Ungrouped
+particle PM10,-1,Ungrouped
+Ortsdosisleistung,-1,Ungrouped
+ORP,-1,Ungrouped
+Orange,-1,Ungrouped
+Operation mode,-1,Ungrouped
+Number of Counted Birds – Spizella passerina,-1,Ungrouped
+Number of Counted Birds – Spizelloides arborea,-1,Ungrouped
+Number of Counted Birds – Streptopelia decaocto,-1,Ungrouped
+Number of Counted Birds – Tachycineta bicolor,-1,Ungrouped
+Number of Counted Birds – Thryomanes bewickii,-1,Ungrouped
+Number of Counted Birds – Thryothorus ludovicianus,-1,Ungrouped
+Number of Counted Birds – Toxostoma rufum,-1,Ungrouped
+Number of Counted Birds – Troglodytes aedon,-1,Ungrouped
+Number of Counted Birds – Turdus merula,-1,Ungrouped
+Number of Counted Birds – Turdus migratorius,-1,Ungrouped
+Number of Counted Birds – Sitta pygmaea,-1,Ungrouped
+Number of Counted Birds – Zenaida asiatica,-1,Ungrouped
+Number of Counted Birds – Zonotrichia atricapilla,-1,Ungrouped
+O3,-1,Ungrouped
+O3 - Ozon,-1,Ungrouped
+O3 AE,-1,Ungrouped
+O3 WE,-1,Ungrouped
+O3 µg/m³,-1,Ungrouped
+O3WE,-1,Ungrouped
+offset,-1,Ungrouped
+Opady,-1,Ungrouped
+Open,-1,Ungrouped
+Number of Counted Birds – Zenaida macroura,-1,Ungrouped
+Luftdruck BMP180,-1,Ungrouped
+Luftdruck BMP 180,-1,Ungrouped
+Luftdruck absolut,-1,Ungrouped
+G3Hum2.0a,-1,Ungrouped
+G3Hum2.0b,-1,Ungrouped
+G3Licht0.0,-1,Ungrouped
+G3QFE0.0,-1,Ungrouped
+G3Temp0.0a,-1,Ungrouped
+G3Temp0.0b,-1,Ungrouped
+G3Temp0.5a,-1,Ungrouped
+G3Temp0.5b,-1,Ungrouped
+G3Temp1.0a,-1,Ungrouped
+G3Temp1.0b,-1,Ungrouped
+G3Temp2.0a,-1,Ungrouped
+G3Temp2.0b,-1,Ungrouped
+G3UV0.0,-1,Ungrouped
+G4-atm. Luftdruck,-1,Ungrouped
+G4-Beleuchtungsstärke,-1,Ungrouped
+G4-Bodenfeuchte,-1,Ungrouped
+G4-Bodentemperatur,-1,Ungrouped
+Gamma,-1,Ungrouped
+Gamma Dose Rate,-1,Ungrouped
+Gamma-Radiation,-1,Ungrouped
+Gammastrahlung,-1,Ungrouped
+G3Hum1.0b,-1,Ungrouped
+Gas NH3,-1,Ungrouped
+G3Hum1.0a,-1,Ungrouped
+G3Hum0.5a,-1,Ungrouped
+G1_Luftfeuchte_0.5m_B,-1,Ungrouped
+G1_Luftfeuchte_0m_A,-1,Ungrouped
+G1_Luftfeuchte_0m_B,-1,Ungrouped
+G1_Luftfeuchte_1m_A,-1,Ungrouped
+G1_Luftfeuchte_1m_B,-1,Ungrouped
+G1_Luftfeuchte_2m_A,-1,Ungrouped
+G1_Luftfeuchte_2m_B,-1,Ungrouped
+G1_Lufttemperatur_0.5m_A,-1,Ungrouped
+G1_Lufttemperatur_0.5m_B,-1,Ungrouped
+G1_Lufttemperatur_0m_A,-1,Ungrouped
+G1_Lufttemperatur_0m_B,-1,Ungrouped
+G1_Lufttemperatur_1m_A,-1,Ungrouped
+G1_Lufttemperatur_1m_B,-1,Ungrouped
+G1_Lufttemperatur_2m_A,-1,Ungrouped
+G1_Lufttemperatur_2m_B,-1,Ungrouped
+G1_UV,-1,Ungrouped
+G2 Luftdruck,-1,Ungrouped
+G3BodenHum-0.15,-1,Ungrouped
+G3Bodentemp,-1,Ungrouped
+G3Hum0.0a,-1,Ungrouped
+G3Hum0.0b,-1,Ungrouped
+G3Hum0.5b,-1,Ungrouped
+Gas Oxidising,-1,Ungrouped
+Gas Reducing,-1,Ungrouped
+Gas Resistance,-1,Ungrouped
+GPS,-1,Ungrouped
+GPS Höhe,-1,Ungrouped
+GPS long 25,-1,Ungrouped
+GPS-Alt,-1,Ungrouped
+GPS-Speed,-1,Ungrouped
+Green,-1,Ungrouped
+Grid frequency,-1,Ungrouped
+Grid voltage,-1,Ungrouped
+Ground temperature (-10 cm below ground),-1,Ungrouped
+Groundtemperature,-1,Ungrouped
+Grove - Gas sensor (O2) - Oxygen,-1,Ungrouped
+Grove - Gas Sensor(O₂) - Oxygen,-1,Ungrouped
+Grundwasserstand,-1,Ungrouped
+Grünlandtemperatursumme,-1,Ungrouped
+h,-1,Ungrouped
+H1 temperature,-1,Ungrouped
+H2,-1,Ungrouped
+"H2, LPG, CH4, CO, Alcohol",-1,Ungrouped
+H2S,-1,Ungrouped
+H2S RAW,-1,Ungrouped
+H2SPG30,-1,Ungrouped
+Globalstrahlung,-1,Ungrouped
+Gewitter,-1,Ungrouped
+Gewicht Wägezelle_04,-1,Ungrouped
+Gewicht Wägezelle_03,-1,Ungrouped
+Gas usage Today (Natural),-1,Ungrouped
+Gas VOC,-1,Ungrouped
+Gefahr,-1,Ungrouped
+gefühlte Temperatur,-1,Ungrouped
+gef�hlte Temperatur,-1,Ungrouped
+Gehäuseinnentemperatur,-1,Ungrouped
+Gehäusetemperatur,-1,Ungrouped
+Geiger Counter,-1,Ungrouped
+Generated Energy Today,-1,Ungrouped
+Gerätetemperatur (im Gehäuse),-1,Ungrouped
+G1_Luftfeuchte_0.5m_A,-1,Ungrouped
+Geräuschpegel,-1,Ungrouped
+Gesamt Gewicht,-1,Ungrouped
+Gesamtausstoßvolumen,-1,Ungrouped
+GesamthaerteLabor,-1,Ungrouped
+Geschwindgkeit,-1,Ungrouped
+Geschwindigkeit,-1,Ungrouped
+Geschwindkeit,-1,Ungrouped
+Gesendet:,-1,Ungrouped
+Gewicht,-1,Ungrouped
+Gewicht Wägezelle_01,-1,Ungrouped
+Gewicht Wägezelle_02,-1,Ungrouped
+Gesammtgewicht,-1,Ungrouped
+G1_Luftdruck,-1,Ungrouped
+G1_Licht,-1,Ungrouped
+Füllstand Tank,-1,Ungrouped
+Einstrahlung,-1,Ungrouped
+Eisen,-1,Ungrouped
+EisenLabor,-1,Ungrouped
+el. Leitfähigkeit,-1,Ungrouped
+Electrical water heater temperature,-1,Ungrouped
+Elektrische Leitfähigkeit,-1,Ungrouped
+Energie Solarzelle,-1,Ungrouped
+Energy import,-1,Ungrouped
+Energy photo-voltaic inverter,-1,Ungrouped
+Erdgas,-1,Ungrouped
+Estimated Savings,-1,Ungrouped
+Ethanol - C2H5OH,-1,Ungrouped
+Ethanol C2H6OH,-1,Ungrouped
+EthanolSGP30,-1,Ungrouped
+EthanolSVM30,-1,Ungrouped
+Exposure,-1,Ungrouped
+Ext humidity,-1,Ungrouped
+Ext pressure,-1,Ungrouped
+Ext temperature,-1,Ungrouped
+Fahrrad,-1,Ungrouped
+Fahrzeugdichte,-1,Ungrouped
+Eingangsspannung,-1,Ungrouped
+eCO2,-1,Ungrouped
+EC,-1,Ungrouped
+Dämmerung,-1,Ungrouped
+DNMS_Noise_LAeq,-1,Ungrouped
+DNMS_Noise_LAmax,-1,Ungrouped
+DNMS_Noise_LAmin,-1,Ungrouped
+Dosisleistung,-1,Ungrouped
+Dragino,-1,Ungrouped
+Druck,-1,Ungrouped
+DS18B20 Temp,-1,Ungrouped
+DS18B20_ho4,-1,Ungrouped
+DS18B20_Probe01,-1,Ungrouped
+DS18B20_Probe02,-1,Ungrouped
+Fahrzeuge,-1,Ungrouped
+DS18B20_Probe03,-1,Ungrouped
+DS18B20_Probe05,-1,Ungrouped
+dT,-1,Ungrouped
+dummy,-1,Ungrouped
+Durchflussmenge,-1,Ungrouped
+Durchschnitt Lärmpegel,-1,Ungrouped
+Durchschnitt Umgebungslautstärke,-1,Ungrouped
+Durchschnitt Umgebunslautstärke,-1,Ungrouped
+Dust,-1,Ungrouped
+Dust PM1.0,-1,Ungrouped
+"Dust, temperature & humidity",-1,Ungrouped
+DS18B20_Probe04,-1,Ungrouped
+H2SVM30,-1,Ungrouped
+Fahrzeugzähler,-1,Ungrouped
+Fan,-1,Ungrouped
+Feuchte DHT11 BOX3,-1,Ungrouped
+Feuchte DHT11 BOX4,-1,Ungrouped
+Feuchte Sensirion,-1,Ungrouped
+Feuchtigkeit,-1,Ungrouped
+Feuchtigkeit (Hochbeet),-1,Ungrouped
+Feuchtigkeit (Kräutergarten),-1,Ungrouped
+Feuchtigkeit absolut,-1,Ungrouped
+Fijnstof,-1,Ungrouped
+Fijnstof PM10,-1,Ungrouped
+Fijnstof PM2.5,-1,Ungrouped
+filedData,-1,Ungrouped
+fine particles,-1,Ungrouped
+Fire-on-off,-1,Ungrouped
+Floor 2 East room temperature,-1,Ungrouped
+Floor 2 West room temperature,-1,Ungrouped
+Formaldehyd SFA30,-1,Ungrouped
+FPS,-1,Ungrouped
+freehdd,-1,Ungrouped
+freemem,-1,Ungrouped
+Frequenz,-1,Ungrouped
+Füllstand,-1,Ungrouped
+Feuchte BOX2,-1,Ungrouped
+Feuchte,-1,Ungrouped
+Fensterzustand,-1,Ungrouped
+Feldstärkeindikator Sender 801kHz,-1,Ungrouped
+Fassadentemperatur,-1,Ungrouped
+fCnt,-1,Ungrouped
+Fe,-1,Ungrouped
+Fehler,-1,Ungrouped
+Feinstaub (number concentrations),-1,Ungrouped
+Feinstaub P10,-1,Ungrouped
+Feinstaub P2.5,-1,Ungrouped
+Feinstaub PM25,-1,Ungrouped
+Feinstaub PM4.0,-1,Ungrouped
+Feinstaub<10µm,-1,Ungrouped
+Fake Sensor3,-1,Ungrouped
+Feinstaub<2.5µm,-1,Ungrouped
+Feinstaubbelastung Pm2.5,-1,Ungrouped
+Feinstaubgehalt PM10,-1,Ungrouped
+Feinstaubgehalt PM2.5,-1,Ungrouped
+Feinstaubkonzentration <10µm,-1,Ungrouped
+"Feinstaubkonzentration <2,5µm",-1,Ungrouped
+FeinstaubPM10,-1,Ungrouped
+FeinstaubPM2.5,-1,Ungrouped
+Feinstaubsensor,-1,Ungrouped
+Feinstaubsensor PM10,-1,Ungrouped
+Feinstaubsensor PM2.5,-1,Ungrouped
+Feinstaubbelastung Pm10,-1,Ungrouped
+Hauptpumpe Ebbe Flut System,-1,Ungrouped
+HDD_temp1,-1,Ungrouped
+Heat energy output,-1,Ungrouped
+Ladestrom,-1,Ungrouped
+Ladezustand,-1,Ungrouped
+Ladung,-1,Ungrouped
+LAeq,-1,Ungrouped
+Laerm,-1,Ungrouped
+Lagerstand,-1,Ungrouped
+LAmax,-1,Ungrouped
+LAmin,-1,Ungrouped
+Laufzeit,-1,Ungrouped
+Lautstärke(Volk),-1,Ungrouped
+Lautstärkesensor,-1,Ungrouped
+LC.avg,-1,Ungrouped
+LC.max,-1,Ungrouped
+LC.min,-1,Ungrouped
+leasecount,-1,Ungrouped
+left nozzle,-1,Ungrouped
+Leihräder,-1,Ungrouped
+Leistung,-1,Ungrouped
+LeistungAktuell,-1,Ungrouped
+Leitfähigkeit,-1,Ungrouped
+Leitfähigkeit (EC),-1,Ungrouped
+LadenAktiv,-1,Ungrouped
+LA.avg,-1,Ungrouped
+Kühlgrenztemperatur (Wet Bulb),-1,Ungrouped
+kWh_HZ,-1,Ungrouped
+IoT1,-1,Ungrouped
+IoT2,-1,Ungrouped
+IoT3,-1,Ungrouped
+IoT4,-1,Ungrouped
+IoT5,-1,Ungrouped
+Iso-butane - C4H10,-1,Ungrouped
+J0,-1,Ungrouped
+J1,-1,Ungrouped
+J2,-1,Ungrouped
+J3,-1,Ungrouped
+Leitfähigkeit (Hochbeet),-1,Ungrouped
+Kabelfühler,-1,Ungrouped
+Kalibrierungswert (BME680),-1,Ungrouped
+Kapazität,-1,Ungrouped
+Kein Wert,-1,Ungrouped
+Kohlendioxyd,-1,Ungrouped
+Kohlenmonoxid,-1,Ungrouped
+Kompost Nutzer,-1,Ungrouped
+korrigierte Himmelstemperatur,-1,Ungrouped
+Kosteus,-1,Ungrouped
+Kupfer1,-1,Ungrouped
+Kupfer2,-1,Ungrouped
+Kalibrierungswert,-1,Ungrouped
+Ionizing radiation,-1,Ungrouped
+Leitwert,-1,Ungrouped
+level,-1,Ungrouped
+Load Current,-1,Ungrouped
+Load Power,-1,Ungrouped
+Load Voltage,-1,Ungrouped
+Local Atmos Pressure x 100,-1,Ungrouped
+Loft druk,-1,Ungrouped
+Logitude,-1,Ungrouped
+Lon,-1,Ungrouped
+Longtitude,-1,Ungrouped
+LORA signal,-1,Ungrouped
+LPG (Autogas),-1,Ungrouped
+Luchtvochtigheid,-1,Ungrouped
+Lufdruck,-1,Ungrouped
+Luftdruck (auf ca. 62 m),-1,Ungrouped
+Luftdruck (Cisnienie),-1,Ungrouped
+Luftdruck (DPS310),-1,Ungrouped
+Luftdruck (lokal),-1,Ungrouped
+Luftdruck (pressione),-1,Ungrouped
+Luftdruck (Sealevel),-1,Ungrouped
+Luftdruck (wew),-1,Ungrouped
+Luftdruck / Légnyomás,-1,Ungrouped
+Luftdruck [Pa],-1,Ungrouped
+load avg 15,-1,Ungrouped
+lng,-1,Ungrouped
+Living room temperature,-1,Ungrouped
+livello batteria,-1,Ungrouped
+level / test mode,-1,Ungrouped
+Licht (digital),-1,Ungrouped
+Licht Intensität,-1,Ungrouped
+Licht Sonne Ost,-1,Ungrouped
+Licht Sonne Süd,-1,Ungrouped
+Licht Sonne West,-1,Ungrouped
+Licht-Stärke,-1,Ungrouped
+Lichtintensität,-1,Ungrouped
+Lichtintesität,-1,Ungrouped
+Lichtpegel,-1,Ungrouped
+leute,-1,Ungrouped
+Lichtstaerke,-1,Ungrouped
+Light (East),-1,Ungrouped
+Light (South),-1,Ungrouped
+Light (West),-1,Ungrouped
+Light sensor,-1,Ungrouped
+Light UV A,-1,Ungrouped
+Light Value,-1,Ungrouped
+Light VIS,-1,Ungrouped
+light visible,-1,Ungrouped
+Lightning Distance,-1,Ungrouped
+lightvalue,-1,Ungrouped
+Lichtstärke,-1,Ungrouped
+Pos,-1,Ungrouped
+Intensität der ultravioletten Strahlung,-1,Ungrouped
+Intensity Liquid,-1,Ungrouped
+HUM-SI7021,-1,Ungrouped
+Hum_BME680,-1,Ungrouped
+Hum_SCD30,-1,Ungrouped
+Hum_SCD40,-1,Ungrouped
+Hum_SHT31,-1,Ungrouped
+Human,-1,Ungrouped
+Humdity,-1,Ungrouped
+Humedad,-1,Ungrouped
+Humedad1,-1,Ungrouped
+Humi,-1,Ungrouped
+Humidade,-1,Ungrouped
+Humidade relativa,-1,Ungrouped
+Humidex,-1,Ungrouped
+Humidite,-1,Ungrouped
+Humidity / rel. Luftfeuchte,-1,Ungrouped
+Humidity BME,-1,Ungrouped
+Humidity Outdoor (SHT31-D),-1,Ungrouped
+Humidity SCD030,-1,Ungrouped
+Humidity SHT31_4,-1,Ungrouped
+Humidity SHT31_5,-1,Ungrouped
+Humidity SHT31_6,-1,Ungrouped
+Hum,-1,Ungrouped
+Hukseflu,-1,Ungrouped
+Hitzeindex (rel. gefühlte Temperatur),-1,Ungrouped
+Hitzeindex,-1,Ungrouped
+Heat power P,-1,Ungrouped
+heatbed temperature,-1,Ungrouped
+Heating,-1,Ungrouped
+HECA humidity,-1,Ungrouped
+HECA temperature,-1,Ungrouped
+Heizung,-1,Ungrouped
+Heligkeit,-1,Ungrouped
+Helligkeit - Ost,-1,Ungrouped
+Helligkeit - Süd,-1,Ungrouped
+Helligkeit - West,-1,Ungrouped
+Humidity SHT31_7,-1,Ungrouped
+Helligkeit Nord (feste Gerätezuordnung),-1,Ungrouped
+Helligkeit Süd (feste Gerätezuordnung),-1,Ungrouped
+Helligkeit West (feste Gerätezuordnung),-1,Ungrouped
+"Helligkeit, größter Wert der 4 Einzelsensoren",-1,Ungrouped
+"Helligkeit, vektorielle Summe",-1,Ungrouped
+Hellikeit,-1,Ungrouped
+Hengitettävät hiukkaset PM10,-1,Ungrouped
+hhhh,-1,Ungrouped
+"Himmelstemperatur (grober, nicht korrigierter Wert)",-1,Ungrouped
+Hintergrund,-1,Ungrouped
+Hitze Index Temperatur Gültig wenn Lufttemperatur >26°C und rel.Feuchte >40%,-1,Ungrouped
+Helligkeit Ost (feste Gerätezuordnung),-1,Ungrouped
+Intensity Solid,-1,Ungrouped
+Humidity SHT85_0,-1,Ungrouped
+"Humidity, ext",-1,Ungrouped
+Illuminance TSL,-1,Ungrouped
+Illumination,-1,Ungrouped
+Ilmankosteus,-1,Ungrouped
+Ilmanpaine,-1,Ungrouped
+Inbox temperature,-1,Ungrouped
+IndexUV,-1,Ungrouped
+InDoor,-1,Ungrouped
+Infrarot,-1,Ungrouped
+Infrarotstrahlung,-1,Ungrouped
+Innenfeuchtigkeit,-1,Ungrouped
+Innenluftraumqualität,-1,Ungrouped
+Innenraumluftqualitaet,-1,Ungrouped
+Innenraumluftqualität,-1,Ungrouped
+Innentemperatur,-1,Ungrouped
+Innentemperatur Sensebox,-1,Ungrouped
+Inneraumluftqualität,-1,Ungrouped
+Inside box humidity,-1,Ungrouped
+Inside Device Humidity,-1,Ungrouped
+Inside Device Pressure,-1,Ungrouped
+Intensidade UV,-1,Ungrouped
+Intensity,-1,Ungrouped
+Illluminance,-1,Ungrouped
+IAQ Static,-1,Ungrouped
+IAQ (BME680),-1,Ungrouped
+IAQ,-1,Ungrouped
+"Humidity, int",-1,Ungrouped
+Humidity_SHT85,-1,Ungrouped
+HumiditySCD41,-1,Ungrouped
+HumiditySHT,-1,Ungrouped
+HumiditySHT_0,-1,Ungrouped
+HumiditySHT_1,-1,Ungrouped
+HumiditySHT_2,-1,Ungrouped
+HumiditySHT_3,-1,Ungrouped
+HumiditySHT_4,-1,Ungrouped
+HumiditySHT_5,-1,Ungrouped
+Humidity Влажность,-1,Ungrouped
+HumiditySHT_6,-1,Ungrouped
+Humidité,-1,Ungrouped
+Humidiy,-1,Ungrouped
+Hydrogen - H2,-1,Ungrouped
+Hygrométrie,-1,Ungrouped
+Höhe,-1,Ungrouped
+Höhe (barometisch),-1,Ungrouped
+Частицы PM10,-1,Ungrouped
+Höhen,-1,Ungrouped
+Höhenmeter,-1,Ungrouped
+Húmidade Relativa,-1,Ungrouped
+HumiditySHT_7,-1,Ungrouped
+Position,-1,Ungrouped
+Power consumption,-1,Ungrouped
+Power energy input,-1,Ungrouped
+Temperatur_SHT85,-1,Ungrouped
+Temperatur_Um,-1,Ungrouped
+Temperatura (Temperatur),-1,Ungrouped
+Temperatura czujnika,-1,Ungrouped
+Temperatura pokojowa,-1,Ungrouped
+Temperatura w szklarni,-1,Ungrouped
+Temperatura zewnętrzna,-1,Ungrouped
+Temperatura1,-1,Ungrouped
+Temperatura_0,-1,Ungrouped
+Temperatura_1,-1,Ungrouped
+TemperaturBME,-1,Ungrouped
+Temperaturdifferenz,-1,Ungrouped
+Temperature & Humidity,-1,Ungrouped
+Temperature (3.4°C offset),-1,Ungrouped
+Temperature / Lufttemperatur,-1,Ungrouped
+Temperature [AIR],-1,Ungrouped
+"Temperature [Water, -1m]",-1,Ungrouped
+Temperature BME,-1,Ungrouped
+Temperature Indoor (DS18B20),-1,Ungrouped
+Temperature of the sky (IR),-1,Ungrouped
+Temperature Outdoor (DS18B20),-1,Ungrouped
+Temperatur_intern,-1,Ungrouped
+Temperature T61,-1,Ungrouped
+Temperatur_DHT22,-1,Ungrouped
+Temperatur_4,-1,Ungrouped
+Temperatur3,-1,Ungrouped
+Temperatur4,-1,Ungrouped
+Temperatur5,-1,Ungrouped
+Temperatur6,-1,Ungrouped
+Temperatur7,-1,Ungrouped
+Temperatur8,-1,Ungrouped
+Temperatur9,-1,Ungrouped
+Temperatur_01,-1,Ungrouped
+Temperatur_02,-1,Ungrouped
+Temperatur_03,-1,Ungrouped
+Temperatur_04,-1,Ungrouped
+Temperatur_05,-1,Ungrouped
+Temperatur_06,-1,Ungrouped
+Temperatur_07,-1,Ungrouped
+Temperatur_08,-1,Ungrouped
+Temperatur_09,-1,Ungrouped
+Temperatur_1,-1,Ungrouped
+Temperatur_10,-1,Ungrouped
+Temperatur_11,-1,Ungrouped
+Temperatur_2,-1,Ungrouped
+Temperatur_3,-1,Ungrouped
+Temperatur_BMP280,-1,Ungrouped
+Temperature T62,-1,Ungrouped
+Temperature T63,-1,Ungrouped
+Temperature T64,-1,Ungrouped
+TemperaturSHT_6,-1,Ungrouped
+TemperaturSHT_7,-1,Ungrouped
+TemperaturSHTC1,-1,Ungrouped
+Temperture,-1,Ungrouped
+Tempreature,-1,Ungrouped
+Temptest,-1,Ungrouped
+Température,-1,Ungrouped
+température air,-1,Ungrouped
+Tendenz,-1,Ungrouped
+Tenperature,-1,Ungrouped
+Tensio,-1,Ungrouped
+Test Temperature,-1,Ungrouped
+Test-Luftfeuchte,-1,Ungrouped
+Test-Temp,-1,Ungrouped
+test1,-1,Ungrouped
+test2,-1,Ungrouped
+test3,-1,Ungrouped
+test4,-1,Ungrouped
+test_data,-1,Ungrouped
+Testdata,-1,Ungrouped
+Testsensor,-1,Ungrouped
+TemperaturSHT_5,-1,Ungrouped
+TemperaturSHT_4,-1,Ungrouped
+TemperaturSHT_3,-1,Ungrouped
+TemperaturSHT_2,-1,Ungrouped
+"Temperature, BME280",-1,Ungrouped
+"Temperature, BMP180",-1,Ungrouped
+"Temperature, ext",-1,Ungrouped
+"Temperature, HTU21D",-1,Ungrouped
+"Temperature, int",-1,Ungrouped
+Temperature_in_1,-1,Ungrouped
+Temperature_in_2,-1,Ungrouped
+Temperature_out_1,-1,Ungrouped
+Temperature_out_2,-1,Ungrouped
+TemperatureBME280,-1,Ungrouped
+Temperatur2 (DPS310),-1,Ungrouped
+temperatureCelsius,-1,Ungrouped
+temperatureSHT,-1,Ungrouped
+TemperaturHDC,-1,Ungrouped
+TemperaturPT1000,-1,Ungrouped
+TemperaturSCD,-1,Ungrouped
+TemperaturSCD41,-1,Ungrouped
+Temperatursensor,-1,Ungrouped
+TemperaturSHT,-1,Ungrouped
+TemperaturSHT31,-1,Ungrouped
+TemperaturSHT_0,-1,Ungrouped
+TemperaturSHT_1,-1,Ungrouped
+TemperatureSCD41,-1,Ungrouped
+Temperatur2,-1,Ungrouped
+Temperatur10,-1,Ungrouped
+Temperatur1,-1,Ungrouped
+Temperatur (HECA) temperatura,-1,Ungrouped
+Temperatur (Hochbeet),-1,Ungrouped
+Temperatur (im Gebäude ohne unmittelbare Sonneneinstrahlung),-1,Ungrouped
+Temperatur (Inbox),-1,Ungrouped
+Temperatur (Kräutergarten),-1,Ungrouped
+Temperatur (MCP9808),-1,Ungrouped
+Temperatur (Mittelwert),-1,Ungrouped
+Temperatur (Outbox),-1,Ungrouped
+Temperatur (raw),-1,Ungrouped
+Temperatur (senseBox MCU),-1,Ungrouped
+Temperatur (SHT35),-1,Ungrouped
+Temperatur (SHT3x),-1,Ungrouped
+Temperatur (SI7051),-1,Ungrouped
+Temperatur (TSYS01),-1,Ungrouped
+Temperatur (wew),-1,Ungrouped
+Temperatur (zew),-1,Ungrouped
+Temperatur - Messfühler,-1,Ungrouped
+Temperatur / Hőmérséklet,-1,Ungrouped
+Temperatur 1.5m,-1,Ungrouped
+Temperatur 2m,-1,Ungrouped
+Temperatur 5cm,-1,Ungrouped
+Temperatur (HECA) temp. wlot czujnika,-1,Ungrouped
+Temperatur (HECA) komora,-1,Ungrouped
+Temperatur (Gerät),-1,Ungrouped
+Temperatur (drinnen),-1,Ungrouped
+Temp_02,-1,Ungrouped
+Temp_03,-1,Ungrouped
+Temp_04,-1,Ungrouped
+Temp_Black,-1,Ungrouped
+Temp_BME680,-1,Ungrouped
+Temp_Red,-1,Ungrouped
+Temp_SCD30,-1,Ungrouped
+Temp_SCD40,-1,Ungrouped
+Temp_SHT31,-1,Ungrouped
+Temp_White,-1,Ungrouped
+Temperatur AM2301,-1,Ungrouped
+TempAir,-1,Ungrouped
+TempAnalog2,-1,Ungrouped
+Temparatur,-1,Ungrouped
+Temparature,-1,Ungrouped
+TempDS18B20,-1,Ungrouped
+Tempe,-1,Ungrouped
+Temperatur ( Temperatura Powietrza ),-1,Ungrouped
+Temperatur (1m über dem Boden),-1,Ungrouped
+Temperatur (am CO2 Sensor),-1,Ungrouped
+Temperatur (aussen),-1,Ungrouped
+Temperatur (DPS310),-1,Ungrouped
+TempAnalog1,-1,Ungrouped
+Testwer1,-1,Ungrouped
+Temperatur Am2320,-1,Ungrouped
+Temperatur BMP 180,-1,Ungrouped
+Temperatur SFA30,-1,Ungrouped
+Temperatur SHT,-1,Ungrouped
+Temperatur SHT31_2,-1,Ungrouped
+Temperatur SHT31_3,-1,Ungrouped
+Temperatur SHTC1,-1,Ungrouped
+Temperatur System,-1,Ungrouped
+Temperatur Tagesmittelwert,-1,Ungrouped
+Temperatur Terrasse,-1,Ungrouped
+Temperatur TV,-1,Ungrouped
+Temperatur Umgebung,-1,Ungrouped
+Temperatur Umkleide,-1,Ungrouped
+Temperatur Unten Eingang,-1,Ungrouped
+Temperatur Vorratsraum,-1,Ungrouped
+Temperatur Wasser,-1,Ungrouped
+Temperatur Wetterhütte,-1,Ungrouped
+Temperatur(Beute),-1,Ungrouped
+Temperatur(mit Windeinfluss),-1,Ungrouped
+Temperatur(ohne Windeinfluss),-1,Ungrouped
+Temperatur(Waabe),-1,Ungrouped
+"Temperatur, SHT85_4",-1,Ungrouped
+"Temperatur, SHT85_5",-1,Ungrouped
+Temperatur Sensirion,-1,Ungrouped
+Temperatur Schlafzimmer,-1,Ungrouped
+Temperatur SCD030,-1,Ungrouped
+Temperatur Pi,-1,Ungrouped
+Temperatur BMP085,-1,Ungrouped
+Temperatur BMP180,-1,Ungrouped
+Temperatur BOX2,-1,Ungrouped
+Temperatur Chill,-1,Ungrouped
+Temperatur Device,-1,Ungrouped
+Temperatur DHT11 BOX3,-1,Ungrouped
+Temperatur DHT11 BOX4,-1,Ungrouped
+Temperatur DPS,-1,Ungrouped
+Temperatur ESP32,-1,Ungrouped
+Temperatur Feinstaubsensor- Sonnig,-1,Ungrouped
+Temperatur BME,-1,Ungrouped
+Temperatur Gewaechshaus,-1,Ungrouped
+Temperatur HTU21D,-1,Ungrouped
+Temperatur II,-1,Ungrouped
+Temperatur im Gehäuse,-1,Ungrouped
+Temperatur im Nistkasten,-1,Ungrouped
+Temperatur in Messstation,-1,Ungrouped
+Temperatur Kraftraum,-1,Ungrouped
+Temperatur mit BMP180,-1,Ungrouped
+Temperatur Motor,-1,Ungrouped
+Temperatur MPL3115A2,-1,Ungrouped
+Temperatur Oben Geländer,-1,Ungrouped
+Temperatur HDC1008,-1,Ungrouped
+Testwert2,-1,Ungrouped
+Teмnepaтypa,-1,Ungrouped
+Thunderstorm Distance,-1,Ungrouped
+WiFi - SSID´s,-1,Ungrouped
+WIFI Geräte,-1,Ungrouped
+wifi-stations,-1,Ungrouped
+WifiSignalStrength,-1,Ungrouped
+Wilgotnosc,-1,Ungrouped
+Wilgotność (rel. Luftfeuchte),-1,Ungrouped
+Wind (3min average),-1,Ungrouped
+Wind aus,-1,Ungrouped
+Wind average Speed,-1,Ungrouped
+Wind direction WEST=270° SOUTH=180°,-1,Ungrouped
+Wind Direction_Davis,-1,Ungrouped
+Wind Geschwindigkeit,-1,Ungrouped
+Wind gusts (10 s average),-1,Ungrouped
+Wind speed avg,-1,Ungrouped
+Wind speed max.,-1,Ungrouped
+Wind Speed_Davis,-1,Ungrouped
+WIND VELOCITY,-1,Ungrouped
+WindBoe,-1,Ungrouped
+Windböe,-1,Ungrouped
+Windböen,-1,Ungrouped
+Windchill,-1,Ungrouped
+Wiatr,-1,Ungrouped
+Wgt,-1,Ungrouped
+Wgn,-1,Ungrouped
+Wert,-1,Ungrouped
+Waldbrandwarnstufe,-1,Ungrouped
+Wasser Kühlung/Heizer,-1,Ungrouped
+Wasser Leitfähigkeit,-1,Ungrouped
+Wasser pH,-1,Ungrouped
+Wasser Reserve,-1,Ungrouped
+Wasser Sauerstoffgehalt,-1,Ungrouped
+Wasserdampfkonzentration,-1,Ungrouped
+Wasserdruck,-1,Ungrouped
+Wassermelder,-1,Ungrouped
+Wasserpegel,-1,Ungrouped
+Windchill Temperatur Gültig wenn Lufttemperatur <10°C,-1,Ungrouped
+Wasserstand,-1,Ungrouped
+Wassertemperatur Bach,-1,Ungrouped
+Wassertemperatur im Inn,-1,Ungrouped
+Wassertemperatur Quelle,-1,Ungrouped
+Wassertemperatur Teich,-1,Ungrouped
+Wassertempertaur,-1,Ungrouped
+Water flow F,-1,Ungrouped
+Water Pressure,-1,Ungrouped
+Waterflow Speed,-1,Ungrouped
+Waterflow Volume,-1,Ungrouped
+Weißer Temperaturfühler,-1,Ungrouped
+Wassertemperatuer,-1,Ungrouped
+Vögel pro Minute,-1,Ungrouped
+Windgeschwindigkeit (Avg/min),-1,Ungrouped
+Windgeschwindigkeit Av,-1,Ungrouped
+Zähler03,-1,Ungrouped
+Zähler04,-1,Ungrouped
+Zähler05,-1,Ungrouped
+Äquivalenter Dauerschallpegel (LAeq),-1,Ungrouped
+Độ mặn,-1,Ungrouped
+Độ ẩm không khí,-1,Ungrouped
+Влажност rel. Luftfeuchte,-1,Ungrouped
+Влажность,-1,Ungrouped
+відн. Вологість\rel. Humidity\rel. Luftfeuchte,-1,Ungrouped
+Давление,-1,Ungrouped
+Налягане Luftdruck,-1,Ungrouped
+Направление ветра,-1,Ungrouped
+Прахови частици PM10,-1,Ungrouped
+Прахови частици PM2.5,-1,Ungrouped
+Радиация,-1,Ungrouped
+Скорость ветра,-1,Ungrouped
+Температура,-1,Ungrouped
+Температура Temperatur,-1,Ungrouped
+температура\temperature\Temperatur,-1,Ungrouped
+Тиск повітря\Air pressure\Luftdruck,-1,Ungrouped
+Трудности с дыханием,-1,Ungrouped
+Zähler02,-1,Ungrouped
+Zähler01,-1,Ungrouped
+Zähler,-1,Ungrouped
+Zirkulatinspumpe,-1,Ungrouped
+Windgeschwindigkeit Böe,-1,Ungrouped
+"Windgeschwindigkeit, Davies",-1,Ungrouped
+Windkracht,-1,Ungrouped
+Windrichtung (Böen),-1,Ungrouped
+Windrichtung (Mittel),-1,Ungrouped
+Windrichtung der Böe,-1,Ungrouped
+"Windrichtung, Davies",-1,Ungrouped
+Windrichtungsbreite,-1,Ungrouped
+Windstaerke,-1,Ungrouped
+Windsterkte,-1,Ungrouped
+Windgeschwindigkeit (mittel),-1,Ungrouped
+Windstärke,-1,Ungrouped
+Wlan RSSI,-1,Ungrouped
+Wlan Status,-1,Ungrouped
+WLAN-Feldstärke,-1,Ungrouped
+Wysokość względna,-1,Ungrouped
+Wägezelle_01,-1,Ungrouped
+Wägezelle_02,-1,Ungrouped
+Wägezelle_03,-1,Ungrouped
+Wägezelle_04,-1,Ungrouped
+x,-1,Ungrouped
+Yellow,-1,Ungrouped
+Winrichtung,-1,Ungrouped
+Temp_01,-1,Ungrouped
+Vtronix VH400 04,-1,Ungrouped
+Vtronix VH400 02,-1,Ungrouped
+TVOCSPG30,-1,Ungrouped
+Tämberadur,-1,Ungrouped
+UBatt,-1,Ungrouped
+UFS,-1,Ungrouped
+Ugn,-1,Ungrouped
+Ultraschall,-1,Ungrouped
+Ultraviolet,-1,Ungrouped
+UltraVioletA,-1,Ungrouped
+UltraVioletB,-1,Ungrouped
+UltraVioletIndex,-1,Ungrouped
+Umgebungshelligkeit,-1,Ungrouped
+Umgebungslautstärke,-1,Ungrouped
+Umgebungslicht,-1,Ungrouped
+Umgebungslichtstärke,-1,Ungrouped
+Umgebungslärm,-1,Ungrouped
+Umgebungsstrahlung,-1,Ungrouped
+Umgebungsstrahlung CPM,-1,Ungrouped
+Umgebungstemperatur,-1,Ungrouped
+Umidade,-1,Ungrouped
+Umidade Relativa,-1,Ungrouped
+Umiditate,-1,Ungrouped
+TVOC(Total Volatile Organic Compounds),-1,Ungrouped
+Tuerschlaege,-1,Ungrouped
+TSL25911 - lux,-1,Ungrouped
+TSL25911 - Infra red,-1,Ungrouped
+Thunderstorm Energie,-1,Ungrouped
+Time,-1,Ungrouped
+Time WiFi,-1,Ungrouped
+time_left:,-1,Ungrouped
+TimeFromInternet 25,-1,Ungrouped
+timeRaw,-1,Ungrouped
+timeSinceStart,-1,Ungrouped
+tmp,-1,Ungrouped
+Tmperature,-1,Ungrouped
+Total Consumed Energy,-1,Ungrouped
+Umidity,-1,Ungrouped
+Total Devices,-1,Ungrouped
+total_num_people,-1,Ungrouped
+TPS,-1,Ungrouped
+traffic-rx,-1,Ungrouped
+traffic-tx,-1,Ungrouped
+Transmitter00,-1,Ungrouped
+Transmitter01,-1,Ungrouped
+Trübung,-1,Ungrouped
+Trübung (Durchlicht),-1,Ungrouped
+Trübung (Streulicht),-1,Ungrouped
+TSL25911 - Full light,-1,Ungrouped
+Total Generated Energy,-1,Ungrouped
+Vtronix VH400 03,-1,Ungrouped
+Umidità,-1,Ungrouped
+Umwelt,-1,Ungrouped
+Vento,-1,Ungrouped
+Verkehrsdichte,-1,Ungrouped
+Versorgungspannung,-1,Ungrouped
+Versorgungsspannung,-1,Ungrouped
+vertikale Windgeschwindigkeit,-1,Ungrouped
+Violet,-1,Ungrouped
+Visibility,-1,Ungrouped
+vitesse du vent,-1,Ungrouped
+VOC estimated,-1,Ungrouped
+vochtigheid,-1,Ungrouped
+"VOCs (HCHO,toluene, benzene, alcohol)",-1,Ungrouped
+VOCSVM30,-1,Ungrouped
+Volatile Organic Components,-1,Ungrouped
+Volt-In,-1,Ungrouped
+volt_sweep_oc,-1,Ungrouped
+Voltage,-1,Ungrouped
+Voltage Battery,-1,Ungrouped
+Volume,-1,Ungrouped
+Volumetrischer Wassergehalt (VW),-1,Ungrouped
+Vorlauftemperatur,-1,Ungrouped
+Vtronix VH400 01,-1,Ungrouped
+Ventil opened,-1,Ungrouped
+Vent,-1,Ungrouped
+VEML6075 - UVB,-1,Ungrouped
+VEML6075 - UVA,-1,Ungrouped
+Unit status,-1,Ungrouped
+uptime,-1,Ungrouped
+uptime_ms,-1,Ungrouped
+UR,-1,Ungrouped
+UV Index (UVM30A),-1,Ungrouped
+UV Intensity TSL,-1,Ungrouped
+UV pro cm²,-1,Ungrouped
+UV Stärke,-1,Ungrouped
+UV-Einstrahlung,-1,Ungrouped
+UV-Intensität [µW/m²],-1,Ungrouped
+Umidità Relativa,-1,Ungrouped
+UVA,-1,Ungrouped
+UVB,-1,Ungrouped
+UVB-Strahlung,-1,Ungrouped
+UVmeter,-1,Ungrouped
+V_bat,-1,Ungrouped
+V_in,-1,Ungrouped
+Valaistuksen voimakkuus,-1,Ungrouped
+Valaistusvoimakkuus,-1,Ungrouped
+Valoisuus,-1,Ungrouped
+Valomäärä,-1,Ungrouped
+Valonmäärä,-1,Ungrouped
+UVA-Strahlung,-1,Ungrouped
+Distanz(zur Wasseroberfläche),-1,Ungrouped
+temp2,-1,Ungrouped
+Temp/RH,-1,Ungrouped
+rel. Luftfeuchte ( Wilgotnosć HECA ),-1,Ungrouped
+rel. Luftfeuchte ( Wilgotnosć Powietrza ),-1,Ungrouped
+rel. Luftfeuchte (Gerät),-1,Ungrouped
+rel. Luftfeuchte (HECA) wilg. wlot czujnika,-1,Ungrouped
+rel. Luftfeuchte (HECA) Wilgotność powietrza wlot do czujnika,-1,Ungrouped
+rel. Luftfeuchte (Humidity),-1,Ungrouped
+rel. Luftfeuchte (SHT3x),-1,Ungrouped
+rel. Luftfeuchte (umidità),-1,Ungrouped
+rel. Luftfeuchte (Wilgotnosc HECA),-1,Ungrouped
+rel. Luftfeuchte (Wilgotonosc),-1,Ungrouped
+rel. Luftfeuchte (zew),-1,Ungrouped
+rel. Luftfeuchte - in Box,-1,Ungrouped
+rel. Luftfeuchte / Páratartalom,-1,Ungrouped
+rel. Luftfeuchte 2m,-1,Ungrouped
+rel. Luftfeuchte BMP280,-1,Ungrouped
+rel. Luftfeuchte Gewaechshaus,-1,Ungrouped
+rel. Luftfeuchte Schlafzimmer,-1,Ungrouped
+rel. Luftfeuchte SHT,-1,Ungrouped
+rel. Luftfeuchte TV,-1,Ungrouped
+rel. Luftfeuchte Unten Eingang,-1,Ungrouped
+"rel. luftfeuchte, luftfeuchtigkeit, luftfeuchte",-1,Ungrouped
+"rel. Luftdruck bei NN, BME280",-1,Ungrouped
+"rel. Luftfeuchte, SHT31_0",-1,Ungrouped
+rel. Luftdruck,-1,Ungrouped
+rel. Helligkeit,-1,Ungrouped
+Regen Jahr,-1,Ungrouped
+Regen letzte 24h,-1,Ungrouped
+Regen letzte Stunde,-1,Ungrouped
+Regen Monat,-1,Ungrouped
+Regen Tag,-1,Ungrouped
+Regen Woche,-1,Ungrouped
+Regen-Rate,-1,Ungrouped
+Regendaten,-1,Ungrouped
+Regenintensität,-1,Ungrouped
+Regenmenge,-1,Ungrouped
+Regenmenge [mm/m²],-1,Ungrouped
+Regenmenge in den letzten 15min,-1,Ungrouped
+Regenmenge pro Tag,-1,Ungrouped
+Regenmenge Vortag,-1,Ungrouped
+Regenrate,-1,Ungrouped
+Regenrate (10 min Mittelw.),-1,Ungrouped
+Regensensor,-1,Ungrouped
+Regenwahrscheinlichkeit,-1,Ungrouped
+Rel. Feuchte unkorrigiert,-1,Ungrouped
+rel. Feuchtigkeit,-1,Ungrouped
+rel. Feuchtigkeit (aussen),-1,Ungrouped
+Rel. luchtvochtigheid,-1,Ungrouped
+"rel. Luftfeuchte, SHT31_1",-1,Ungrouped
+"rel. Luftfeuchte, SHT85_2",-1,Ungrouped
+"rel. Luftfeuchte, SHT85_3",-1,Ungrouped
+Reserve 1a,-1,Ungrouped
+Reserve 1b,-1,Ungrouped
+Reserve 2a,-1,Ungrouped
+Reserve 2b,-1,Ungrouped
+RH,-1,Ungrouped
+Richtung der Helligkeit,-1,Ungrouped
+right nozzle,-1,Ungrouped
+Risk of Infection(Testing data),-1,Ungrouped
+Rl Luftfeuchtigkeit,-1,Ungrouped
+Rohwert,-1,Ungrouped
+Roll vom Magnetkompass Winkel zwischen West- Ost zur Horizontalen,-1,Ungrouped
+Room temperature,-1,Ungrouped
+Roter Temperaturfühler,-1,Ungrouped
+RSSI (Empfangsstärke am Gateway),-1,Ungrouped
+RSSI Qualität,-1,Ungrouped
+s,-1,Ungrouped
+Sapflow_raw,-1,Ungrouped
+Sauerstoffkonzentration,-1,Ungrouped
+Sauerstoffsättigung (DO),-1,Ungrouped
+Saugspannungf im Boden,-1,Ungrouped
+SCD30 - Humidity,-1,Ungrouped
+Reserve,-1,Ungrouped
+RelHumidity,-1,Ungrouped
+relativer Luftdruck bezogen auf Meereshöhe,-1,Ungrouped
+relativer Luftdruck bei NN,-1,Ungrouped
+"rel. Luftfeuchte, SHT85_4",-1,Ungrouped
+"rel. Luftfeuchte, SHT85_5",-1,Ungrouped
+rel. Luftfeuchte_DHT22,-1,Ungrouped
+rel. Luftfeuchte_DHT22_defekt,-1,Ungrouped
+rel. LuftfeuchteHDC,-1,Ungrouped
+rel. Luftfeuchtigkeit - BME280,-1,Ungrouped
+Rel. Luftfeuchtigkeit Am2320,-1,Ungrouped
+rel. Luftfeuchtigkeit DHT22,-1,Ungrouped
+rel. Luftfeuchtigkeitn,-1,Ungrouped
+rel. Luftfeutigkeit,-1,Ungrouped
+Regen Ja (1) / Nein (0),-1,Ungrouped
+rel. Luftfreuchte,-1,Ungrouped
+rel.Luftfeuchte_3,-1,Ungrouped
+rel.Luftfeuchte_4,-1,Ungrouped
+rel.LuftfeuchtigkeitSCD,-1,Ungrouped
+rel.LuftfeuchtigkeitSHT,-1,Ungrouped
+rel.LuftfeuchtigkeitSHTC1,-1,Ungrouped
+relative Feuchte,-1,Ungrouped
+relative Feuchte im Raum,-1,Ungrouped
+relative Feuchtigkeit,-1,Ungrouped
+relative Luftfeuchtichkeit,-1,Ungrouped
+relative Luftfeuchtigkeit (am CO2 Sensor),-1,Ungrouped
+rel.Luftfeuchte_1,-1,Ungrouped
+Regen heute,-1,Ungrouped
+Regen dieser Monat,-1,Ungrouped
+Regen diese Woche,-1,Ungrouped
+Pumpe,-1,Ungrouped
+Pumpe/Kontroll LED,-1,Ungrouped
+PV Current,-1,Ungrouped
+PV Voltage,-1,Ungrouped
+PV_Voltage,-1,Ungrouped
+R1 CO2,-1,Ungrouped
+R1 humidity,-1,Ungrouped
+R1 PM10,-1,Ungrouped
+R1 PM2.5,-1,Ungrouped
+R1 temperature,-1,Ungrouped
+R2 CO2,-1,Ungrouped
+R2 humidity,-1,Ungrouped
+R2 temperature,-1,Ungrouped
+Radiation (min),-1,Ungrouped
+Radiation - Count,-1,Ungrouped
+Radiation - cpm - count per minute,-1,Ungrouped
+Radiation Curr Day,-1,Ungrouped
+Radiation Exposure,-1,Ungrouped
+Radiation gamma,-1,Ungrouped
+Radiations,-1,Ungrouped
+Radiationtube Discharges,-1,Ungrouped
+Pump running,-1,Ungrouped
+Prozessortemperatur,-1,Ungrouped
+Propane - C3H8,-1,Ungrouped
+print progress,-1,Ungrouped
+Power Generation,-1,Ungrouped
+Power meter hot water tank heater,-1,Ungrouped
+Power meter room heaters,-1,Ungrouped
+PRECIPITATION,-1,Ungrouped
+Precipitação,-1,Ungrouped
+pres,-1,Ungrouped
+Presence,-1,Ungrouped
+Presence-of-Flame,-1,Ungrouped
+Presion,-1,Ungrouped
+Pression,-1,Ungrouped
+Radiazioni Beta & Gamma Conteggi per Minuto,-1,Ungrouped
+pression air,-1,Ungrouped
+Pressione,-1,Ungrouped
+Pressione dell'aria,-1,Ungrouped
+Pressure (absolute),-1,Ungrouped
+Pressure (relative),-1,Ungrouped
+Pressure BMP085,-1,Ungrouped
+Pressure_BME680,-1,Ungrouped
+Pressure_RAW,-1,Ungrouped
+Pressão,-1,Ungrouped
+Pressão do Ar,-1,Ungrouped
+Prezenta-foc,-1,Ungrouped
+Pression Atmosphérique,-1,Ungrouped
+SCD30 - Temperature,-1,Ungrouped
+Radiazioni Beta & Gamma uSV/h,-1,Ungrouped
+Radioactivity dose rate,-1,Ungrouped
+Rauch,-1,Ungrouped
+Rauch|Gas,-1,Ungrouped
+Raumtemperatur,-1,Ungrouped
+raw,-1,Ungrouped
+Raw Humidity,-1,Ungrouped
+Raw Temperature,-1,Ungrouped
+RawTimeGPS,-1,Ungrouped
+RawTimeInternet,-1,Ungrouped
+Rayos UV,-1,Ungrouped
+RealFeel,-1,Ungrouped
+RealFeelC,-1,Ungrouped
+RealFeelF,-1,Ungrouped
+Realtime Electric Current usage,-1,Ungrouped
+realtive humidity,-1,Ungrouped
+Receiver02,-1,Ungrouped
+Red,-1,Ungrouped
+Reduced,-1,Ungrouped
+Reducing,-1,Ungrouped
+Ref,-1,Ungrouped
+Refrigerant liquid temperature T65,-1,Ungrouped
+Regen,-1,Ungrouped
+Random Sensor,-1,Ungrouped
+RainSensor Tippings,-1,Ungrouped
+Rainfall 5min,-1,Ungrouped
+Rainfall 24h,-1,Ungrouped
+Radioaktivität,-1,Ungrouped
+Rain (mm/min),-1,Ungrouped
+Rain 24h,-1,Ungrouped
+Rain amount,-1,Ungrouped
+Rain bin fill level,-1,Ungrouped
+Rain Curr. Day,-1,Ungrouped
+Rain day,-1,Ungrouped
+Rain Fall (24 Hour),-1,Ungrouped
+Rain Fall (One Hour),-1,Ungrouped
+Rain Intensity,-1,Ungrouped
+radioactivety,-1,Ungrouped
+Rain last Minute,-1,Ungrouped
+Rain per hour,-1,Ungrouped
+Rain Sensor,-1,Ungrouped
+Rain switch,-1,Ungrouped
+Rain Today,-1,Ungrouped
+RainAmount,-1,Ungrouped
+RainDaily,-1,Ungrouped
+Raindrops,-1,Ungrouped
+Rainfall,-1,Ungrouped
+Rainfall / in test mode,-1,Ungrouped
+Rainfall 1h,-1,Ungrouped
+Rain per day,-1,Ungrouped
+SCD30_H,-1,Ungrouped
+SCD30_humidity,-1,Ungrouped
+SCD30_T,-1,Ungrouped
+SQM,-1,Ungrouped
+Stand,-1,Ungrouped
+Stapellicht,-1,Ungrouped
+Starkregen,-1,Ungrouped
+Start counter,-1,Ungrouped
+Static IAQ,-1,Ungrouped
+Status,-1,Ungrouped
+Staub,-1,Ungrouped
+Staub 10 µm,-1,Ungrouped
+Staub 10µm,-1,Ungrouped
+Staub 2.5µm,-1,Ungrouped
+Stickoxid,-1,Ungrouped
+Stickoxid µg/m³,-1,Ungrouped
+Stickstoffdioxid,-1,Ungrouped
+stikstof,-1,Ungrouped
+Strahlenbelastung,-1,Ungrouped
+Strahlung,-1,Ungrouped
+Strom,-1,Ungrouped
+Strömungsgeschwindigkeit,-1,Ungrouped
+Sturmstärke,-1,Ungrouped
+Suhteellinen kosteus,-1,Ungrouped
+SPS30_TS,-1,Ungrouped
+SPS30_P10,-1,Ungrouped
+SPS30_P1,-1,Ungrouped
+SPS30_P0,-1,Ungrouped
+Soundlevel,-1,Ungrouped
+Southeast roof shingles temperature,-1,Ungrouped
+Southwest roof shingles temperature,-1,Ungrouped
+Spannung,-1,Ungrouped
+Spannung Batterie,-1,Ungrouped
+Spannung Solarzelle,-1,Ungrouped
+Spannung uC,-1,Ungrouped
+spare,-1,Ungrouped
+spare1,-1,Ungrouped
+spare2,-1,Ungrouped
+SVM30_co2,-1,Ungrouped
+spare3,-1,Ungrouped
+spare5,-1,Ungrouped
+SpareVar01,-1,Ungrouped
+SpareVar02,-1,Ungrouped
+SpareVar03,-1,Ungrouped
+"Spr,Fakt.",-1,Ungrouped
+Spread (Taupunktdifferenz),-1,Ungrouped
+SPS30,-1,Ungrouped
+SPS30_N1,-1,Ungrouped
+SPS30_N10,-1,Ungrouped
+SPS30_N25,-1,Ungrouped
+spare4,-1,Ungrouped
+Sonnenuntergang,-1,Ungrouped
+SVM30_ethanol,-1,Ungrouped
+SVM30_humidity,-1,Ungrouped
+Tagesniederschlag,-1,Ungrouped
+Tagesregenmenge,-1,Ungrouped
+TAMP3,-1,Ungrouped
+Tankfüllstand,-1,Ungrouped
+Tau Punkt / Dew Point,-1,Ungrouped
+Taupunkt,-1,Ungrouped
+Taupunkt (SHT31),-1,Ungrouped
+Taupunkt außen,-1,Ungrouped
+Taupunkt innen,-1,Ungrouped
+Taupunktdifferenz (Spread),-1,Ungrouped
+Taupunkttemperatur,-1,Ungrouped
+Temeratur BME280,-1,Ungrouped
+Temp - SCD30,-1,Ungrouped
+Temp 1 (HDC),-1,Ungrouped
+Temp HECA,-1,Ungrouped
+Temp ~ Air,-1,Ungrouped
+Temp ~ Battery,-1,Ungrouped
+TEMP-DS18b20,-1,Ungrouped
+TEMP-SI7021,-1,Ungrouped
+Temp. Boden,-1,Ungrouped
+Temp. Luft,-1,Ungrouped
+TagesLeistung,-1,Ungrouped
+T5 Temperature,-1,Ungrouped
+"T3, pond #4",-1,Ungrouped
+"T3, pond #30S (upper half)",-1,Ungrouped
+SVM30_tempearture,-1,Ungrouped
+SVM30_temperature,-1,Ungrouped
+SVM30_tvoc,-1,Ungrouped
+switch Tensio analog,-1,Ungrouped
+SWW Licht,-1,Ungrouped
+SWW Luftdruck BME680,-1,Ungrouped
+SWW Temperatur BME680,-1,Ungrouped
+SWW Temperatur SHT31,-1,Ungrouped
+SWW UV,-1,Ungrouped
+System - Computer via USB connected,-1,Ungrouped
+SVM30_h2,-1,Ungrouped
+System - Started / Restarted,-1,Ungrouped
+T,-1,Ungrouped
+"T0, probe 0 temperature",-1,Ungrouped
+T06,-1,Ungrouped
+"T1, air at groud level",-1,Ungrouped
+"T1, probe 1 temperature",-1,Ungrouped
+T2 Temperature,-1,Ungrouped
+"T2, pond #26, last but one stage",-1,Ungrouped
+"T2, pond #30N (lower half)",-1,Ungrouped
+T3 Temperature,-1,Ungrouped
+"T3, pond #26, last stage",-1,Ungrouped
+System Leistung,-1,Ungrouped
+temp1,-1,Ungrouped
+Sonnenstärke,-1,Ungrouped
+Sonnenstrahlung,-1,Ungrouped
+SDS_P1,-1,Ungrouped
+SDS_P2,-1,Ungrouped
+SealevelPressure,-1,Ungrouped
+sensor 4,-1,Ungrouped
+sensor10,-1,Ungrouped
+sensor5,-1,Ungrouped
+sensor6,-1,Ungrouped
+sensor8,-1,Ungrouped
+sensor9,-1,Ungrouped
+Sensor_1,-1,Ungrouped
+Sensor_2,-1,Ungrouped
+Sensor_3,-1,Ungrouped
+Sensor_4,-1,Ungrouped
+Sensortemperatur,-1,Ungrouped
+Sensorversorgung,-1,Ungrouped
+SFA30_hcho,-1,Ungrouped
+SFA30_humidity,-1,Ungrouped
+SFA30_temperature,-1,Ungrouped
+SHT31_humidity,-1,Ungrouped
+SHT31_temperature,-1,Ungrouped
+SHT3X_temperature,-1,Ungrouped
+SDS011_p25,-1,Ungrouped
+SDS011_P2.5,-1,Ungrouped
+SDS011 - PM2.5 - particulate matter,-1,Ungrouped
+SDS011 - PM10 - particulate matter,-1,Ungrouped
+SCD30_temperature,-1,Ungrouped
+SCD41_co2,-1,Ungrouped
+SCD41_co2_2,-1,Ungrouped
+SCD41_co2_3,-1,Ungrouped
+SCD41_humidity,-1,Ungrouped
+SCD41_humidity_2,-1,Ungrouped
+SCD41_humidity_3,-1,Ungrouped
+SCD41_temperature,-1,Ungrouped
+SCD41_temperature_2,-1,Ungrouped
+SCD41_temperature_3,-1,Ungrouped
+SHT85_5 Luftfeuchte A,-1,Ungrouped
+SCD41A_CO2,-1,Ungrouped
+SCD41A_T,-1,Ungrouped
+SCD41B_CO2,-1,Ungrouped
+SCD41B_H,-1,Ungrouped
+SCD41B_T,-1,Ungrouped
+Schall,-1,Ungrouped
+Schalldruckpegel,-1,Ungrouped
+Schallpegel,-1,Ungrouped
+Schwarzer Temperaturfühler,-1,Ungrouped
+Schwüle,-1,Ungrouped
+sdgoier,-1,Ungrouped
+SCD41A_H,-1,Ungrouped
+Sonnenstrahlung (0-1023),-1,Ungrouped
+SHT85_5 Lufttemperatur A,-1,Ungrouped
+SHT85_6 Lufttemperatur A,-1,Ungrouped
+Solar production,-1,Ungrouped
+Solar Radiation,-1,Ungrouped
+Solar Spannung,-1,Ungrouped
+Solar-Voltage,-1,Ungrouped
+SolarAmp,-1,Ungrouped
+SolarBattery,-1,Ungrouped
+Solare Globalstrahlung,-1,Ungrouped
+Solarpanel,-1,Ungrouped
+SolarPowerOK,-1,Ungrouped
+Solarstrahlungssensor,-1,Ungrouped
+Solarstrom,-1,Ungrouped
+Solartemperatur,-1,Ungrouped
+SolarVolt,-1,Ungrouped
+SolarWatts,-1,Ungrouped
+Solid Moisture,-1,Ungrouped
+Sonnenaufgang,-1,Ungrouped
+Sonneneinstrahlung,-1,Ungrouped
+Sonnensensor Referenz,-1,Ungrouped
+Sonnensensor Sonne,-1,Ungrouped
+Sonnenstand Azimut,-1,Ungrouped
+Sonnenstand Elevation,-1,Ungrouped
+Solar panel,-1,Ungrouped
+Solar Leistung,-1,Ungrouped
+Solar Irradiance,-1,Ungrouped
+Solar delta,-1,Ungrouped
+SI7021 Luftfeuchte,-1,Ungrouped
+SI7021 Temp,-1,Ungrouped
+Sichtbares Licht,-1,Ungrouped
+Signalstaerke,-1,Ungrouped
+Signalstärke,-1,Ungrouped
+Signalstärke (RSSI),-1,Ungrouped
+Siła wifi,-1,Ungrouped
+Sleep Time,-1,Ungrouped
+SMOG,-1,Ungrouped
+SMT50 Moisture,-1,Ungrouped
+SHT85_6 Luftfeuchte A,-1,Ungrouped
+SMT50 Temp,-1,Ungrouped
+Soil,-1,Ungrouped
+Soil fertility,-1,Ungrouped
+Soil moisture (30-sec average),-1,Ungrouped
+Soil moisture (now),-1,Ungrouped
+Soil moisture - Dan's plant,-1,Ungrouped
+Soil moisture - Gaetan's plant,-1,Ungrouped
+Soil moisture - middle plant,-1,Ungrouped
+Soil temperature,-1,Ungrouped
+Solar charger - Battery voltage (10600mAh),-1,Ungrouped
+Solar charger - Solar panel voltage (EDI-TRONIC 30W),-1,Ungrouped
+SNR,-1,Ungrouped
+Distanz rechts,-1,Ungrouped
+Частицы PM2.5,-1,Ungrouped
+Distanz Links,-1,Ungrouped
+Batterie02,-1,Ungrouped
+Batterie01,-1,Ungrouped
+20 SHT85_2,-1,Ungrouped
+20 SHT85_3,-1,Ungrouped
+Batterie Wassersensor,-1,Ungrouped
+Batterie Status,-1,Ungrouped
+20 SHT85_4,-1,Ungrouped
+20 SHT85_5,-1,Ungrouped
+Batterie Spannung,-1,Ungrouped
+Batterie Level,-1,Ungrouped
+Batterie Leistung,-1,Ungrouped
+20 SHT85_6,-1,Ungrouped
+20 VEML6070_Illuminance,-1,Ungrouped
+20 VEML6070_UV,-1,Ungrouped
+Batterie,-1,Ungrouped
+Batt,-1,Ungrouped
+Baterie,-1,Ungrouped
+barromatric pressure,-1,Ungrouped
+21,-1,Ungrouped
+21 Differential Pressure,-1,Ungrouped
+21 Humidity HDC1080,-1,Ungrouped
+Batterie03,-1,Ungrouped
+21 Temperature HDC1080,-1,Ungrouped
+Batterie04,-1,Ungrouped
+Batterieladung,-1,Ungrouped
+20 GPS_alt,-1,Ungrouped
+20 GPS_lat,-1,Ungrouped
+Battery Charging Power,-1,Ungrouped
+Battery Charging Current,-1,Ungrouped
+Battery Capacity,-1,Ungrouped
+20 GPS_long,-1,Ungrouped
+20 HDC1080_1,-1,Ungrouped
+Batteriestrom5,-1,Ungrouped
+Batteriestrom4,-1,Ungrouped
+Batteriestrom3,-1,Ungrouped
+Batteriestrom2,-1,Ungrouped
+Batteriestrom1,-1,Ungrouped
+Batteriestand,-1,Ungrouped
+Batteriespannung5,-1,Ungrouped
+Batteriespannung4,-1,Ungrouped
+Batteriespannung3,-1,Ungrouped
+20 SHT31_1,-1,Ungrouped
+20 SHT85_1,-1,Ungrouped
+Batteriespannung2,-1,Ungrouped
+Batteriespannung1,-1,Ungrouped
+Batteriespannung,-1,Ungrouped
+Batterie05,-1,Ungrouped
+22,-1,Ungrouped
+Barometer Pressure (BME280),-1,Ungrouped
+22 Davis Anemometer,-1,Ungrouped
+24 Temperature AM2320,-1,Ungrouped
+24 Temperature HDC,-1,Ungrouped
+Audio Noise Level,-1,Ungrouped
+25,-1,Ungrouped
+Audio,-1,Ungrouped
+25 rel. Luftfeuchte,-1,Ungrouped
+Attendance,-1,Ungrouped
+25 rel. Luftfeuchtigkeit SHT_1,-1,Ungrouped
+25 rel. Luftfeuchtigkeit SHT_2,-1,Ungrouped
+AtmLuftdruck,-1,Ungrouped
+atm. Pressure,-1,Ungrouped
+25 rel. Luftfeuchtigkeit SHT_3,-1,Ungrouped
+25 rel. Luftfeuchtigkeit SHT_4,-1,Ungrouped
+atm. LuftdruckBME,-1,Ungrouped
+25 Temperatur,-1,Ungrouped
+atm. Luftdruck2 BME,-1,Ungrouped
+25 Temperature SHT_1,-1,Ungrouped
+25 Temperature SHT_2,-1,Ungrouped
+25 Temperature SHT_3,-1,Ungrouped
+25 Temperature SHT_4,-1,Ungrouped
+26,-1,Ungrouped
+24 InternetTime,-1,Ungrouped
+24 Humidity HDC,-1,Ungrouped
+24 Humidity AM2320,-1,Ungrouped
+24,-1,Ungrouped
+22 Davis Anemometerdirection,-1,Ungrouped
+Barametric Pressure,-1,Ungrouped
+bar,-1,Ungrouped
+Background Radiation,-1,Ungrouped
+background,-1,Ungrouped
+B1 temperature,-1,Ungrouped
+B1 pressure,-1,Ungrouped
+B1 humidity,-1,Ungrouped
+Average Wind Speed (One Minute),-1,Ungrouped
+22 Luftdruck,-1,Ungrouped
+Battery percentage,-1,Ungrouped
+22 rel. Luftfeuchte,-1,Ungrouped
+Aussentemperatur,-1,Ungrouped
+22 Temperatur,-1,Ungrouped
+23,-1,Ungrouped
+AusrichtungVertikal,-1,Ungrouped
+23 GSP Satellites,-1,Ungrouped
+23 GSP Time,-1,Ungrouped
+AusrichtungHorizontal,-1,Ungrouped
+Auslastung,-1,Ungrouped
+23 Temperature HDC1080,-1,Ungrouped
+23 Temperature SHT85,-1,Ungrouped
+Außentemperatur,-1,Ungrouped
+20 Davis_Niederschlagssensor,-1,Ungrouped
+20 Davis_Anemometer_wind_speed,-1,Ungrouped
+20 Davis_Anemometer_wind_angle,-1,Ungrouped
+1A Humidity SHT31,-1,Ungrouped
+Blattnässe,-1,Ungrouped
+BF_5,-1,Ungrouped
+BF_40,-1,Ungrouped
+BF1,-1,Ungrouped
+Bewölkungsgrad,-1,Ungrouped
+1A HumiditySHT85_1,-1,Ungrouped
+1A HumiditySHT85_2,-1,Ungrouped
+Betriebsspannung,-1,Ungrouped
+Besuche,-1,Ungrouped
+Bestrahlungsstärke,-1,Ungrouped
+1A HumiditySHT85_3,-1,Ungrouped
+1A Lufttemperatur BME680,-1,Ungrouped
+1A Regensensor Niederschlag Davis,-1,Ungrouped
+1A Temperatur SHT31,-1,Ungrouped
+1A TemperatureSHT85_1,-1,Ungrouped
+1A TemperatureSHT85_2,-1,Ungrouped
+1A TemperatureSHT85_3,-1,Ungrouped
+1A UV Sensor VEML6070,-1,Ungrouped
+1A Windgschwindigkeit Anemometer Davis,-1,Ungrouped
+1A Windrichtung Anemometer Davis,-1,Ungrouped
+1A Humidity BME680,-1,Ungrouped
+Blei,-1,Ungrouped
+Blue,-1,Ungrouped
+Bluetooth,-1,Ungrouped
+17 LF Vernier3,-1,Ungrouped
+17A Humidity BME680,-1,Ungrouped
+17A Pressure BME680,-1,Ungrouped
+17A Temperature BME680,-1,Ungrouped
+BME680 - Temperature,-1,Ungrouped
+17B Humidity BME680,-1,Ungrouped
+17B Pressure BME680,-1,Ungrouped
+BME680 - Humidity,-1,Ungrouped
+BME680 - Altitude,-1,Ungrouped
+17B Temperature BME680,-1,Ungrouped
+1B CO2SCD30,-1,Ungrouped
+18,-1,Ungrouped
+18A Pressure BME680,-1,Ungrouped
+18A Temperature BME680,-1,Ungrouped
+18B Humidity BME680,-1,Ungrouped
+18B Pressure BME680,-1,Ungrouped
+18B Temperature BME680,-1,Ungrouped
+19,-1,Ungrouped
+1A CO2SCD30,-1,Ungrouped
+1A CO2SCD30_02,-1,Ungrouped
+1A CO2SCD30_03,-1,Ungrouped
+Bluetooth Geräte,-1,Ungrouped
+18A Humidity BME680,-1,Ungrouped
+27,-1,Ungrouped
+1B Humidity BME680,-1,Ungrouped
+1B HumiditySHT85_1,-1,Ungrouped
+2 Feinstaub mc1p0 SPS30,-1,Ungrouped
+2 Feinstaub mc2p5 SPS30,-1,Ungrouped
+Behälterinhalt,-1,Ungrouped
+2 Feinstaub mc4p0 SPS30,-1,Ungrouped
+2 Feinstaub nc0p5 SPS30,-1,Ungrouped
+Befehl,-1,Ungrouped
+bauteile,-1,Ungrouped
+Battery voltage (Solar charger),-1,Ungrouped
+Battery voltage (Arduino),-1,Ungrouped
+2 Feinstaub nc10p0 SPS30,-1,Ungrouped
+2 Feinstaub nc1p0 SPS30,-1,Ungrouped
+2 Feinstaub nc2p5 SPS30,-1,Ungrouped
+2 Feinstaub nc4p0 SPS30,-1,Ungrouped
+2 Feinstaub typical_particle_size SPS30,-1,Ungrouped
+2 Temperatur SVM30,-1,Ungrouped
+2 Windgeschwindigkeit Davis,-1,Ungrouped
+2 Windrichtung Davis,-1,Ungrouped
+2 WindSensor WindAngle,-1,Ungrouped
+2 WindSensor WindSpeedInMetersPerSecond,-1,Ungrouped
+Battery Temperatur,-1,Ungrouped
+20,-1,Ungrouped
+Belechtungsstärke,-1,Ungrouped
+Belegt,-1,Ungrouped
+Belegung der E-Bike Garage,-1,Ungrouped
+Beleuchtung,-1,Ungrouped
+1B HumiditySHT85_2,-1,Ungrouped
+1B HumiditySHT85_3,-1,Ungrouped
+1B Lufttemperatur BME680,-1,Ungrouped
+Beschleunigung (Gesamt),-1,Ungrouped
+1B Regensensor Niederschlag Davis,-1,Ungrouped
+Belüftung,-1,Ungrouped
+Beleuchtungstärke,-1,Ungrouped
+1B Temperatur SHT31,-1,Ungrouped
+1B TemperatureSHT85_1,-1,Ungrouped
+Beleuchtungsstärke LUX,-1,Ungrouped
+1B Humidity SHT31,-1,Ungrouped
+Beleuchtungsstärke in Lux,-1,Ungrouped
+Beleuchtungsstärke [lx],-1,Ungrouped
+1B TemperatureSHT85_2,-1,Ungrouped
+1B TemperatureSHT85_3,-1,Ungrouped
+1B UV Sensor VEML6070,-1,Ungrouped
+Beleuchtung sichtbar,-1,Ungrouped
+1B Windgschwindigkeit Anemometer Davis,-1,Ungrouped
+1B Windrichtung Anemometer Davis,-1,Ungrouped
+1istOK,-1,Ungrouped
+2,-1,Ungrouped
+2 Feinstaub mc10p0 SPS30,-1,Ungrouped
+Beleuchtungsstärke des sichtbaren Lichts,-1,Ungrouped
+28,-1,Ungrouped
+29,-1,Ungrouped
+3,-1,Ungrouped
+7 Temperature HDC 1080,-1,Ungrouped
+7_Rain_Intensity_DavisRainCollectorII,-1,Ungrouped
+7A atm. Luftdruck,-1,Ungrouped
+7A Lab Grade Dissolved Oxygen Probe Atlas Scientific,-1,Ungrouped
+7A Lab Grade pH Probe Atlas Scientific,-1,Ungrouped
+7A Lufttemperatur,-1,Ungrouped
+7A Temperature Atlas Scientific PT-1000,-1,Ungrouped
+7A Temperature SHT31,-1,Ungrouped
+7A VOC,-1,Ungrouped
+7B atm. Luftdruck,-1,Ungrouped
+7B Lufttemperatur,-1,Ungrouped
+7B Temperatur SHT31,-1,Ungrouped
+7B VOC,-1,Ungrouped
+Active probes,-1,Ungrouped
+accZ,-1,Ungrouped
+accY,-1,Ungrouped
+8,-1,Ungrouped
+8a Conductivity Probe Atlas Scientific,-1,Ungrouped
+8a DO Atlas Scientific,-1,Ungrouped
+8a Luftdruck BME680,-1,Ungrouped
+8a Luftfeuchtigkeit BME680,-1,Ungrouped
+7 Humidity HDC 1080,-1,Ungrouped
+7 GPS amsl,-1,Ungrouped
+7,-1,Ungrouped
+6 Niederschalgsmenge,-1,Ungrouped
+Air Pressure (Measured),-1,Ungrouped
+4B Windgeschwindigkeit,-1,Ungrouped
+4B Windrichtung,-1,Ungrouped
+5,-1,Ungrouped
+5A Humidity BME680,-1,Ungrouped
+5A Humidity SHT31_0,-1,Ungrouped
+5A Humidity SHT31_3,-1,Ungrouped
+5A Illumnation TSL45315,-1,Ungrouped
+5A Rainfall Davis,-1,Ungrouped
+5A Temperature BME680,-1,Ungrouped
+accX,-1,Ungrouped
+5A Temperature SHT31_0,-1,Ungrouped
+5A Temperature SHT85_1,-1,Ungrouped
+5A Temperature SHT85_2,-1,Ungrouped
+5A UV-Radiation VEML6070,-1,Ungrouped
+Air Preassure,-1,Ungrouped
+5e90d07cdf8258001b2fb430,-1,Ungrouped
+6,-1,Ungrouped
+6 Average Humidity,-1,Ungrouped
+6 Averange Temperature,-1,Ungrouped
+Air humidity,-1,Ungrouped
+6 Internet Time,-1,Ungrouped
+5A Temperature SHT31_3,-1,Ungrouped
+4B UV VEML6070,-1,Ungrouped
+8a Temperatur BME680,-1,Ungrouped
+8b atm. Luftdruck,-1,Ungrouped
+9b Temperatur,-1,Ungrouped
+9b rel. Luftfeuchte,-1,Ungrouped
+9A atm. Luftdruck,-1,Ungrouped
+9b Lufttemperatur,-1,Ungrouped
+9A Luftfeuchte,-1,Ungrouped
+9A Lufttemperatur,-1,Ungrouped
+9b Luftfeuchte,-1,Ungrouped
+9A ph,-1,Ungrouped
+9b atm. Luftdruck,-1,Ungrouped
+9A rel. Luftfeuchte,-1,Ungrouped
+9A_VOC,-1,Ungrouped
+9A Temperatur,-1,Ungrouped
+9A_UV Intensity,-1,Ungrouped
+9A_Dexolved Oxygen AtlasScientific,-1,Ungrouped
+9A_Humidity BME680,-1,Ungrouped
+9A_UV Index,-1,Ungrouped
+9A_Temperature SHT31 flex,-1,Ungrouped
+9A_Temperature PT1000,-1,Ungrouped
+9A_Humidity SHT31 flex,-1,Ungrouped
+9A_Illuminance,-1,Ungrouped
+9A_Temperature BME680,-1,Ungrouped
+[BME280] Cisnienie atm. (Luftdruck),-1,Ungrouped
+[BME280] Temperatura,-1,Ungrouped
+[BME280] Wilgotnosc pow. (rel. Luftfeuchte),-1,Ungrouped
+9,-1,Ungrouped
+8b Beleuchtungsstärke Helligkeit,-1,Ungrouped
+8b Beleuchtungsstärke UV,-1,Ungrouped
+Acceleration,-1,Ungrouped
+8b DO Altas Scientific,-1,Ungrouped
+8b Feuchtesensor Sensirion SHT31_2,-1,Ungrouped
+8B Humidity BME680,-1,Ungrouped
+Abstand nach rechts,-1,Ungrouped
+8B Illuminance,-1,Ungrouped
+8b Luftfeuchte,-1,Ungrouped
+8b Lufttemperatur,-1,Ungrouped
+8A Temperatur2,-1,Ungrouped
+8B Pressure BME680,-1,Ungrouped
+Absoluter Luftdruck,-1,Ungrouped
+8B Temperature BME680,-1,Ungrouped
+8b Temperatursensor Sensirion SHT31_2,-1,Ungrouped
+Absolute Luftfeuchte,-1,Ungrouped
+Absolute Feuchte,-1,Ungrouped
+abs. Luftfeuchtigkeit,-1,Ungrouped
+abs. Luftfeuchte,-1,Ungrouped
+abs. Luftdruck,-1,Ungrouped
+abolute Feuchtigkeit,-1,Ungrouped
+8b VOC,-1,Ungrouped
+Abstand,-1,Ungrouped
+17 LF Vernier2,-1,Ungrouped
+4B Niederschlag,-1,Ungrouped
+4B Lufttemperatur SHT85_2,-1,Ungrouped
+3A Lufttemperatur,-1,Ungrouped
+3A Pressure BME680,-1,Ungrouped
+3A Temperature BME681,-1,Ungrouped
+3A Temperature SHT85_1,-1,Ungrouped
+Approx altitude,-1,Ungrouped
+3A Temperature SHT85_2,-1,Ungrouped
+3A Temperature SHT85_3,-1,Ungrouped
+Anzahl,-1,Ungrouped
+3b Beleuchtungsstärke,-1,Ungrouped
+3B Luftfeuchte BME680,-1,Ungrouped
+3b Luftfeuchtigkeit BME,-1,Ungrouped
+3b Luftfeuchtigkeit SHT31,-1,Ungrouped
+3B Pressure BME680,-1,Ungrouped
+3B Temperature BME680,-1,Ungrouped
+3B Temperature SHT85_1,-1,Ungrouped
+3B Temperature SHT85_2,-1,Ungrouped
+Anderer,-1,Ungrouped
+3B Temperature SHT85_3,-1,Ungrouped
+3b Windgeschwindigkeit,-1,Ungrouped
+4,-1,Ungrouped
+4 A atm. Air Pressure BME680,-1,Ungrouped
+3A Luftfeuchte,-1,Ungrouped
+3A Illuminance TSL45316,-1,Ungrouped
+3A Illuminance,-1,Ungrouped
+AQI 10,-1,Ungrouped
+3 TemperatureHDC1080,-1,Ungrouped
+Atlas Scientific - EC,-1,Ungrouped
+AtemluftVO2Aequiv,-1,Ungrouped
+30,-1,Ungrouped
+Atemluft VOC Äquivalent,-1,Ungrouped
+31,-1,Ungrouped
+Atemluft,-1,Ungrouped
+Assistenz Temperature SHT85,-1,Ungrouped
+Assistenz Temperature HDC1080,-1,Ungrouped
+Assistenz Humidity SHT85,-1,Ungrouped
+4 A Feinstaubsensor SPS30,-1,Ungrouped
+32,-1,Ungrouped
+Assistenz Humidity HDC1080,-1,Ungrouped
+AS3935 - Noise,-1,Ungrouped
+AS3935 - Lightnings distance (average),-1,Ungrouped
+AS3935 - Lightnings distance (avarage),-1,Ungrouped
+AS3935 - Lightnings counter,-1,Ungrouped
+AS3935 - Lightning Counter,-1,Ungrouped
+3A atm. Luftdruck,-1,Ungrouped
+3A Humidity BME680,-1,Ungrouped
+AQI Genauigkeit,-1,Ungrouped
+Distanz nach Links,-1,Ungrouped
+33,-1,Ungrouped
+4B Lufttfeuchte SHT31_1,-1,Ungrouped
+Amount of rain,-1,Ungrouped
+4A Helligkeit,-1,Ungrouped
+AkkuProzent,-1,Ungrouped
+Akkuladung,-1,Ungrouped
+Akku,-1,Ungrouped
+4A Lufttemperatur SHT85_4,-1,Ungrouped
+4A Lufttfeuchte SHT85_1,-1,Ungrouped
+4A Niederschlag,-1,Ungrouped
+4A Windgeschwindigkeit,-1,Ungrouped
+Air-Quality_BME680,-1,Ungrouped
+4A Windrichtung,-1,Ungrouped
+4B Luftfeuchte BME680,-1,Ungrouped
+4B Luftfeuchte SHT31_2,-1,Ungrouped
+4B Luftfeuchte SHT85_1,-1,Ungrouped
+4B Luftfeuchte SHT85_2,-1,Ungrouped
+4B Lufttemperatur BME680,-1,Ungrouped
+4B Lufttemperatur SHT31_1,-1,Ungrouped
+Air pressure on sea level,-1,Ungrouped
+"Air pressure / Luftdruck, BME280",-1,Ungrouped
+"Air pressure / Luftdruck,  BMP180",-1,Ungrouped
+Air Pressure (Reduction to Sea Level),-1,Ungrouped
+4B Lufttemperatur SHT31_2,-1,Ungrouped
+4B Lufttemperatur SHT85_1,-1,Ungrouped
+Akkusp.,-1,Ungrouped
+Akkuspannung,-1,Ungrouped
+Akkuspannung Terrasse,-1,Ungrouped
+Akkuspannung Unten Eingang,-1,Ungrouped
+4A Luftfeuchte BME680,-1,Ungrouped
+4A Luftfeuchte SHT31,-1,Ungrouped
+Ammoniak,-1,Ungrouped
+Ammonia - NH3,-1,Ungrouped
+AmbientLight,-1,Ungrouped
+4A Luftfeuchte SHT31_2,-1,Ungrouped
+4A Luftfeuchte SHT85_2,-1,Ungrouped
+Ambient air temperature,-1,Ungrouped
+Altitude Baromertic,-1,Ungrouped
+4A Luftfeuchte SHT85_3,-1,Ungrouped
+4-way valve,-1,Ungrouped
+4A Luftfeuchte SHT85_4,-1,Ungrouped
+Alarmanlage ausgelöst,-1,Ungrouped
+Akustische Temperatur,-1,Ungrouped
+AkkuVolt,-1,Ungrouped
+4A Lufttemperatur SHT31_2,-1,Ungrouped
+4A Lufttemperatur SHT85_1,-1,Ungrouped
+4A Lufttemperatur SHT85_2,-1,Ungrouped
+AkkuTemperatur,-1,Ungrouped
+4A Lufttemperatur SHT85_3,-1,Ungrouped
+Akkustand (scheinbar kaputt),-1,Ungrouped
+Akkustand,-1,Ungrouped
+Alkohol,-1,Ungrouped
+9A_Pressure BME680,-1,Ungrouped
+17 LF Vernier,-1,Ungrouped
+17 LF Atlas Scientific2 K1.0,-1,Ungrouped
+CO2_23,-1,Ungrouped
+CO2_22,-1,Ungrouped
+CO2_21,-1,Ungrouped
+06 Typical Particle Size,-1,Ungrouped
+07_Humidity_SHT85_Height_1,-1,Ungrouped
+07_Humidity_SHT85_Height_2,-1,Ungrouped
+07_Humidity_SHT85_Mean,-1,Ungrouped
+CO2_20,-1,Ungrouped
+07_Lightvision_TSL45315,-1,Ungrouped
+07_Temperature_SHT85_Height_1,-1,Ungrouped
+CO2_19,-1,Ungrouped
+CO2_18,-1,Ungrouped
+CO2_17,-1,Ungrouped
+07_Temperature_SHT85_Height_2,-1,Ungrouped
+CO2_16,-1,Ungrouped
+CO2_15,-1,Ungrouped
+CO2_14,-1,Ungrouped
+CO2_13,-1,Ungrouped
+CO2_12,-1,Ungrouped
+CO2_11,-1,Ungrouped
+CO2_10,-1,Ungrouped
+CO2_24,-1,Ungrouped
+CO2_09,-1,Ungrouped
+CO2_25,-1,Ungrouped
+CO2_27,-1,Ungrouped
+CO2eq,-1,Ungrouped
+CO2Aequivalent,-1,Ungrouped
+CO2_Wert,-1,Ungrouped
+CO2_SCD40,-1,Ungrouped
+06 Temperatur_B,-1,Ungrouped
+06 Temperature,-1,Ungrouped
+CO2_Prototyp,-1,Ungrouped
+co2_ppm,-1,Ungrouped
+CO2_Aequivalent,-1,Ungrouped
+CO2_39,-1,Ungrouped
+CO2_38,-1,Ungrouped
+CO2_37,-1,Ungrouped
+CO2_36,-1,Ungrouped
+CO2_35,-1,Ungrouped
+CO2_34,-1,Ungrouped
+CO2_33,-1,Ungrouped
+CO2_32,-1,Ungrouped
+CO2_31,-1,Ungrouped
+CO2_30,-1,Ungrouped
+CO2_29,-1,Ungrouped
+CO2_28,-1,Ungrouped
+CO2_26,-1,Ungrouped
+CO2_08,-1,Ungrouped
+CO2_07,-1,Ungrouped
+CO2_06,-1,Ungrouped
+"08 PM2.5 , SPS30",-1,Ungrouped
+"08 VOC, BME680",-1,Ungrouped
+08A Humidity BME680,-1,Ungrouped
+08A Pressure BME680,-1,Ungrouped
+08A Temperature BME680,-1,Ungrouped
+09 CO2 SCD30,-1,Ungrouped
+CO2 SCD4,-1,Ungrouped
+09 CO2 SCD41,-1,Ungrouped
+CO2 level,-1,Ungrouped
+09 Humidity SCD30,-1,Ungrouped
+09 Humidity SCD41,-1,Ungrouped
+CO2 estimated,-1,Ungrouped
+CO2 Equivalent,-1,Ungrouped
+CO2 Ausstoß momentan,-1,Ungrouped
+CO2 Ausstoß gesamt,-1,Ungrouped
+09 Humidity SVM30,-1,Ungrouped
+09 Temperature SCD30,-1,Ungrouped
+Co2 - Carbon Dioxide ppm,-1,Ungrouped
+09 Temperature SCD41,-1,Ungrouped
+09 Temperature SVM30,-1,Ungrouped
+1,-1,Ungrouped
+"08 PM10, SPS30",-1,Ungrouped
+"08 Multi-Gas, SVM30",-1,Ungrouped
+"08 Lufttemperatur, SVM30",-1,Ungrouped
+"08 Lufttemperatur, SCD41",-1,Ungrouped
+CO2_05,-1,Ungrouped
+CO2_04,-1,Ungrouped
+CO2_03,-1,Ungrouped
+CO2_02,-1,Ungrouped
+CO2_01,-1,Ungrouped
+CO2_00,-1,Ungrouped
+CO2-Äquivalenter,-1,Ungrouped
+07_Temperature_SHT85_Mean,-1,Ungrouped
+CO2-Temp,-1,Ungrouped
+CO2-RH,-1,Ungrouped
+06 Temperatur,-1,Ungrouped
+CO2-Gehalt,-1,Ungrouped
+07_UV_VEML6070,-1,Ungrouped
+CO2 Wert,-1,Ungrouped
+07_Wind_Angle_DavisAnemometer,-1,Ungrouped
+07_Wind_Speed_DavisAnemometer,-1,Ungrouped
+08 Koordinaten,-1,Ungrouped
+"08 Luftfeuchte, BME680",-1,Ungrouped
+"08 Luftfeuchte, SCD41",-1,Ungrouped
+"08 Luftfeuchte, SHT31",-1,Ungrouped
+"08 Lufttemperatur, BME680",-1,Ungrouped
+"08 Lufttemperatur, SCD30",-1,Ungrouped
+07_UV-Index_VEML6070,-1,Ungrouped
+06 rel. Luftfeuchte_B,-1,Ungrouped
+06 Pressure,-1,Ungrouped
+06 Luftdruck_B,-1,Ungrouped
+006 PM10 SP30_B,-1,Ungrouped
+006 PM10 SPS30_A,-1,Ungrouped
+006 PM2.5 SDS011_A,-1,Ungrouped
+006 PM2.5 SDS011_B,-1,Ungrouped
+006 PM2.5 SPS30_A,-1,Ungrouped
+dd,-1,Ungrouped
+Day light,-1,Ungrouped
+DateTime,-1,Ungrouped
+Dampf,-1,Ungrouped
+Daily Yield,-1,Ungrouped
+Cyclecount,-1,Ungrouped
+current_people,-1,Ungrouped
+006 PM2.5 SPS30_B,-1,Ungrouped
+006 Pressure BME680_A,-1,Ungrouped
+Current,-1,Ungrouped
+006 Pressure BME680_B,-1,Ungrouped
+Cu,-1,Ungrouped
+CSQ,-1,Ungrouped
+006 Temperature BME680_A,-1,Ungrouped
+006 Temperature BME680_B,-1,Ungrouped
+createSenseBox,-1,Ungrouped
+006 PM10 SDS011_B,-1,Ungrouped
+006 PM10 SDS011_A,-1,Ungrouped
+006 Humidity SHT31_B,-1,Ungrouped
+006 Humidity SHT31_A,-1,Ungrouped
+Distanz,-1,Ungrouped
+Distance-to-Flame,-1,Ungrouped
+Distance to the left,-1,Ungrouped
+---,-1,Ungrouped
+.,-1,Ungrouped
+direction du vent,-1,Ungrouped
+001 Bodenfeuchte,-1,Ungrouped
+001 Bodentemperatur,-1,Ungrouped
+Differenztemperatur,-1,Ungrouped
+DHT22: Temperatur,-1,Ungrouped
+CPU_temp4,-1,Ungrouped
+DHT22: rel. Luftfeuchte,-1,Ungrouped
+006  Temperature SHT31_B,-1,Ungrouped
+006 CO2 S41_B,-1,Ungrouped
+006 CO2 SCD30_B,-1,Ungrouped
+Dew Point,-1,Ungrouped
+006 CO2 SGP30_A,-1,Ungrouped
+Device status,-1,Ungrouped
+Detectie Flacara,-1,Ungrouped
+006 CO2 SGP30_B,-1,Ungrouped
+006 Humidity BME680_A,-1,Ungrouped
+006 Humidity BME680_B,-1,Ungrouped
+DHT22,-1,Ungrouped
+1 C02eq SVM30,-1,Ungrouped
+CPU_temp3,-1,Ungrouped
+006 Temperature SHT31_A,-1,Ungrouped
+01 Temperatur SHT31_4,-1,Ungrouped
+01 Temperatur SHT31_5,-1,Ungrouped
+01 Temperatur SHT31_6,-1,Ungrouped
+01 Temperatur SHT31_7,-1,Ungrouped
+01 Temperature SHT31,-1,Ungrouped
+01 Temperature SHT85_1,-1,Ungrouped
+Co2SCD30,-1,Ungrouped
+01 Temperature SHT85_2,-1,Ungrouped
+01 Temperature SHT85_3,-1,Ungrouped
+01 Temperature SHT85_4,-1,Ungrouped
+"01 Wind Direction, Anemometer",-1,Ungrouped
+"01 Wind Speed, Anemometer",-1,Ungrouped
+03 Anemometer Davis Windgeschwindigkeit,-1,Ungrouped
+03 Anemometer Davis Windrichtung,-1,Ungrouped
+03 Luftfeuchte BME680,-1,Ungrouped
+03 Lufttemperatur BME680,-1,Ungrouped
+03 Niederschlag Davis,-1,Ungrouped
+06 CO2,-1,Ungrouped
+CO2SCD,-1,Ungrouped
+06 Humidity,-1,Ungrouped
+06 Humidity_B,-1,Ungrouped
+01 Niederschlag,-1,Ungrouped
+01 Nanopartikel(SDS011),-1,Ungrouped
+01 Luftdruck,-1,Ungrouped
+01 Illuminance,-1,Ungrouped
+CPU_temp1,-1,Ungrouped
+CPU-Temp,-1,Ungrouped
+006 TVOC SGP30_B,-1,Ungrouped
+01 Feinstaub (PM0.5) (Sensor SPS30),-1,Ungrouped
+CPU Temperatur,-1,Ungrouped
+CO₂ SCD3,-1,Ungrouped
+01 Feinstaub (PM10) (Sensor SPS30),-1,Ungrouped
+01 Feinstaub (PM2.5) (Sensor SPS30),-1,Ungrouped
+01 Feinstaub(SDS011),-1,Ungrouped
+CO²-Äquivalent,-1,Ungrouped
+CPU_temp2,-1,Ungrouped
+CO² Gehalt,-1,Ungrouped
+Counter,-1,Ungrouped
+Consumed Energy Today,-1,Ungrouped
+01 Feuchte(HDC1080),-1,Ungrouped
+01 Feuchte(SHT85),-1,Ungrouped
+Compost temperature,-1,Ungrouped
+Combustible Gas and Smoke,-1,Ungrouped
+color_temperature,-1,Ungrouped
+CO2SPG30,-1,Ungrouped
+01 Humidity SHT31,-1,Ungrouped
+01 Humidity SHT85_4,-1,Ungrouped
+CO²,-1,Ungrouped
+17 LF Remond,-1,Ungrouped
+1 CO2 SCD30_0,-1,Ungrouped
+1 Humidity SCD30_0,-1,Ungrouped
+Bodenfeuchte3 mit Pflanzenkohle,-1,Ungrouped
+Bodenfeuchte2 ohne Pflanzenkohle,-1,Ungrouped
+Bodenfeuchte2 mit Pflanzenkohle,-1,Ungrouped
+Bodenfeuchte2,-1,Ungrouped
+Bodenfeuchte1 ohne Pflanzenkohle,-1,Ungrouped
+Bodenfeuchte1 mit Pflanzenkohle,-1,Ungrouped
+Bodenfeuchte1,-1,Ungrouped
+13A Humdity SFA30,-1,Ungrouped
+13A Humidity BME680,-1,Ungrouped
+Bodenfeuchte-40cm,-1,Ungrouped
+13A Luftfeuchtigkeit SCD30,-1,Ungrouped
+13A Luftfeuchtigkeit SVM30,-1,Ungrouped
+13A Pressure BME680,-1,Ungrouped
+Bodenfeuchte-100cm,-1,Ungrouped
+Bodenfeuchte(Leitfähigkeit),-1,Ungrouped
+Bodenfeuchte(Capatzitiv),-1,Ungrouped
+13A Temperature BME680,-1,Ungrouped
+13B CO2 eq. SVM30,-1,Ungrouped
+13B Humidity BME680,-1,Ungrouped
+13B Pressure BME680,-1,Ungrouped
+13B Temperatur BME680,-1,Ungrouped
+13 Temperature HDC1080,-1,Ungrouped
+13 Soil Moisture truebner 2 30cm,-1,Ungrouped
+Bodenfeuchte3 ohne Pflanzenkohle,-1,Ungrouped
+Bodenfeuchte_1,-1,Ungrouped
+Bodentemperatur 100cm,-1,Ungrouped
+12A Illuminance,-1,Ungrouped
+12A Pressure BME680,-1,Ungrouped
+12A Temperature BME680,-1,Ungrouped
+Bodentemperatur -25cm,-1,Ungrouped
+Bodentemperatur - 50 cm,-1,Ungrouped
+12B Humidity SHT31 flex,-1,Ungrouped
+Bodentemperatur - 20 cm,-1,Ungrouped
+12B Temperature SHT31 flex,-1,Ungrouped
+13,-1,Ungrouped
+13B Temperature BME680,-1,Ungrouped
+Bodensensor,-1,Ungrouped
+Bodenfeuchtigkeit - 50 cm,-1,Ungrouped
+Bodenfeuchtigkeit - 20 cm,-1,Ungrouped
+13 Humidity HDC1080,-1,Ungrouped
+Bodenfeuchtigkeit,-1,Ungrouped
+Bodenfeuchtesensor,-1,Ungrouped
+BodenfeuchteB,-1,Ungrouped
+BodenfeuchteA,-1,Ungrouped
+Bodenfeuchte_3,-1,Ungrouped
+Bodenfeuchte_2,-1,Ungrouped
+Bodenfeuchte_10cm,-1,Ungrouped
+Bodenfeuchtigkeit im Blumentopf,-1,Ungrouped
+12A Humidity BME680,-1,Ungrouped
+Bodenfeuchte A (10 cm),-1,Ungrouped
+13B Temperature PT1000 (RTD),-1,Ungrouped
+15 Niederschlag 02,-1,Ungrouped
+15 Niederschlag 03,-1,Ungrouped
+15 Niederschlag 04,-1,Ungrouped
+15 Niederschlag 05,-1,Ungrouped
+16,-1,Ungrouped
+16A Humidity BME680,-1,Ungrouped
+16A Pressure BME680,-1,Ungrouped
+16A Temperature BME680,-1,Ungrouped
+Bodenfeuchte (jetzt),-1,Ungrouped
+16B Humidity BME680,-1,Ungrouped
+Bodenfeuchte (bewässert),-1,Ungrouped
+Bodenfeuchte (30-sec),-1,Ungrouped
+16B Pressure BME680,-1,Ungrouped
+16B Temperature BME680,-1,Ungrouped
+Boardtemperatur,-1,Ungrouped
+BMPT,-1,Ungrouped
+BME680_temperature,-1,Ungrouped
+BME680_pressure,-1,Ungrouped
+BME680_humidity,-1,Ungrouped
+17,-1,Ungrouped
+17 LF Atlas Scientific K1.0,-1,Ungrouped
+15 Niederschlag 01,-1,Ungrouped
+15,-1,Ungrouped
+14B Temperature SMT 100 V3,-1,Ungrouped
+14B Temperature SMT 100 V2,-1,Ungrouped
+13B Temperaturen SHT31 flex,-1,Ungrouped
+14,-1,Ungrouped
+14 Humidity BME680,-1,Ungrouped
+14 Luftdruck BME680,-1,Ungrouped
+14 Particulate Matter PM25 SDS011,-1,Ungrouped
+14 Pressure BME680,-1,Ungrouped
+14 Temperatur BME680,-1,Ungrouped
+14 Temperatur SHT31,-1,Ungrouped
+14 Temperature BME680,-1,Ungrouped
+14A Humidity BME680,-1,Ungrouped
+Bodenfeuchte 90 cm,-1,Ungrouped
+14A LuftdruckBME680,-1,Ungrouped
+Bodenfeuchte 60 cm,-1,Ungrouped
+14A rel. LuftfeuchteBME680,-1,Ungrouped
+14A rel. LuftfeuchteSHT31,-1,Ungrouped
+14A TemperaturBME680,-1,Ungrouped
+14A Temperature BME680,-1,Ungrouped
+14A TemperaturSHT31,-1,Ungrouped
+14b Airpressure BME680,-1,Ungrouped
+14b CO₂ SCD30,-1,Ungrouped
+14B Pressure BME680,-1,Ungrouped
+14B Temperature SMT 100 V1,-1,Ungrouped
+14A Pressure BME680,-1,Ungrouped
+1 CO2 SCD30_1,-1,Ungrouped
+12_Temperatur_SHT,-1,Ungrouped
+12_Temperatur,-1,Ungrouped
+Cisnienie,-1,Ungrouped
+10B Humidity BME680,-1,Ungrouped
+10B Pressure BME680,-1,Ungrouped
+Ciscnienie,-1,Ungrouped
+Chuva,-1,Ungrouped
+Chillfaktor,-1,Ungrouped
+CH4,-1,Ungrouped
+CH2O,-1,Ungrouped
+Cell-Voltage,-1,Ungrouped
+Cd,-1,Ungrouped
+Cars per Day,-1,Ungrouped
+Carbon Monoxide - Reducing,-1,Ungrouped
+10B Temperature BME680,-1,Ungrouped
+Carbon Dioxide,-1,Ungrouped
+C4H10,-1,Ungrouped
+11,-1,Ungrouped
+11 CO2 SGP30,-1,Ungrouped
+11 Ethanol SGP30,-1,Ungrouped
+11 H2 SGP30,-1,Ungrouped
+C3H8,-1,Ungrouped
+c2hsch,-1,Ungrouped
+10A temperature BME680,-1,Ungrouped
+10A pressure BME680,-1,Ungrouped
+10A Illuminance,-1,Ungrouped
+10A humidity BME680,-1,Ungrouped
+1 Humidity SCD30_1,-1,Ungrouped
+1 Temperature SCD30_0,-1,Ungrouped
+CO (Kohlenstoffmonoxid),-1,Ungrouped
+CO,-1,Ungrouped
+Clima floor 0 condenser pipe temperature,-1,Ungrouped
+Ciśnienie powietrza,-1,Ungrouped
+1 Temperature SCD30_1,-1,Ungrouped
+10,-1,Ungrouped
+10 HDC1080 Feuchtigkeit,-1,Ungrouped
+10 HDC1080 Temperatur,-1,Ungrouped
+C2H5OH,-1,Ungrouped
+10 Lightvision TSL45315,-1,Ungrouped
+10 SHT85 Feuchtigkeit,-1,Ungrouped
+10 SHT85 Feuchtigkeit2,-1,Ungrouped
+10 SHT85 Feuchtigkeit3,-1,Ungrouped
+10 SHT85 Feuchtigkeit4,-1,Ungrouped
+10 SHT85 Temperatur,-1,Ungrouped
+10 SHT85 Temperatur2,-1,Ungrouped
+10 SHT85 Temperatur3,-1,Ungrouped
+10 SHT85 Temperatur4,-1,Ungrouped
+10 UV VEML6070,-1,Ungrouped
+10 UVI VEML6070,-1,Ungrouped
+10 RawTime,-1,Ungrouped
+C02 (SCD41),-1,Ungrouped
+C,-1,Ungrouped
+Böengeschwindigkeit,-1,Ungrouped
+11A Humidity BME680,-1,Ungrouped
+11A Illuminance,-1,Ungrouped
+Bodentemperatur1,-1,Ungrouped
+11A Pressure BME680,-1,Ungrouped
+11A Temperature BME680,-1,Ungrouped
+11B Humidity BME680,-1,Ungrouped
+11B Pressure BME680,-1,Ungrouped
+Bodentemperatur A (10 cm),-1,Ungrouped
+11B Temperature BME680,-1,Ungrouped
+Bodentemperatur 90 cm,-1,Ungrouped
+Bodentemperatur 80cm,-1,Ungrouped
+12,-1,Ungrouped
+Bodentemperatur 60cm,-1,Ungrouped
+Bodentemperatur 60 cm,-1,Ungrouped
+12 Humidity HDC1080,-1,Ungrouped
+Bodentemperatur 50cm,-1,Ungrouped
+12 Temperature HDC1080,-1,Ungrouped
+12_Luftdruck,-1,Ungrouped
+Bodentemperatur 30cm,-1,Ungrouped
+12_rel. Luftfeuchte,-1,Ungrouped
+12_rel. Luftfeuchte_SHT,-1,Ungrouped
+11 TVOC SGP30,-1,Ungrouped
+Bodentemperatur 20cm,-1,Ungrouped
+Bodentemperatur2,-1,Ungrouped
+11 Temperature SHT85_3,-1,Ungrouped
+bVOC,-1,Ungrouped
+11 Humidity BME680,-1,Ungrouped
+11 Humidity SHT85_4,-1,Ungrouped
+11 Light,-1,Ungrouped
+11 p10 SDS011,-1,Ungrouped
+Brightness West,-1,Ungrouped
+Brightness South,-1,Ungrouped
+Brightness East,-1,Ungrouped
+Brightness,-1,Ungrouped
+Breitengrad,-1,Ungrouped
+Breathe VOC Equivalent,-1,Ungrouped
+Breath VOC Equivalent,-1,Ungrouped
+BrainTicks (Thinkrate),-1,Ungrouped
+Bodentemperatur_3,-1,Ungrouped
+Bodentemperatur_2,-1,Ungrouped
+11 p25 SDS011,-1,Ungrouped
+11 Pressure BME680,-1,Ungrouped
+Bodentemperatur_1,-1,Ungrouped
+Bodentemperatur3,-1,Ungrouped
+11 Temperature BME680,-1,Ungrouped
+11 Temperature SHT85_1,-1,Ungrouped
+11 Temperature SHT85_2,-1,Ungrouped
+11 Temperature SHT85_4,-1,Ungrouped
+9A_pH AtlasScientific,-1,Ungrouped
+6 Beleuchtungsstärke,0,#Beleuchtungsstärke
+#Beleuchtungsstärke,0,#Beleuchtungsstärke
+Beleuchtungsstärke 2,0,#Beleuchtungsstärke
+Beleuchtungsstärke,0,#Beleuchtungsstärke
+rF,4,%rF
+%rF,4,%rF
+-⚛- Radioactivity,6,Radioactivity
+Radioactivity,6,Radioactivity
+-🌡- Temperature,8,Temperature
+temperature,8,Temperature
+Temperature 1,8,Temperature
+Temperature 2,8,Temperature
+TEMPERATURE,8,Temperature
+Temperature,8,Temperature
+Pm10,14,PM10
+PM10 (2),14,PM10
+PM10 (1),14,PM10
+PM10 (4),14,PM10
+-🏭- PM10,14,PM10
+PM10 (6),14,PM10
+PM10,14,PM10
+pm10,14,PM10
+"PM10/2,5",14,PM10
+PM10 (3),14,PM10
+-🏭- PM2.5,24,PM2.5
+PM2.5 (4),24,PM2.5
+"PM2,5",24,PM2.5
+PM2.5 (2),24,PM2.5
+PM2.5 (1),24,PM2.5
+Pm2.5,24,PM2.5
+pm2.5,24,PM2.5
+PM2.5,24,PM2.5
+PM2.5 (6),24,PM2.5
+PM2.5 (3),24,PM2.5
+humidity,34,Humidity
+Humidity,34,Humidity
+-💧- Humidity,34,Humidity
+HUMIDITY,34,Humidity
+-🕛-Pressure,38,-🕛-Pressure
+Pressure,38,-🕛-Pressure
+pressure,38,-🕛-Pressure
+PRESSURE,38,-🕛-Pressure
+Helligkeit,42,Helligkeit
+. Helligkeit,42,Helligkeit
+0 Humidity BME680,44,Humidity BME680
+Humidity BME680,44,Humidity BME680
+4 A Humidity BME680,44,Humidity BME680
+2 Humidity HDC1080,47,Humidity HDC1080
+3 Humidity HDC1080,47,Humidity HDC1080
+11 Humidity HDC1080,47,Humidity HDC1080
+6 Humidity HDC1080.1,47,Humidity HDC1080
+1 Humidity HDC1080,47,Humidity HDC1080
+0 Humidity HDC1080,47,Humidity HDC1080
+10 Humidity HDC1080,47,Humidity HDC1080
+9 Humidity HDC1080,47,Humidity HDC1080
+6 Humidity HDC1080,47,Humidity HDC1080
+0 Humidity SHT31_1,56,Humidity SHT31_1
+3A Humidity SHT31_1,56,Humidity SHT31_1
+01 Humidity SHT31_1,56,Humidity SHT31_1
+3B Humidity SHT31_1,56,Humidity SHT31_1
+0 Humidity SHT31_2,60,Humidity SHT31_2
+01 Humidity SHT31_2,60,Humidity SHT31_2
+3B Humidity SHT31_2,60,Humidity SHT31_2
+illuminance,63,Illuminance
+0 Illuminance,63,Illuminance
+9 Illuminance,63,Illuminance
+Illuminance,63,Illuminance
+0 Illuminance TSL45315,67,Illuminance TSL45315
+3B Illuminance TSL45315,67,Illuminance TSL45315
+0 Niederschlag Messer,69,Niederschlag Messer
+3B Niederschlag Messer,69,Niederschlag Messer
+3A Niederschlag Messer,69,Niederschlag Messer
+3b Niederschlag,69,Niederschlag Messer
+0 Pressure BME680,72,Pressure BME680
+Pressure BME680,72,Pressure BME680
+0 Temperature BME680,74,Temperature BME680
+Temperature BME680,74,Temperature BME680
+10 Temperature HDC1080,76,Temperature HDC1080
+0 Temperature HDC1080,76,Temperature HDC1080
+6 Temperature HDC1080.1,76,Temperature HDC1080
+11 Temperature HDC1080,76,Temperature HDC1080
+9 Temperature HDC1080,76,Temperature HDC1080
+6 Temperature HDC1080,76,Temperature HDC1080
+1 Temperature HDC1080,76,Temperature HDC1080
+01 Temperature(HDC1080),76,Temperature HDC1080
+2 Temperature HDC1080,76,Temperature HDC1080
+3A Temperature SHT31_1,85,Temperature SHT31_1
+0 Temperature SHT31_1,85,Temperature SHT31_1
+01 Temperature SHT31_1,85,Temperature SHT31_1
+3B Temperature SHT31_1,85,Temperature SHT31_1
+01 Temperature SHT31_2,89,Temperature SHT31_2
+0 Temperature SHT31_2,89,Temperature SHT31_2
+3B Temperature SHT31_2,89,Temperature SHT31_2
+3B UV Intensity VEML6070,92,UV Intensity VEML6070
+3A UV Intensity,92,UV Intensity VEML6070
+0 UV Intensity VEML6070,92,UV Intensity VEML6070
+3A UV Intensity VEML6071,92,UV Intensity VEML6070
+01 UV Intensity,92,UV Intensity VEML6070
+UV Intensity,92,UV Intensity VEML6070
+9 UV-Intensity,92,UV Intensity VEML6070
+0 UV-Intensity,92,UV Intensity VEML6070
+UV intensity,92,UV Intensity VEML6070
+11A UV Intensity,92,UV Intensity VEML6070
+3A Windrichtung Anemometer,101,Windrichtung Anemometer
+3b Windrichtung,101,Windrichtung Anemometer
+3B Windrichtung Anemometer,101,Windrichtung Anemometer
+0 Windrichtung Anemometer,101,Windrichtung Anemometer
+3B Windstärke Anemometer,104,Windstärke Anemometer
+3A Windstärke Anemometer,104,Windstärke Anemometer
+0 Windstärke Anemometer,104,Windstärke Anemometer
+CO2 SCD41,107,CO2 SCD41 A
+006 CO2 SCD41 A,107,CO2 SCD41 A
+"08 CO2, SCD41",107,CO2 SCD41 A
+13B CO2 SCD41,107,CO2 SCD41 A
+11 CO2 SCD41,107,CO2 SCD41 A
+11B CO2 SCD41,107,CO2 SCD41 A
+13A CO2 SCD41,107,CO2 SCD41 A
+13A CO2 SCD30,109,CO2(SCD30)
+11B CO2 SCD30,109,CO2(SCD30)
+CO2 SCD30,109,CO2(SCD30)
+3 CO2 SCD30,109,CO2(SCD30)
+01 CO2(SCD30),109,CO2(SCD30)
+CO2 (SCD30),109,CO2(SCD30)
+4 B CO2 SCD30,109,CO2(SCD30)
+2 CO2 SCD30,109,CO2(SCD30)
+"08 CO2, SCD30",109,CO2(SCD30)
+CO2 - SCD30,109,CO2(SCD30)
+4 A CO2 SCD30,109,CO2(SCD30)
+Humidity SHT85_1,117,Humidity SHT85_1
+3A Humidity SHT85_1,117,Humidity SHT85_1
+01 Humidity SHT85_1,117,Humidity SHT85_1
+3B Humidity SHT85_1,117,Humidity SHT85_1
+5A Humidity SHT85_1,117,Humidity SHT85_1
+11 Humidity SHT85_1,117,Humidity SHT85_1
+3B Humidity SHT85_2,119,Humidity SHT85_2
+5A Humidity SHT85_2,119,Humidity SHT85_2
+11 Humidity SHT85_2,119,Humidity SHT85_2
+01 Humidity SHT85_2,119,Humidity SHT85_2
+Humidity SHT85_2,119,Humidity SHT85_2
+3A Humidity SHT85_2,119,Humidity SHT85_2
+Humidity SHT85_3,121,Humidity SHT85_3
+01 Humidity SHT85_3,121,Humidity SHT85_3
+3B Humidity SHT85_3,121,Humidity SHT85_3
+11 Humidity SHT85_3,121,Humidity SHT85_3
+3A Humidity SHT85_3,121,Humidity SHT85_3
+01 Longitude (GPS,123,Longitude (GPS
+2 Longitude GPS,123,Longitude (GPS
+01 rel. Luftfeuchte BME680,125,rel. Luftfeuchte
+SWW rel. Luftfeuchte BME680,125,rel. Luftfeuchte
+Luftfeuchte BME680,125,rel. Luftfeuchte
+01 rel. Luftfeuchte,125,rel. Luftfeuchte
+2 rel. Luftfeuchte BME680,125,rel. Luftfeuchte
+SWW rel. Luftfeuchte SHT31,125,rel. Luftfeuchte
+"Luftfeuchte, BME680",125,rel. Luftfeuchte
+"rel. Luftfeuchte, BME680",125,rel. Luftfeuchte
+rel. Luftfeuchte BME680,125,rel. Luftfeuchte
+Luftfeuchte (BME680),125,rel. Luftfeuchte
+01 Temperatur BME680,130,Temperatur
+01 Temperatur,130,Temperatur
+2 Temperatur SHT85,130,Temperatur
+2 Temperatur BME680,130,Temperatur
+Temperatur bme680,130,Temperatur
+"Temperatur, BME680",130,Temperatur
+Temperatur BME680,130,Temperatur
+Temperatur (BME680),130,Temperatur
+01 Temperatur(SHT85),130,Temperatur
+01 Temperatur SHT85_0,138,Temperatur SHT85_0
+Temperatur SHT85_0,138,Temperatur SHT85_0
+Temperatur SHT85_1,140,Temperatur SHT85_1
+01 Temperatur SHT85_1,140,Temperatur SHT85_1
+Temperatur SHT85_2,142,Temperatur SHT85_2
+01 Temperatur SHT85_2,142,Temperatur SHT85_2
+"Temperatur, SHT85_2",142,Temperatur SHT85_2
+Temperatur SHT85_3,145,Temperatur SHT85_3
+"Temperatur, SHT85_3",145,Temperatur SHT85_3
+01 Temperatur SHT85_3,145,Temperatur SHT85_3
+1B atm. Luftdruck BME680,149,atm. Luftdruck BME680
+1A atm. Luftdruck BME680,149,atm. Luftdruck BME680
+4B atm. Luftdruck BME680,149,atm. Luftdruck BME680
+4A atm. Luftdruck BME680,149,atm. Luftdruck BME680
+2 Luftdruck BME680,149,atm. Luftdruck BME680
+03 atm. Luftdruck BME680,149,atm. Luftdruck BME680
+"08 atm. Luftdruck, BME680",149,atm. Luftdruck BME680
+"Luftdruck, BME680",149,atm. Luftdruck BME680
+atm. Luftdruck (BME680),149,atm. Luftdruck BME680
+atm. Luftdruck 2-BME680,149,atm. Luftdruck BME680
+atm. Luftdruck BME680,149,atm. Luftdruck BME680
+Luftdruck bme680,149,atm. Luftdruck BME680
+"atm. Luftdruck, BME680",149,atm. Luftdruck BME680
+Luftdruck BME680,149,atm. Luftdruck BME680
+10B Beleuchtungsstärke TSL45315,154,Beleuchtungsstärke TSL45315
+4B Beleuchtungsstärke TSL45315,154,Beleuchtungsstärke TSL45315
+"Beleuchtungsstärke, TSL45315 VEML6070",154,Beleuchtungsstärke TSL45315
+"Beleuchtungsstärke, TSL45315",154,Beleuchtungsstärke TSL45315
+Beleuchtungsstärke (TSL45315),154,Beleuchtungsstärke TSL45315
+2 Beleuchtungsstärke TSL45315,154,Beleuchtungsstärke TSL45315
+03 Beleuchtungsstärke TSL45315,154,Beleuchtungsstärke TSL45315
+03 Feuchtesensor SHT31-DIS-B FPCD 5,158,Feuchtesensor SHT31-DIS-B FPCD
+03 Feuchtesensor SHT31-DIS-B FPCD 4,158,Feuchtesensor SHT31-DIS-B FPCD
+03 Feuchtesensor SHT31-DIS-B FPCD 1,158,Feuchtesensor SHT31-DIS-B FPCD
+03 Feuchtesensor SHT31-DIS-B FPCD 0,158,Feuchtesensor SHT31-DIS-B FPCD
+03 Feuchtesensor SHT85 7,162,Feuchtesensor SHT85
+03 Feuchtesensor SHT85 6,162,Feuchtesensor SHT85
+03 Feuchtesensor SHT85 5,162,Feuchtesensor SHT85
+03 Feuchtesensor SHT85 4,162,Feuchtesensor SHT85
+03 Tempsensor SHT31-DIS-B FPCD 6,166,Tempsensor SHT31-DIS-B FPCD
+03 Tempsensor SHT31-DIS-B FPCD 3,166,Tempsensor SHT31-DIS-B FPCD
+03 Tempsensor SHT31-DIS-B FPCD 2,166,Tempsensor SHT31-DIS-B FPCD
+03 Tempsensor SHT31-DIS-B FPCD 7,166,Tempsensor SHT31-DIS-B FPCD
+03 Tempsensor SHT85 0,170,Tempsensor SHT85
+03 Tempsensor SHT85 1,170,Tempsensor SHT85
+03 Tempsensor SHT85 3,170,Tempsensor SHT85
+03 Tempsensor SHT85 2,170,Tempsensor SHT85
+03 UV-Intensität VEML6070,174,UV-Intensität VEML6070
+UV-Intensität (VEML6070),174,UV-Intensität VEML6070
+"UV-Intensität, VEML6070",174,UV-Intensität VEML6070
+Particulate matter PM10,177,Particulate Matter PM10
+06 Particulate Matter PM2.5,177,Particulate Matter PM10
+06 Particulate Matter PM10,177,Particulate Matter PM10
+Particulate matter PM2.5,177,Particulate Matter PM10
+rel. Luftfeuchte SCD30,184,"Luftfeuchte, SCD30"
+"08 Luftfeuchte, SCD30",184,"Luftfeuchte, SCD30"
+2 Luftfeuchte SCD30,184,"Luftfeuchte, SCD30"
+"08 Luftfeuchte, SVM30",186,"Luftfeuchte, SVM30"
+2 Luftfeuchte SVM30,186,"Luftfeuchte, SVM30"
+3b Lufttemperatur SHT31,188,"Lufttemperatur, SHT31"
+"Lufttemperatur, SHT31",188,"Lufttemperatur, SHT31"
+4A Lufttemperatur SHT31,188,"Lufttemperatur, SHT31"
+"08 Lufttemperatur, SHT31",188,"Lufttemperatur, SHT31"
+"08 PM0.5, SPS30",190,"PM0.5, SPS30"
+2 PM0.5 SPS30,190,"PM0.5, SPS30"
+PM10.0 (SDS011),192,"PM10,SDS011"
+"08 PM10,SDS011",192,"PM10,SDS011"
+PM10 (SDS011),192,"PM10,SDS011"
+PM2.5 (SDS011),195,"PM2.5, SDS011"
+M - PM2.5 SDS011,195,"PM2.5, SDS011"
+"08 PM2.5, SDS011",195,"PM2.5, SDS011"
+4 A Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+12A Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+6 Humidity SHT31 1,198,08A  Humidity SHT31 flex
+18A Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+10B Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+16B Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+14A Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+8B Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+10A Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+Humidity SHT31,198,08A  Humidity SHT31 flex
+4 B Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+6 Humidity SHT31,198,08A  Humidity SHT31 flex
+08A  Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+18B Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+11A Humidity SHT31 flex,198,08A  Humidity SHT31 flex
+11A Temperature SHT31 flex,201,08A Temperature SHT31 flex
+8B Temperature SHT31 flex,201,08A Temperature SHT31 flex
+08A Temperature SHT31 flex,201,08A Temperature SHT31 flex
+12A Temperature SHT31 flex,201,08A Temperature SHT31 flex
+6 Temperature SHT31 1,201,08A Temperature SHT31 flex
+10B Temperature SHT31 flex,201,08A Temperature SHT31 flex
+Temperature SHT31,201,08A Temperature SHT31 flex
+18B Temperature SHT31 flex,201,08A Temperature SHT31 flex
+6 Temperature SHT31,201,08A Temperature SHT31 flex
+10A Temperature SHT31 flex,201,08A Temperature SHT31 flex
+14A Temperature SHT31 flex,201,08A Temperature SHT31 flex
+18A Temperature SHT31 flex,201,08A Temperature SHT31 flex
+16B Temperature SHT31 flex,201,08A Temperature SHT31 flex
+4 B Temperature SHT31 flex,201,08A Temperature SHT31 flex
+4 A Temperature SHT31 flex,201,08A Temperature SHT31 flex
+14b CO2eq SVM30,204,CO2eq SVM30
+2 CO2eq SVM30,204,CO2eq SVM30
+11B CO2eq SVM30,204,CO2eq SVM30
+CO2eq SVM30,204,CO2eq SVM30
+09 CO2eq SVM30,204,CO2eq SVM30
+14 CO2eq SVM30,204,CO2eq SVM30
+13B Ethanol SVM30,207,Ethanol SVM30
+Ethanol SVM30,207,Ethanol SVM30
+09 Ethanol SVM30,207,Ethanol SVM30
+13A Ethanol SVM30,207,Ethanol SVM30
+H2 SVM30,209,H2 SVM30
+13B H2 SVM30,209,H2 SVM30
+09 H2 SVM30,209,H2 SVM30
+13A H2 SVM30,209,H2 SVM30
+13B Particulate Matter PM10 SDS011,211,Particulate Matter PM10 SDS011
+1 Particulate Matter PM10 SDS011,211,Particulate Matter PM10 SDS011
+3 Particulate Matter PM10 SDS011,211,Particulate Matter PM10 SDS011
+1 Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+13B Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+11B Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+13A Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+09 Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+11B Particulate Matter PM10 SDS011,211,Particulate Matter PM10 SDS011
+3 Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+14b Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+Particulate Matter PM10 SDS011,211,Particulate Matter PM10 SDS011
+14 Particulate Matter PM10 SDS011,211,Particulate Matter PM10 SDS011
+09 Particulate Matter PM10 SDS011,211,Particulate Matter PM10 SDS011
+Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+14 Particulate Matter PM10 SPS30,211,Particulate Matter PM10 SDS011
+1 Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+1 Particulate Matter PM2.5 SDS011,220,Particulate Matter PM2.5 SDS011
+13B Particulate Matter PM2.5 SDS011,220,Particulate Matter PM2.5 SDS011
+14b Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+13A Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+Particulate Matter PM2.5 SDS011,220,Particulate Matter PM2.5 SDS011
+Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+09 Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+13B Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+14 Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+11B Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+09 Particulate Matter PM2.5 SDS011,220,Particulate Matter PM2.5 SDS011
+11B Particulate Matter PM2.5 SDS011,220,Particulate Matter PM2.5 SDS011
+3 Particulate Matter PM2.5 SPS30,220,Particulate Matter PM2.5 SDS011
+3 Particulate Matter PM2.5 SDS011,220,Particulate Matter PM2.5 SDS011
+1 Typical Particle Size SPS30,228,Typical Particle Size SPS30
+13B Typical Particle Size SPS30,228,Typical Particle Size SPS30
+09 Typical Particle Size SPS30,228,Typical Particle Size SPS30
+Typical Particle Size SPS30,228,Typical Particle Size SPS30
+Feinstaub (typical particle size),228,Typical Particle Size SPS30
+14 Typical Particle Size SPS30,228,Typical Particle Size SPS30
+13A Typical Particle Size SPS30,228,Typical Particle Size SPS30
+14b Typical Particle Size SPS30,228,Typical Particle Size SPS30
+3 Typical Particle Size SPS30,228,Typical Particle Size SPS30
+11B Typical Particle Size SPS30,228,Typical Particle Size SPS30
+11B VOC,237,VOC SVM30
+1 VOC SVM30,237,VOC SVM30
+11B VOC SVM30,237,VOC SVM30
+09 VOC SVM30,237,VOC SVM30
+VOC(SVM30),237,VOC SVM30
+14b VOC SVM30,237,VOC SVM30
+14 VOC SVM30,237,VOC SVM30
+VOC SVM30,237,VOC SVM30
+2 VOC SVM30,237,VOC SVM30
+6 Humidity SHT85 2,242,Humidity SHT85
+6 Humidity SHT85 1,242,Humidity SHT85
+3 Humidity SHT85,242,Humidity SHT85
+7 Humidity SHT85 2,242,Humidity SHT85
+7 Humidity SHT85 3,242,Humidity SHT85
+7 Humidity SHT85 4,242,Humidity SHT85
+6 Humidity SHT85 3,242,Humidity SHT85
+7 Humidity SHT85 5,242,Humidity SHT85
+7 Humidity SHT85 6,242,Humidity SHT85
+Humidity SHT85,242,Humidity SHT85
+2 Humidity SHT85,242,Humidity SHT85
+6 Humidity SHT85 4,242,Humidity SHT85
+6 Humidity SHT85.6,242,Humidity SHT85
+6 Humidity SHT85.2,242,Humidity SHT85
+6 Humidity SHT85 5,242,Humidity SHT85
+6 Humidity SHT85.5,242,Humidity SHT85
+7 Humidity SHT85  1,242,Humidity SHT85
+6 Humidity SHT85 6,242,Humidity SHT85
+1 Humidity SHT85,242,Humidity SHT85
+6 Humidity SHT85.4,242,Humidity SHT85
+6 Humidity SHT85.3,242,Humidity SHT85
+6 Humidity SHT85.1,242,Humidity SHT85
+14 Humidity SVM30,264,Humidity SVM30
+1 Humidity SVM30,264,Humidity SVM30
+11B Humidity SVM30,264,Humidity SVM30
+14b Humidity SVM30,264,Humidity SVM30
+13B Humidity SVM30,264,Humidity SVM30
+7 Temperature SHT85 3,283,Temperature SHT85
+7 Temperature SHT85 2,283,Temperature SHT85
+Temperature SHT85,283,Temperature SHT85
+7 Temperature SHT85 1,283,Temperature SHT85
+7 Temperature SHT85 5,283,Temperature SHT85
+7 Temperature SHT85 6,283,Temperature SHT85
+6 Temperature SHT85.5,283,Temperature SHT85
+3 Temperature SHT85,283,Temperature SHT85
+6 Temperature SHT85.4,283,Temperature SHT85
+1 Temperature SHT85,283,Temperature SHT85
+6 Temperature SHT85.6,283,Temperature SHT85
+7 Temperature SHT85 4,283,Temperature SHT85
+6 Temperature SHT85 2,283,Temperature SHT85
+6 Temperature SHT85 4,283,Temperature SHT85
+6 Temperature SHT85 3,283,Temperature SHT85
+6 Temperature SHT85 1,283,Temperature SHT85
+6 Temperature SHT85 5,283,Temperature SHT85
+6 Temperature SHT85 6,283,Temperature SHT85
+6 Temperature SHT85.1,283,Temperature SHT85
+2 Temperature SHT85,283,Temperature SHT85
+Temperature (SHT85),283,Temperature SHT85
+6 Temperature SHT85.2,283,Temperature SHT85
+6 Temperature SHT85.3,283,Temperature SHT85
+13A Temperature SVM30,306,Temperature SVM30
+14b Temperature SVM30,306,Temperature SVM30
+11B Temperature SVM30,306,Temperature SVM30
+13B Temperature SVM30,306,Temperature SVM30
+1 Temperature SVM30,306,Temperature SVM30
+14 Temperature SVM30,306,Temperature SVM30
+21 Wind Direction Davis,316,Wind Direction Davis
+wind direction,316,Wind Direction Davis
+Wind Direction Davis,316,Wind Direction Davis
+Wind direction,316,Wind Direction Davis
+6 Wind Direction,316,Wind Direction Davis
+1 Wind Direction Davis,316,Wind Direction Davis
+3A Wind Direction Davis,316,Wind Direction Davis
+5A Wind direction Davis,316,Wind Direction Davis
+WIND DIRECTION,316,Wind Direction Davis
+Wind Direction,316,Wind Direction Davis
+7 Wind Direction Davis,316,Wind Direction Davis
+7 Winds Speed Davis,327,Winds Speed Davis
+1 Winds Speed Davis,327,Winds Speed Davis
+10 Humidity SHT85 1,329,Humidity SHT85
+10 Humidity SHT85 2,329,Humidity SHT85
+10 Humidity SHT85 3,329,Humidity SHT85
+10 Humidity SHT85 4,329,Humidity SHT85
+10 Temperature SHT85 3,333,Temperature SHT85
+10 Temperature SHT85 1,333,Temperature SHT85
+10 Temperature SHT85 4,333,Temperature SHT85
+10 Temperature SHT85 2,333,Temperature SHT85
+8B Dexolved Oxygen AtlasScientific,337,10A Dexolved Oxygen AtlasScientific
+Dexolved Oxygen AtlasScientific,337,10A Dexolved Oxygen AtlasScientific
+11A Dexolved Oxygen AtlasScientific,337,10A Dexolved Oxygen AtlasScientific
+12A Dexolved Oxygen AtlasScientific,337,10A Dexolved Oxygen AtlasScientific
+10A Dexolved Oxygen AtlasScientific,337,10A Dexolved Oxygen AtlasScientific
+pH AtlasScientific,340,10A pH AtlasScientific
+8B pH AtlasScientific,340,10A pH AtlasScientific
+10A pH AtlasScientific,340,10A pH AtlasScientific
+12A pH AtlasScientific,340,10A pH AtlasScientific
+13B pH AtlasScientific,340,10A pH AtlasScientific
+11A pH AtlasScientific,340,10A pH AtlasScientific
+11A Temperature PT1000,342,10A Temperature PT1000
+Temperature PT1000,342,10A Temperature PT1000
+12A Temperature PT1000,342,10A Temperature PT1000
+10A Temperature PT1000,342,10A Temperature PT1000
+8B Temperature PT1000,342,10A Temperature PT1000
+11 HCHO SFA30,349,HCHO SFA30
+13B HCHO SFA30,349,HCHO SFA30
+14b HCHO SFA30,349,HCHO SFA30
+HCHO SFA30,349,HCHO SFA30
+11B HCHO SFA30,349,HCHO SFA30
+13A HCHO SFA30,349,HCHO SFA30
+Formaldehyd (HCHO) SFA30,349,HCHO SFA30
+14 HCHO SFA30,349,HCHO SFA30
+Humidity SCD41,351,Humidity SCD41
+13B Humidity SCD41,351,Humidity SCD41
+11B Humidity SCD41,351,Humidity SCD41
+11 Humidity SCD41,351,Humidity SCD41
+13A Humidity SCD41,351,Humidity SCD41
+Humidity SFA30,353,Humidity SFA30
+14 Humidity SFA30,353,Humidity SFA30
+11 Humidity SFA30,353,Humidity SFA30
+13B Humidity SFA30,353,Humidity SFA30
+11B Humidity SFA30,353,Humidity SFA30
+14b Humidity SFA30,353,Humidity SFA30
+Humidity SHTC1,358,Humidity SHTC1
+11 Humidity SHTC1,358,Humidity SHTC1
+rel. Luftfeuchte (HDC1080),360,rel. Luftfeuchte HDC1080
+11 rel. Luftfeuchte HDC1080,360,rel. Luftfeuchte HDC1080
+11 rel. Luftfeuchte SHT85 4,362,rel. Luftfeuchte SHT85
+11 rel. Luftfeuchte SHT85 1,362,rel. Luftfeuchte SHT85
+11 rel. Luftfeuchte SHT85 2,362,rel. Luftfeuchte SHT85
+2 Luftfeuchte SHT85,362,rel. Luftfeuchte SHT85
+rel. Luftfeuchte (SHT85),362,rel. Luftfeuchte SHT85
+11 rel. Luftfeuchte SHT85 3,362,rel. Luftfeuchte SHT85
+11 Temperatur HDC1080,367,Temperatur HDC1080
+Temperatur HDC1080,367,Temperatur HDC1080
+Temperatur (HDC1080),367,Temperatur HDC1080
+11 Temperatur SHT85 1,370,Temperatur SHT85
+11 Temperatur SHT85 3,370,Temperatur SHT85
+11 Temperatur SHT85 4,370,Temperatur SHT85
+11 Temperatur SHT85 2,370,Temperatur SHT85
+11B Temperature SCD41,374,Temperature SCD41
+13A Temperature SCD41,374,Temperature SCD41
+11 Temperature SCD41,374,Temperature SCD41
+Temperature SCD41,374,Temperature SCD41
+13B Temperature SCD41,374,Temperature SCD41
+13A Temperature SFA30,376,Temperature SFA30
+11 Temperature SFA30,376,Temperature SFA30
+13B Temperature SFA30,376,Temperature SFA30
+14 Temperature SFA30,376,Temperature SFA30
+14b Temperature SFA30,376,Temperature SFA30
+Temperature SFA30,376,Temperature SFA30
+11B Temperature SFA30,376,Temperature SFA30
+11 Temperature SHTC1,378,Temperature SHTC1
+Temperature SHTC1,378,Temperature SHTC1
+11A UV Index,385,11A UV Index
+UV-Index,385,11A UV Index
+UV Index,385,11A UV Index
+UV index,385,11A UV Index
+3b UV Index,385,11A UV Index
+UV-index,385,11A UV Index
+3A UV Index,385,11A UV Index
+11B Temperature SHT31 flex,390,11B  Temperature SHT31
+11B  Temperature SHT31,390,11B  Temperature SHT31
+11B Humidity SCD30,396,11B Humidity SCD30
+4 A Humidity SCD30,396,11B Humidity SCD30
+14b Humidity SCD30,396,11B Humidity SCD30
+Humidity SCD30,396,11B Humidity SCD30
+4 B Humidity SCD30,396,11B Humidity SCD30
+3 Humidity SCD30,396,11B Humidity SCD30
+11B Humidity SHT31,403,11B Humidity SHT31
+11B Humidity SHT31 flex,403,11B Humidity SHT31
+11B Temperature SCD30,405,11B Temperature SCD30
+3 Temperature SCD30,405,11B Temperature SCD30
+4 B Temperature SCD30,405,11B Temperature SCD30
+4 A Temperature SCD30,405,11B Temperature SCD30
+14b Temperature SCD30,405,11B Temperature SCD30
+Temperature SCD30,405,11B Temperature SCD30
+12 Humidity SHT85 d,413,Humidity SHT85 a
+12 Humidity SHT85 b,413,Humidity SHT85 a
+12 Humidity SHT85 c,413,Humidity SHT85 a
+12 Humidity SHT85 a,413,Humidity SHT85 a
+12 Temperature SHT85 d,417,Temperature SHT85 a
+12 Temperature SHT85 c,417,Temperature SHT85 a
+12 Temperature SHT85 b,417,Temperature SHT85 a
+12 Temperature SHT85 a,417,Temperature SHT85 a
+12_soil Moisture,421,12_soil Moisture
+12_Soil Moisture 2,421,12_soil Moisture
+12_Surface Temp.,423,12_Surface Temp.
+12_Surface Temp. 2,423,12_Surface Temp.
+13 Soil Humidity truebner 10cm,430,Soil Humidity truebner 10cm
+Phenomenon: 13 Soil Humidity truebner 10cm,430,Soil Humidity truebner 10cm
+Phenomenon: 13 Soil Humidity truebner 30cm,430,Soil Humidity truebner 10cm
+13 Soil Moisture DFRobot 1.3,432,Soil Moisture DFRobot 1.0
+13 Soil Moisture DFRobot 2.3,432,Soil Moisture DFRobot 1.0
+13 Soil Moisture DFRobot 2.2,432,Soil Moisture DFRobot 1.0
+13 Soil Moisture DFRobot 1.1,432,Soil Moisture DFRobot 1.0
+13 Soil Moisture DFRobot 1.0,432,Soil Moisture DFRobot 1.0
+13 Soil Moisture DFRobot 1.2,432,Soil Moisture DFRobot 1.0
+13 Soil Moisture DFRobot 2.0,432,Soil Moisture DFRobot 1.0
+13 Soil Moisture DFRobot 2.1,432,Soil Moisture DFRobot 1.0
+13 Soil Temperature truebner 10cm,440,Soil Temperature truebner 10cm
+13 Soil Temperature truebner 2 30cm,440,Soil Temperature truebner 10cm
+CO2 (SVM30),444,13A CO2 SVM30
+13A CO2 SVM30,444,13A CO2 SVM30
+CO2 SVM30,444,13A CO2 SVM30
+13A Humidity SHT31,451,13A Humidity SHT31
+13A Humidity SHT31 flex,451,13A Humidity SHT31
+2 Temperatur SCD30,453,13A Temperatur SCD30
+Temperatur SCD30,453,13A Temperatur SCD30
+13A Temperatur SCD30,453,13A Temperatur SCD30
+13A Temperature SHT31 flex,458,13A Temperature SHT31
+13A Temperature SHT31,458,13A Temperature SHT31
+TVOC SVM30,460,13A TVOC SVM30
+13B TVOC SVM30,460,13A TVOC SVM30
+13A TVOC SVM30,460,13A TVOC SVM30
+13B Electric Conductivity AtlasScientific,463,13B Electric Conductivity AtlasScientific
+Electric Conductivity AtlasScientific,463,13B Electric Conductivity AtlasScientific
+13B Humidity SHT31 flex,470,13B Humidity SHT31
+13B Humidity SHT31,470,13B Humidity SHT31
+13B Temperature SHT 31,475,13B Temperature SHT
+7 Temperature SHT 31 flex,475,13B Temperature SHT
+7 Humidity SHT 31 flex,475,13B Temperature SHT
+14 Bodenfeuchte 2,478,Bodenfeuchte
+14 Bodenfeuchte 3,478,Bodenfeuchte
+14 Bodenfeuchte 4,478,Bodenfeuchte
+14 Bodenfeuchte 1,478,Bodenfeuchte
+14 Bodentemperatur 1,482,Bodentemperatur
+14 Bodentemperatur 2,482,Bodentemperatur
+14 Bodentemperatur 3,482,Bodentemperatur
+14 Bodentemperatur 4,482,Bodentemperatur
+14 CO2 SCD41 2,486,CO2 SCD41
+14 CO2 SCD41 1,486,CO2 SCD41
+14 Humidity SCD41 2,490,Humidity SCD41
+14 Humidity SCD41 1,490,Humidity SCD41
+14 Humidity SHT31 1,493,Humidity SHT31
+14 Humidity SHT31 2,493,Humidity SHT31
+14 rel. Luftfeuchte BME680,495,rel. Luftfeuchte BME680
+14 rel. Luftfeuchte SHT31,495,rel. Luftfeuchte BME680
+14 Temperature SCD41 1,497,Temperature SCD41
+14 Temperature SCD41 2,497,Temperature SCD41
+14 Temperature SHT31 2,500,Temperature SHT31
+14 Temperature SHT31 1,500,Temperature SHT31
+14A Soilmoisture SMT100,502,14A  Soilmoisture SMT100
+14A  Soilmoisture SMT100,502,14A  Soilmoisture SMT100
+14A  Temperature SMT100,504,14A  Temperature SMT100
+14A Temperature SMT100,504,14A  Temperature SMT100
+14A Bodenfeuchtigkeit 4,506,14A Bodenfeuchtigkeit
+14A Bodenfeuchtigkeit 3,506,14A Bodenfeuchtigkeit
+14A Bodenfeuchtigkeit 1,506,14A Bodenfeuchtigkeit
+14A Bodenfeuchtigkeit 2,506,14A Bodenfeuchtigkeit
+14A Bodenpermittivität 1,510,14A Bodenpermittivität
+14A Bodenpermittivität 2,510,14A Bodenpermittivität
+14A Bodenpermittivität 3,510,14A Bodenpermittivität
+14A Bodenpermittivität 4,510,14A Bodenpermittivität
+14A Bodentemperatur 3,514,14A Bodentemperatur
+14A Bodentemperatur 4,514,14A Bodentemperatur
+14A Bodentemperatur 2,514,14A Bodentemperatur
+14A Bodentemperatur 1,514,14A Bodentemperatur
+14b CO2 SCD41 1,520,14b CO2 SCD41
+14b CO2 SCD41 2,520,14b CO2 SCD41
+14B Humidity BME680,524,14B Humidity BME680
+14b Humidity BME680,524,14B Humidity BME680
+14b Humidity SCD41 1,527,14b Humidity SCD41
+14b Humidity SCD41 2,527,14b Humidity SCD41
+14b Humidity SHT31 1,530,14b Humidity SHT31
+14b Humidity SHT31 2,530,14b Humidity SHT31
+14B Humidity SHT31 flex,530,14b Humidity SHT31
+14B Soilmoisture SMT 100 V1,533,14B Soilmoisture SMT 100 V1
+14B Soilmoisture SMT 100 V3,533,14B Soilmoisture SMT 100 V1
+14B Soilmoisture SMT 100 V2,533,14B Soilmoisture SMT 100 V1
+14B Temperature BME680,536,14B Temperature BME680
+14b Temperature BME680,536,14B Temperature BME680
+14b Temperature SCD41 1,539,14b Temperature SCD41
+14b Temperature SCD41 2,539,14b Temperature SCD41
+14b Temperature SHT31 1,542,14b Temperature SHT31
+14B Temperature SHT31 flex,542,14b Temperature SHT31
+14b Temperature SHT31 2,542,14b Temperature SHT31
+16A Humidity SHT31 flex 2,545,16A Humidity SHT31 flex
+16A Humidity SHT31 flex,545,16A Humidity SHT31 flex
+16A Temperature SHT31 flex,547,16A Temperature SHT31 flex
+16A Temperature SHT31 flex 2,547,16A Temperature SHT31 flex
+17A Humidity SHT3 flex 0,551,17A Humidity SHT3 flex
+17A Humidity SHT3 flex 2,551,17A Humidity SHT3 flex
+17A Humidity SHT3 flex 1,551,17A Humidity SHT3 flex
+17A Temperature SHT31 flex 2,554,17A Temperature SHT31 flex
+17A Temperature SHT31 flex 0,554,17A Temperature SHT31 flex
+17A Temperature SHT31 flex 1,554,17A Temperature SHT31 flex
+18A Niederschlag Davis 1(mm),558,18A Niederschlag Davis 1(mm)
+18A Niederschlag Davis 1(mm/min),558,18A Niederschlag Davis 1(mm)
+18A Niederschlag Davis 2(mm),558,18A Niederschlag Davis 1(mm)
+18A Niederschlag Davis 2(mm/min),558,18A Niederschlag Davis 1(mm)
+18B Niederschlag Davis 3(mm),558,18A Niederschlag Davis 1(mm)
+18B Niederschlag Davis 3(mm/min),558,18A Niederschlag Davis 1(mm)
+18B Niederschlag Davis 4(mm),558,18A Niederschlag Davis 1(mm)
+18B Niederschlag Davis 4(mm/min),558,18A Niederschlag Davis 1(mm)
+1B Helligkeit TSL 45315,570,1A Helligkeit TSL
+1A Helligkeit TSL 45315,570,1A Helligkeit TSL
+BME680 atm. Luftdruck A,573,atm. Luftdruck
+2 atm. Luftdruck,573,atm. Luftdruck
+BME680 atm. Luftdruck B,573,atm. Luftdruck
+atm. Luftdruck,573,atm. Luftdruck
+CO2 Konzentration 418793,579,CO2-Konzentration SVM30
+CO2 Konzentration,579,CO2-Konzentration SVM30
+2 CO2-Konzentration SVM30,579,CO2-Konzentration SVM30
+CO2 - Konzentration,579,CO2-Konzentration SVM30
+Feinstaub pm10,582,Feinstaub PM10  SDS011
+Feinstaub (PM10),582,Feinstaub PM10  SDS011
+Feinstaub(PM10),582,Feinstaub PM10  SDS011
+2 Feinstaub PM10  SDS011,582,Feinstaub PM10  SDS011
+Feinstaub [PM10],582,Feinstaub PM10  SDS011
+Feinstaub PM10,582,Feinstaub PM10  SDS011
+2 Feinstaub PM2.5 SDS011,588,Feinstaub PM2.5 SDS011
+"Feinstaub PM2,5",588,Feinstaub PM2.5 SDS011
+"Feinstaub pm2,5",588,Feinstaub PM2.5 SDS011
+Feinstaub: PM2.5,588,Feinstaub PM2.5 SDS011
+Feinstaub (PM2.5),588,Feinstaub PM2.5 SDS011
+Feinstaub [PM2.5],588,Feinstaub PM2.5 SDS011
+"Feinstaub(PM2,5)",588,Feinstaub PM2.5 SDS011
+Feinstaub PM2.5,588,Feinstaub PM2.5 SDS011
+2 Feuchtigkeit SHT31-DIS-B FPCB 4,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Temperatur SHT31-DIS-B FPCB,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Feuchtigkeit SHT31-DIS-B FPCB 3,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Feuchtigkeit SHT31-DIS-B FPCB 2,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Temperatur SHT31-DIS-B FPCB 4,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Temperatur SHT31-DIS-B FPCB 1,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Temperatur SHT31-DIS-B FPCB 2,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Temperatur SHT31-DIS-B FPCB 3,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Feuchtigkeit SHT31-DIS-B FPCB,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Feuchtigkeit SHT31-DIS-B FPCB 1,596,Feuchtigkeit SHT31-DIS-B FPCB
+2 Feuchtigkeit SHT85Pin-Typ 3,606,Feuchtigkeit SHT85Pin-Typ
+2 Feuchtigkeit SHT85Pin-Typ 2,606,Feuchtigkeit SHT85Pin-Typ
+2 Feuchtigkeit SHT85Pin-Typ 1,606,Feuchtigkeit SHT85Pin-Typ
+2 Feuchtigkeit SHT85Pin-Typ 4,606,Feuchtigkeit SHT85Pin-Typ
+2 Feuchtigkeit SHT85Pin-Typ,606,Feuchtigkeit SHT85Pin-Typ
+Latitude (GPS),611,Latitude GPS
+2 Latitude GPS,611,Latitude GPS
+2 Luftfeuchte,617,Luftfeuchte
+Luftfeuchte,617,Luftfeuchte
+luftfeuchte,617,Luftfeuchte
+Lufttemperatur,622,Lufttemperatur
+2 Lufttemperatur,622,Lufttemperatur
+2 PM1.0 SPS30,624,PM1.0 SPS30
+M - PM1 SPS30,624,PM1.0 SPS30
+N - PM1 SPS30,624,PM1.0 SPS30
+PM10 (SDS 011),627,PM10 SDS
+SDS 011: PM10,627,PM10 SDS
+2 PM10 SDS 011,627,PM10 SDS
+PM10 SDS 011,627,PM10 SDS
+M - PM10 SPS30,631,PM10 SPS30
+PM10 (SPS30),631,PM10 SPS30
+2 PM10 SPS30,631,PM10 SPS30
+N - PM10 SPS30,631,PM10 SPS30
+PM2.5 (SDS 011),635,PM2.5 SDS
+PM2.5 SDS 011,635,PM2.5 SDS
+2 PM2.5 SDS 011,635,PM2.5 SDS
+SDS 011: PM2.5,635,PM2.5 SDS
+M - PM2.5 SPS30,639,PM2.5 SPS30
+N - PM2.5 SPS30,639,PM2.5 SPS30
+PM2.5 (SPS30),639,PM2.5 SPS30
+2 PM2.5 SPS30,639,PM2.5 SPS30
+rel. Luftfeuchte (HDC),647,rel. Luftfeuchte HDC
+Luftfeuchte HDC,647,rel. Luftfeuchte HDC
+rel. Luftfeuchte HDC,647,rel. Luftfeuchte HDC
+2 rel. Luftfeuchte HDC,647,rel. Luftfeuchte HDC
+relative Luftfeuchte,651,relative Luftfeuchte BME680
+Relative Luftfeuchte,651,relative Luftfeuchte BME680
+2 relative Luftfeuchte BME680,651,relative Luftfeuchte BME680
+Temperatur HDC,654,Temperatur HDC
+2 Temperatur HDC,654,Temperatur HDC
+2 Temperatur SHT85Pin-Typ 2,656,Temperatur SHT85Pin-Typ
+2 Temperatur SHT85Pin-Typ,656,Temperatur SHT85Pin-Typ
+2 Temperatur SHT85Pin-Typ 3,656,Temperatur SHT85Pin-Typ
+2 Temperatur SHT85Pin-Typ 1,656,Temperatur SHT85Pin-Typ
+2 Temperatur SHT85Pin-Typ 4,656,Temperatur SHT85Pin-Typ
+2 Time GPS,661,Time GPS
+Time GPS,661,Time GPS
+3b UV Intensität,663,UV-Intensität
+G4-UV-Intensität,663,UV-Intensität
+2 UV-Intensität,663,UV-Intensität
+UV Intensität,663,UV-Intensität
+4A UV Intensität,663,UV-Intensität
+UV-A Intensität,663,UV-Intensität
+UV-Intensität,663,UV-Intensität
+21 Wind Speed Davis,670,Wind Speed Davis
+Wind Speed Davis,670,Wind Speed Davis
+3A Wind Speed Davis,670,Wind Speed Davis
+5A Wind speed Davis,670,Wind Speed Davis
+23 Davis-Anemometer Wind Speed,672,Davis-Anemometer Wind Direction
+23 Davis-Anemometer Wind Direction,672,Davis-Anemometer Wind Direction
+23 Differential Pressure 1,674,Differential Pressure
+23 Differential Pressure 2,674,Differential Pressure
+23 Differential Pressure 3,674,Differential Pressure
+23 GPS Latitude,677,GPS Latitude
+GPS - Latitude,677,GPS Latitude
+23 GPS Longitude,679,GPS Longitude
+GPS - Longitude,679,GPS Longitude
+23 rel. Humidity SHT85,681,rel. Humidity HDC1080
+23 rel. Humidity HDC1080,681,rel. Humidity HDC1080
+24 Humidity DHT11 2,683,Humidity DHT11
+24 Humidity DHT11 1,683,Humidity DHT11
+Humidity (DHT11),683,Humidity DHT11
+24 Humidity DHT22 2,686,Humidity DHT22
+24 Humidity DHT22 1,686,Humidity DHT22
+24 Humidity SHT31 2 (thin),688,Humidity SHT31 1 (thin)
+24 Humidity SHT31 1 (thin),688,Humidity SHT31 1 (thin)
+24 Humidity SHT31 3 (thick),690,Humidity SHT31 3 (thick)
+24 Humidity SHT31 4 (thick),690,Humidity SHT31 3 (thick)
+24 Humidity SHT85 2,692,Humidity SHT85
+24 Humidity SHT85 3,692,Humidity SHT85
+24 Humidity SHT85 4,692,Humidity SHT85
+24 Humidity SHT85 1,692,Humidity SHT85
+24 Temperature DHT11 2,696,Temperature DHT11
+Temperature (DHT11),696,Temperature DHT11
+24 Temperature DHT11 1,696,Temperature DHT11
+24 Temperature DHT22 1,699,Temperature DHT22
+24 Temperature DHT22 2,699,Temperature DHT22
+"Temperature, DHT22",699,Temperature DHT22
+24 Temperature SHT31 1 (thin),702,Temperature SHT31 1 (thin)
+24 Temperature SHT31 2 (thin),702,Temperature SHT31 1 (thin)
+24 Temperature SHT31 3 (thick),704,Temperature SHT31 3 (thick)
+24 Temperature SHT31 4 (thick),704,Temperature SHT31 3 (thick)
+24 Temperature SHT85 4,706,Temperature SHT85
+24 Temperature SHT85 1,706,Temperature SHT85
+24 Temperature SHT85 2,706,Temperature SHT85
+24 Temperature SHT85 3,706,Temperature SHT85
+GPS Lat,710,GPS Lat
+7 GPS Lat,710,GPS Lat
+GPS 6 Lat,710,GPS Lat
+3 GPS Lat,710,GPS Lat
+GPS lat 25,710,GPS Lat
+7 GPS Lon,715,GPS Lon
+3 GPS Lon,715,GPS Lon
+GPS Lon,715,GPS Lon
+6 GPS Lon,715,GPS Lon
+3 GPS Satellites,719,GPS Satellites
+GPS Satellites,719,GPS Satellites
+3 GPS Time,721,GPS Time
+GPS Time Raw,721,GPS Time
+7 GPS Time,721,GPS Time
+GPS Time,721,GPS Time
+GPS-Time,721,GPS Time
+6 GPS Time,721,GPS Time
+3A Humidity SHT31 1,727,3A Humidity SHT31
+3A Humidity SHT31 0,727,3A Humidity SHT31
+3A Humidity SHT85 2,729,3A Humidity SHT85
+3A Humidity SHT85 1,729,3A Humidity SHT85
+3A Humidity SHT85 5,729,3A Humidity SHT85
+3A Humidity SHT85 4,729,3A Humidity SHT85
+3A Humidity SHT85 3,729,3A Humidity SHT85
+3A Humidity SHT85 0,729,3A Humidity SHT85
+"Niederschlag, Davis",738,3A Niederschlag Davis
+Niederschlag Davis,738,3A Niederschlag Davis
+7 Niederschlag Davis,738,3A Niederschlag Davis
+3A Niederschlag Davis,738,3A Niederschlag Davis
+3A Temperature SHT31 1,742,3A Temperature SHT31
+3A Temperature SHT31 0,742,3A Temperature SHT31
+3A Temperature SHT85 3,744,3A Temperature SHT85
+3A Temperature SHT85 5,744,3A Temperature SHT85
+3A Temperature SHT85 4,744,3A Temperature SHT85
+3A Temperature SHT85 0,744,3A Temperature SHT85
+3A Temperature SHT85 1,744,3A Temperature SHT85
+3A Temperature SHT85 2,744,3A Temperature SHT85
+Luftdruck BME,756,3b Luftdruck BME
+3b Luftdruck BME,756,3b Luftdruck BME
+Lufttemperatur BME,758,3b Lufttemperatur BME
+3b Lufttemperatur BME,758,3b Lufttemperatur BME
+4 A Air Temperature BME680,764,A Air Temperature BME680
+air temperature,764,A Air Temperature BME680
+Air temperature,764,A Air Temperature BME680
+Air Temperature,764,A Air Temperature BME680
+"VOC, BME680",776,A VOC BME680
+VOC (BME680),776,A VOC BME680
+VOC BME680,776,A VOC BME680
+VOC bme680,776,A VOC BME680
+4 A VOC BME680,776,A VOC BME680
+4A Lufttemperatur BME680,782,4A Lufttemperatur BME680
+"Lufttemperatur, BME680",782,4A Lufttemperatur BME680
+Lufttemperatur BME680,782,4A Lufttemperatur BME680
+Lufttemperatur 2-BME680,782,4A Lufttemperatur BME680
+Lufttemperatur (BME680),782,4A Lufttemperatur BME680
+5A Pressure BME 680,791,5A Pressure BME
+Pressure BME 680,791,5A Pressure BME
+6 Humidity SHT31.1 FPCB,794,Humidity SHT31.1 FPCB
+6 Temperature SHT31.1 FPCB,794,Humidity SHT31.1 FPCB
+6 Humidity SHT31.2 B1E,796,Humidity SHT31.2 B1E
+6 Temperature SHT31.2 B1E,796,Humidity SHT31.2 B1E
+light,798,Light
+7 Light,798,Light
+Light,798,Light
+6 Light,798,Light
+6 Niederschlagsintensität,802,Niederschlagsintensität
+Niederschlagsintensität 1,802,Niederschlagsintensität
+Niederschlagsintensität  2,802,Niederschlagsintensität
+Niederschlagsintensität,802,Niederschlagsintensität
+Rain /h,806,Rain
+Rain,806,Rain
+rain,806,Rain
+6 Rain,806,Rain
+uv,810,UV
+7 UV,810,UV
+6 UV,810,UV
+UV,810,UV
+UVI,814,UVI
+6 UVI,814,UVI
+Wind Speed,816,Wind Speed
+Wind speed,816,Wind Speed
+wind speed,816,Wind Speed
+6 Wind Speed,816,Wind Speed
+Windgeschwindigkeit A,820,Windgeschwindigkeit
+6 Windgeschwindigkeit,820,Windgeschwindigkeit
+Windgeschwindigkeit,820,Windgeschwindigkeit
+Windgeschwindigkeit B,820,Windgeschwindigkeit
+Windgeschwindigkeit [m/s],820,Windgeschwindigkeit
+Windrichtung [°N],825,Windrichtung
+Windrichtung A,825,Windrichtung
+6 Windrichtung,825,Windrichtung
+Windrichtung,825,Windrichtung
+Windrichtung B,825,Windrichtung
+7A Luftfeuchte,831,7A Luftfeuchte
+7A Luftfeuchte SHT31,831,7A Luftfeuchte
+7B Luftfeuchte,833,7B Luftfeuchte
+7B Luftfeuchte SHT31,833,7B Luftfeuchte
+Luftdruck 1,835,Luftdruck
+8 Luftdruck,835,Luftdruck
+Luftdruck N.N.,835,Luftdruck
+luftdruck,835,Luftdruck
+LuftDruck,835,Luftdruck
+Luftdruck,835,Luftdruck
+8 PM1,841,PM1
+PM1,841,PM1
+PM1.0,841,PM1
+pm1,841,PM1
+rel. Luftfeuchte 1,845,rel. Luftfeuchte
+rel. Luftfeuchte 2,845,rel. Luftfeuchte
+8 rel. Luftfeuchte,845,rel. Luftfeuchte
+rel. Luftfeuchte?,845,rel. Luftfeuchte
+rel.Luftfeuchte,845,rel. Luftfeuchte
+rel. Luftfeuchte (3),845,rel. Luftfeuchte
+rel. Luftfeuchte [%],845,rel. Luftfeuchte
+rel. Luftfeuchte,845,rel. Luftfeuchte
+rel. luftfeuchte,845,rel. Luftfeuchte
+rel. Luftfeuchte (1),845,rel. Luftfeuchte
+rel. Luftfeuchte (2),845,rel. Luftfeuchte
+rel- Luftfeuchte,845,rel. Luftfeuchte
+rel-. Luftfeuchte,845,rel. Luftfeuchte
+rel. Luftfeuchte (6),845,rel. Luftfeuchte
+Rel. Luftfeuchte,845,rel. Luftfeuchte
+rel. Luftfeuchte (4),845,rel. Luftfeuchte
+Temperatur 2 (G),861,Temperatur
+8 Temperatur,861,Temperatur
+Temperatur 2,861,Temperatur
+Temperatur 1,861,Temperatur
+Temperatur,861,Temperatur
+temperatur,861,Temperatur
+Temperatur (1),861,Temperatur
+Temperatur (2),861,Temperatur
+Temperatur (3),861,Temperatur
+Temperatur (4),861,Temperatur
+Temperatur (6),861,Temperatur
+Temperatur 1 (G),861,Temperatur
+Temperatur 3 (G),861,Temperatur
+Temperatur 3,861,Temperatur
+Temperatur 4,861,Temperatur
+Temperatur I,861,Temperatur
+Temperatur 4 (A),861,Temperatur
+Temperatur [°C],861,Temperatur
+8a Temperatur PT-1000,879,8a Temperatur PT-1000
+8b Temperatur PT-1000,879,8a Temperatur PT-1000
+"Temperatur, PT-1000",879,8a Temperatur PT-1000
+PT-1000,879,8a Temperatur PT-1000
+8b pH Atlas Scientific,882,8b pH Atlas Scientific
+pH Atlas Scientific,882,8b pH Atlas Scientific
+9 Temperature SHT85 Blumentopf,887,Humidity SHT85 Blumentopf
+9 Humidity SHT85 Blumentopf,887,Humidity SHT85 Blumentopf
+9 Temperature SHT85 Dach,889,Humidity SHT85 Dach
+9 Humidity SHT85 Dach,889,Humidity SHT85 Dach
+9 Temperature SHT85 Steinbank,891,Humidity SHT85 Steinbank
+9 Humidity SHT85 Steinbank,891,Humidity SHT85 Steinbank
+9 Humidity SHT85 Wiese,893,Humidity SHT85 Wiese
+9 Temperature SHT85 Wiese,893,Humidity SHT85 Wiese
+SDS011 - PM10.0,895,[SDS011] PM10
+[SDS011] PM10,895,[SDS011] PM10
+[SDS011] PM2.5,897,[SDS011] PM2.5
+SDS011 - PM2.5,897,[SDS011] PM2.5
+absolute Luftfeuchtigkeit,899,absolute Luftfeuchtigkeit
+Absolute Luftfeuchtigkeit,899,absolute Luftfeuchtigkeit
+Abstand nach links,901,Abstand nach links
+Abstand(nach links),901,Abstand nach links
+Acceleration Z-Axis,903,Acceleration X-Axis
+Acceleration X-Axis,903,Acceleration X-Axis
+Acceleration Y-Axis,903,Acceleration X-Axis
+Active Solar Power,906,Active Solar Power
+Solar-Power,906,Active Solar Power
+Solar Power,906,Active Solar Power
+AD-Wandler 3,909,AD-Wandler
+AD-Wandler 2,909,AD-Wandler
+AD-Wandler 1,909,AD-Wandler
+AD-Wandler 4,909,AD-Wandler
+ADC1,913,ADC1
+adc1,913,ADC1
+adc2,915,ADC2
+ADC2,915,ADC2
+ADC3,917,ADC3
+adc3,917,ADC3
+BME680 - Air pressure,919,Air  Pressure
+Air  Pressure,919,Air  Pressure
+AIR PRESSURE,919,Air  Pressure
+air pressure,919,Air  Pressure
+Air Pressure,919,Air  Pressure
+Air pressure,919,Air  Pressure
+Air Dust Particles PM10,925,Air Dust Particles PM10
+Air Dust Particles PM2.5,925,Air Dust Particles PM10
+Air pollution PM 10,927,Air pollution PM 1.0
+Air pollution PM 2.5,927,Air pollution PM 1.0
+Air pollution PM 1.0,927,Air pollution PM 1.0
+Air-Quality,930,Air quality
+Air quality,930,Air quality
+Air Quality Index,930,Air quality
+Air Quality,930,Air quality
+Airpressure,934,Airpressure
+AirPressure,934,Airpressure
+AirQuality,936,Airquality
+Airquality,936,Airquality
+Altitude,938,altitude
+altitude,938,altitude
+Ambient light,940,Ambient light
+Ambient Light,940,Ambient light
+AQI 2.5,942,AQI
+AQI,942,AQI
+AS3935 -  Disturber,944,AS3935 -  Disturber
+AS3935 - Disturber,944,AS3935 -  Disturber
+Atmospheric Pressure,946,Atmospheric pressure
+Atmospheric pressure,946,Atmospheric pressure
+barometer,948,Barometer
+Barometer,948,Barometer
+Barometric Pressure,950,barometric pressure
+Barometric pressure,950,barometric pressure
+barometric pressure,950,barometric pressure
+Battery,953,Battery
+battery,953,Battery
+Battery level,955,Battery level
+Battery Level,955,Battery level
+Battery temperature,957,Battery temperature
+Battery Temperature,957,Battery temperature
+battery voltage,959,Battery voltage
+Battery voltage,959,Battery voltage
+Battery Voltage,959,Battery voltage
+Beschleunigung (X),962,Beschleunigung
+Beschleunigung Y,962,Beschleunigung
+Beschleunigung X,962,Beschleunigung
+Beschleunigung,962,Beschleunigung
+Beschleunigung (Z),962,Beschleunigung
+Beschleunigung Z,962,Beschleunigung
+Beschleunigung (Y),962,Beschleunigung
+Beschleunigung (Z-Achse),969,Beschleunigung (X-Achse)
+Beschleunigung (X-Achse),969,Beschleunigung (X-Achse)
+Beschleunigung (Y-Achse),969,Beschleunigung (X-Achse)
+Beschleunigung X-Achse,969,Beschleunigung (X-Achse)
+Beschleunigung Y-Achse,969,Beschleunigung (X-Achse)
+Beschleunigung Z-Achse,969,Beschleunigung (X-Achse)
+Beschleunigung auf der X-Achse,975,Beschleunigung auf der X-Achse
+Beschleunigung auf der Y-Achse,975,Beschleunigung auf der X-Achse
+Beschleunigung auf der Z-Achse,975,Beschleunigung auf der X-Achse
+BLE,978,BLE
+ble,978,BLE
+BME280: Luftdruck,980,BME280-Luftdruck
+BME280-Luftdruck,980,BME280-Luftdruck
+BME280-rel. Luftfeuchte,982,BME280-rel. Luftfeuchte
+BME280: rel. Luftfeuchte,982,BME280-rel. Luftfeuchte
+BME280-Temperatur,984,BME280-Temperatur
+BME280: Temperatur,984,BME280-Temperatur
+BME680 - VOC - Volatile Organic Compounds,986,BME680 - VOC - Volatile Organic Compounds
+BME680 - VOC Volatile Organic Compounds,986,BME680 - VOC - Volatile Organic Compounds
+BME680 Luftfeuchte A,988,BME680 Luftfeuchte A
+BME680 Luftfeuchte B,988,BME680 Luftfeuchte A
+BME680 Lufttemperatur A,990,BME680 Lufttemperatur A
+BME680 Lufttemperatur B,990,BME680 Lufttemperatur A
+Bodenfeuchte 2,992,Bodenfeuchte
+Bodenfeuchte C,992,Bodenfeuchte
+Bodenfeuchte 1,992,Bodenfeuchte
+Bodenfeuchte 3,992,Bodenfeuchte
+Bodenfeuchte,992,Bodenfeuchte
+Bodenfeuchte 4,992,Bodenfeuchte
+Bodenfeuchte-10cm,998,Bodenfeuchte (10cm Tiefe)
+Bodenfeuchte 10cm,998,Bodenfeuchte (10cm Tiefe)
+Bodenfeuchte (10cm Tiefe),998,Bodenfeuchte (10cm Tiefe)
+Bodenfeuchte 20cm,1001,Bodenfeuchte 20cm
+Bodenfeuchte-20cm,1001,Bodenfeuchte 20cm
+Bodenfeuchte B (30 cm),1003,Bodenfeuchte 30 cm
+Bodenfeuchte 30 cm,1003,Bodenfeuchte 30 cm
+Bodenfeuchte-30cm,1005,Bodenfeuchte 30cm
+Bodenfeuchte 30cm,1005,Bodenfeuchte 30cm
+Bodentemperatur 30cm (bald verfügbar),1007,Bodenfeuchte 30cm (bald verfügbar)
+Bodenfeuchte 30cm (bald verfügbar),1007,Bodenfeuchte 30cm (bald verfügbar)
+Bodenfeuchte-60cm,1009,Bodenfeuchte 60cm
+Bodenfeuchte 60cm,1009,Bodenfeuchte 60cm
+Bodenfeuchte 60cm (bald verfügbar),1011,Bodenfeuchte 60cm (bald verfügbar)
+Bodentemperatur 60cm (bald verfügbar),1011,Bodenfeuchte 60cm (bald verfügbar)
+Bodenfeuchte-80cm,1013,Bodenfeuchte 80cm
+Bodenfeuchte 80cm,1013,Bodenfeuchte 80cm
+Bodenfeuchte Sensor 1,1015,Bodenfeuchte Sensor
+Bodenfeuchte Sensor 2,1015,Bodenfeuchte Sensor
+Bodentemperatur,1017,Bodentemperatur
+Bodentemperatur 2,1017,Bodentemperatur
+Bodentemperatur 1,1017,Bodentemperatur
+Bodentemperatur 3,1017,Bodentemperatur
+Bodentemperatur 4,1017,Bodentemperatur
+Bodentemperatur 10cm,1022,Bodentemperatur (10cm Tiefe)
+Bodentemperatur (10cm Tiefe),1022,Bodentemperatur (10cm Tiefe)
+Bodentemperatur -5cm,1024,Bodentemperatur -5cm
+Bodentemperatur 5cm,1024,Bodentemperatur -5cm
+Bodentemperatur B (30 cm),1026,Bodentemperatur 30 cm
+Bodentemperatur 30 cm,1026,Bodentemperatur 30 cm
+MiCS6814 - CO - Carbon monoxide,1028,Carbon monoxide - CO
+Carbon monoxide - CO,1028,Carbon monoxide - CO
+CO - Carbon Monoxide,1028,Carbon monoxide - CO
+Ciśnienie,1030,Ciśnienie
+CIŚNIENIE,1030,Ciśnienie
+Luftdruck | Ciśnienie atmosferyczne,1032,Ciśnienie atmosferyczne
+Ciśnienie atmosferyczne,1032,Ciśnienie atmosferyczne
+CO2 (1),1035,CO2
+CO2,1035,CO2
+Co2,1035,CO2
+co2,1035,CO2
+CO2 (3),1035,CO2
+CO2 (2),1035,CO2
+CO2-Äquivalent,1042,CO2 Äquivalent
+CO2 Äquivalent (BME680),1042,CO2 Äquivalent
+CO2 Äquivalent,1042,CO2 Äquivalent
+CO2_scd30,1045,CO2_SCD30
+CO2_SCD30,1045,CO2_SCD30
+Co2SCD41,1047,CO2SCD41
+CO2SCD41,1047,CO2SCD41
+CO₂ (4),1049,CO₂
+CO₂,1049,CO₂
+CO₂ (6),1049,CO₂
+Cumulative Energy Production,1052,Cumulative Energy Production
+Energy Production,1052,Cumulative Energy Production
+Energy production,1052,Cumulative Energy Production
+Rain Rate,1055,Current Rain Rate
+Current Rain Rate,1055,Current Rain Rate
+Dense PM 4.0,1057,Dense PM 1.0
+Dense PM 10,1057,Dense PM 1.0
+PM 10,1057,Dense PM 1.0
+Dense PM 1.0,1057,Dense PM 1.0
+PM 10.0,1057,Dense PM 1.0
+Dense PM 2.5,1057,Dense PM 1.0
+Inside Device Temperature,1063,Device Temperature
+Device Temperature,1063,Device Temperature
+dewpoint,1065,Dewpoint
+Dewpoint,1065,Dewpoint
+direction,1067,direction
+Direction,1067,direction
+distance,1069,Distance
+Distance,1069,Distance
+Dust (PM10),1071,Dust (PM10)
+Dust PM10,1071,Dust (PM10)
+Fine Dust PM10,1071,Dust (PM10)
+Dust (PM2.5),1074,Dust (PM2.5)
+"Dust PM2,5",1074,Dust (PM2.5)
+Dust PM2.5,1074,Dust (PM2.5)
+Fine Dust PM2.5,1074,Dust (PM2.5)
+Dust PM 10,1078,Dust PM
+Dust PM 2.5,1078,Dust PM
+Humidity dust sensor,1080,dust sensor
+dust sensor,1080,dust sensor
+Temperature dust sensor,1080,dust sensor
+Eventniederschlag 1,1083,Eventniederschlag
+Eventniederschlag 2,1083,Eventniederschlag
+fan speed,1085,FAN speed
+FAN speed,1085,FAN speed
+Feinstaub-2.5,1087,Feinstaub
+Feinstaub,1087,Feinstaub
+"Feinstaub 2,5",1087,Feinstaub
+Feinstaub 2.5,1087,Feinstaub
+Feinstaub 10,1091,Feinstaub
+Feinstaub 10.0,1091,Feinstaub
+Feinstaub-10,1091,Feinstaub
+"Feinstaub PM 2,5",1094,Feinstaub PM
+Feinstaub PM 10,1094,Feinstaub PM
+Feinstaub PM 2.5,1094,Feinstaub PM
+"Feinstaub PM 10,0",1094,Feinstaub PM
+Feinstaub PM1.0,1098,Feinstaub PM1
+Feinstaub PM1,1098,Feinstaub PM1
+fine particle matter PM2.5,1100,fine particle matter PM10.0
+fine particle matter PM10.0,1100,fine particle matter PM10.0
+Fine Particular Matter PM10,1102,Fine Particular Matter PM10
+Fine Particular Matter PM2.5,1102,Fine Particular Matter PM10
+G2 Luftfeuchtigkeit 0.5m b,1105,G2 Luftfeuchtigkeit 0.5m a
+G2 Luftfeuchtigkeit 0.5m a,1105,G2 Luftfeuchtigkeit 0.5m a
+G2 Luftfeuchtigkeit 0m b,1107,G2 Luftfeuchtigkeit 0m a
+G2 Luftfeuchtigkeit 0m a,1107,G2 Luftfeuchtigkeit 0m a
+G2 Luftfeuchtigkeit 1m a,1109,G2 Luftfeuchtigkeit 1m a
+G2 Luftfeuchtigkeit 1m b,1109,G2 Luftfeuchtigkeit 1m a
+G2 Luftfeuchtigkeit 2m b,1111,G2 Luftfeuchtigkeit 2m a
+G2 Luftfeuchtigkeit 2m a,1111,G2 Luftfeuchtigkeit 2m a
+G2 Temperature 0.5m a,1113,G2 Temperature 0.5m a
+G2 Temperature 0.5m b,1113,G2 Temperature 0.5m a
+G2 Temperature 0m b,1115,G2 Temperature 0m a
+G2 Temperature 0m a,1115,G2 Temperature 0m a
+G2 Temperature 1m a,1117,G2 Temperature 1m a
+G2 Temperature 1m b,1117,G2 Temperature 1m a
+G2 Temperature 2m b,1119,G2 Temperature 2m a
+G2 Temperature 2m a,1119,G2 Temperature 2m a
+G4-L-0.5m-A,1121,G4-L-0.5m-A
+G4-L-0.5m-B,1121,G4-L-0.5m-A
+G4-L-0m-B,1123,G4-L-0m-A
+G4-L-0m-A,1123,G4-L-0m-A
+G4-L-1m-B,1125,G4-L-1m-A
+G4-L-1m-A,1125,G4-L-1m-A
+G4-L-2m-A,1127,G4-L-2m-A
+G4-L-2m-B,1127,G4-L-2m-A
+G4-temp-0.5m-A,1129,G4-temp-0.5m-A
+G4-temp-0.5m-B,1129,G4-temp-0.5m-A
+G4-temp-0m-B,1131,G4-temp-0m-A
+G4-temp-0m-A,1131,G4-temp-0m-A
+G4-temp-1m-A,1133,G4-temp-1m-A
+G4-temp-1m-B,1133,G4-temp-1m-A
+G4-temp-2m-A,1135,G4-temp-2m-A
+G4-temp-2m-B,1135,G4-temp-2m-A
+gas,1137,gas
+Gas,1137,gas
+Gelöster Sauerstoff (DO),1139,gelöster Sauerstoff
+Gelöster Sauerstoff,1139,gelöster Sauerstoff
+gelöster Sauerstoff a,1139,gelöster Sauerstoff
+gelöster Sauerstoff,1139,gelöster Sauerstoff
+Gesamthärte 2,1143,Gesamthärte
+Gesamthärte,1143,Gesamthärte
+Gesamtniederschlag  2,1145,Gesamtniederschlag
+Gesamtniederschlag 1,1145,Gesamtniederschlag
+Global radiation,1147,Global radiation
+Global Radiation,1147,Global radiation
+GPS Altitude,1149,GPS Altitude
+GPS Altitude MSL,1149,GPS Altitude
+Heat Index,1151,Heat Index
+Humidex (Heat Index),1151,Heat Index
+Helligkeitssensor A,1153,Helligkeitssensor A
+Helligkeitssensor B,1153,Helligkeitssensor A
+Humid 1,1155,Humid
+Humid 2,1155,Humid
+rel. Luftfeuchte BME280,1157,Humidity / Luftfeuchte
+rel. Luftfeuchte (BME280),1157,Humidity / Luftfeuchte
+"rel. Luftfeuchte, BME280",1157,Humidity / Luftfeuchte
+Luftfeuchte (BME280),1157,Humidity / Luftfeuchte
+"Humidity / Luftfeuchte, BME280",1157,Humidity / Luftfeuchte
+Humidity / Luftfeuchte,1157,Humidity / Luftfeuchte
+Luftfeuchte BME280,1157,Humidity / Luftfeuchte
+rel. Luftfeuchte (DHT22),1161,"Humidity / Luftfeuchte, DHT22"
+Luftfeuchte DHT22,1161,"Humidity / Luftfeuchte, DHT22"
+Rel. Luftfeuchte DHT22,1161,"Humidity / Luftfeuchte, DHT22"
+"Humidity / Luftfeuchte, DHT22",1161,"Humidity / Luftfeuchte, DHT22"
+rel. Luftfeuchte DHT22,1161,"Humidity / Luftfeuchte, DHT22"
+"Temperature, HECA (preheating chamber)",1163,"Humidity / Luftfeuchte, HECA (preheating chamber)"
+"Humidity / Luftfeuchte, HECA (preheating chamber)",1163,"Humidity / Luftfeuchte, HECA (preheating chamber)"
+rel. Luftfeuchte HTU21D,1165,"Humidity / Luftfeuchte, HTU21D"
+"Humidity / Luftfeuchte, HTU21D",1165,"Humidity / Luftfeuchte, HTU21D"
+Humidity-HECA,1167,Humidity HECA
+Humidity HECA,1167,Humidity HECA
+humidité relative air,1169,Humidité Relative
+Humidité Relative,1169,Humidité Relative
+Höhe über NN in m,1171,Höhe über NN
+Höhe über NN,1171,Höhe über NN
+IAQ (indoor air quality),1173,IAQ (indoor air quality)
+raw IAQ  (Indoor Air Quality),1173,IAQ (indoor air quality)
+IAQ Accuracy,1175,IAQ accuracy
+IAQ accuracy,1175,IAQ accuracy
+Innenraumluftqualität(IAQ),1177,Innenraumluftqualität (IAQ)
+Innenraumluftqualität (IAQ),1177,Innenraumluftqualität (IAQ)
+SCD30 - Temperature (Inside Box),1179,Inside box temperature
+temperature inside box,1179,Inside box temperature
+Inside box temperature,1179,Inside box temperature
+Kugelventil 2,1181,Kugelventil
+Kugelventil 3,1181,Kugelventil
+Kugelventil 1,1181,Kugelventil
+Kupfer C,1184,Kupfer C
+Kupfer D,1184,Kupfer C
+LA max,1186,LA max
+LA.max,1186,LA max
+LA min,1188,LA min
+LA.min,1188,LA min
+lat,1190,lat
+Lat,1190,lat
+Latitude,1192,Latitude
+latitude,1192,Latitude
+Lautstärke (4),1194,Lautstärke
+Lautstärke (1),1194,Lautstärke
+lautstärke,1194,Lautstärke
+Lautstärke,1194,Lautstärke
+LICHT,1198,Licht
+Licht,1198,Licht
+Lichtsensor,1200,Lichtsensor
+lichtsensor,1200,Lichtsensor
+Visible light intensity,1202,Light Intensity
+Light Intensity,1202,Light Intensity
+Light intensity,1202,Light Intensity
+light intensity,1202,Light Intensity
+UV-light Intensity,1202,Light Intensity
+lightval,1207,Lightval
+Lightval,1207,Lightval
+Longitude,1209,longitude
+longitude,1209,longitude
+loudness,1211,Loudness
+Loudness,1211,Loudness
+Luchtdruk,1213,Luchtdruk
+luchtdruk,1213,Luchtdruk
+Luft-Qualität,1215,Luft Qualität
+Luft Qualität,1215,Luft Qualität
+Luftdruck BME280,1217,Luftdruck  (BME280)
+Luftdruck  (BME280),1217,Luftdruck  (BME280)
+Luftdruck (BME280),1217,Luftdruck  (BME280)
+Luftdruck - BME280,1217,Luftdruck  (BME280)
+Luftdruck ( Ciśnienie ),1221,Luftdruck ( Ciśnienie )
+Luftdruck (Ciśnienie),1221,Luftdruck ( Ciśnienie )
+Luftdruck / Ciśnienie,1221,Luftdruck ( Ciśnienie )
+Luftdruck abs.,1224,Luftdruck (abs. Pressure)
+Luftdruck (abs. Pressure),1224,Luftdruck (abs. Pressure)
+Luftdruck QFF,1226,Luftdruck QFF
+rel. Luftdruck (QFF),1226,Luftdruck QFF
+Luftfeuchte (Sensor 2),1231,Luftfeuchte (Sensor 2)
+rel. Luftfeuchte (Sensor 2),1231,Luftfeuchte (Sensor 2)
+Luftfeuchte (SHT31),1233,Luftfeuchte (SHT31)
+"Luftfeuchte, SHT31",1233,Luftfeuchte (SHT31)
+Luftfeuchte 2 (oben),1235,Luftfeuchte 1 (oben)
+Luftfeuchte 1 (oben),1235,Luftfeuchte 1 (oben)
+Luftfeuchte 2-SHT85 Nr.0,1237,Luftfeuchte 2-SHT85 Nr.0
+Luftfeuchte 2-SHT85 Nr.1,1237,Luftfeuchte 2-SHT85 Nr.0
+Luftfeuchte 2-SHT85 Nr.2,1237,Luftfeuchte 2-SHT85 Nr.0
+Luftfeuchte 3 (mitte),1240,Luftfeuchte 3 (mitte)
+Luftfeuchte 4 (mitte),1240,Luftfeuchte 3 (mitte)
+Luftfeuchte 5 (unten),1242,Luftfeuchte 5 (unten)
+Luftfeuchte 6 (unten),1242,Luftfeuchte 5 (unten)
+Luftfeuchte 7 (unten),1242,Luftfeuchte 5 (unten)
+rel. Luftfeuchte (BME 280),1245,Luftfeuchte BME
+Luftfeuchte BME,1245,Luftfeuchte BME
+rel. Luftfeuchte BME,1245,Luftfeuchte BME
+Luftfeuchte Terrasse,1250,Luftfeuchte Terrasse
+rel. Luftfeuchte Terrasse,1250,Luftfeuchte Terrasse
+rel. Luftfeuchte (Balkon),1252,Luftfeuchte(Balkon)
+Luftfeuchte(Balkon),1252,Luftfeuchte(Balkon)
+luftfeuchtigkeit,1254,Luftfeuchtigkeit
+Luftfeuchtigkeit,1254,Luftfeuchtigkeit
+Luftfeuchtigkeit bme680,1256,Luftfeuchtigkeit 2-BME680
+Luftfeuchtigkeit 2-BME680,1256,Luftfeuchtigkeit 2-BME680
+Lufttemperatur 2 (oben),1258,Lufttemperatur 0 (oben)
+Lufttemperatur 1 (oben),1258,Lufttemperatur 0 (oben)
+Lufttemperatur 0 (oben),1258,Lufttemperatur 0 (oben)
+Lufttemperatur 2-SHT85 Nr.2,1261,Lufttemperatur 2-SHT85 Nr.0
+Lufttemperatur 2-SHT85 Nr.1,1261,Lufttemperatur 2-SHT85 Nr.0
+Lufttemperatur 2-SHT85 Nr.0,1261,Lufttemperatur 2-SHT85 Nr.0
+Lufttemperatur 3 (mitte),1264,Lufttemperatur 3 (mitte)
+Lufttemperatur 4 (mitte),1264,Lufttemperatur 3 (mitte)
+Lufttemperatur 5 (unten),1266,Lufttemperatur 5 (unten)
+Lufttemperatur 6 (unten),1266,Lufttemperatur 5 (unten)
+Lufttemperatur 7 (unten),1266,Lufttemperatur 5 (unten)
+Luminosity,1269,Luminosity
+luminosity,1269,Luminosity
+Lux,1271,Lux
+lux,1271,Lux
+N - PM4 SPS30,1273,M - PM4 SPS30
+M - PM4 SPS30,1273,M - PM4 SPS30
+MainColor,1275,mainColor
+mainColor,1275,mainColor
+minimale Beleuchtungsstärke (im Sende-Intervall),1277,maximale Beleuchtungsstärke (im Sende-Intervall)
+maximale Beleuchtungsstärke (im Sende-Intervall),1277,maximale Beleuchtungsstärke (im Sende-Intervall)
+maximale rel. Luftfeuchte (im Sende-Intervall),1279,maximale rel. Luftfeuchte (im Sende-Intervall)
+minimale rel. Luftfeuchte (im Sende-Intervall),1279,maximale rel. Luftfeuchte (im Sende-Intervall)
+maximale Temperatur (im Sende-Intervall),1281,maximale Temperatur (im Sende-Intervall)
+minimale Temperatur (im Sende-Intervall),1281,maximale Temperatur (im Sende-Intervall)
+minimale UV-Intensität (im Sende-Intervall),1283,maximale UV-Intensität (im Sende-Intervall)
+minimale UV-Intensität (im Sendeintervall),1283,maximale UV-Intensität (im Sende-Intervall)
+maximale UV-Intensität (im Sendeintervall),1283,maximale UV-Intensität (im Sende-Intervall)
+maximale UV-Intensität (im Sende-Intervall),1283,maximale UV-Intensität (im Sende-Intervall)
+MiCS6814 - NH3 - Ammonia,1287,MiCS6814 - NH3 - Ammonia
+NH3 - Ammonia,1287,MiCS6814 - NH3 - Ammonia
+NO2 - Nitrogen Dioxide,1289,MiCS6814 - NO2 - Nitrogen dioxide
+MiCS6814 - NO2 - Nitrogen dioxide,1289,MiCS6814 - NO2 - Nitrogen dioxide
+Nitrogen dioxide - NO2,1289,MiCS6814 - NO2 - Nitrogen dioxide
+Minimum Umgebungslautstärke,1291,Minimum Umgebungslautstärke
+Minimum Umgebungslautstärke (LAmin),1291,Minimum Umgebungslautstärke
+nc0.5,1293,nc0.5
+NC0.5,1293,nc0.5
+NC1,1295,NC1
+nc1.0,1295,NC1
+NC1.0,1295,NC1
+nc2.5,1298,nc2.5
+NC2.5,1298,nc2.5
+NC4,1300,NC4
+nc4.0,1300,NC4
+NC4.0,1300,NC4
+NH3,1303,NH3
+nh3,1303,NH3
+Niederschlag B,1305,Niederschlag
+Niederschlag 2,1305,Niederschlag
+Niederschlag 1,1305,Niederschlag
+Niederschlag A,1305,Niederschlag
+Niederschlag,1305,Niederschlag
+Niederschlag (letztes Event),1310,Niederschlag (letztes Event Akkumuliert)
+Niederschlag (letztes Event Akkumuliert),1310,Niederschlag (letztes Event Akkumuliert)
+Niederschlag Heute,1312,Niederschlag Heute
+Niederschlag heute,1312,Niederschlag Heute
+NOx Index,1315,NOx Index
+NOx index,1315,NOx Index
+Number of Counted Birds,1317,Number of Counted Birds
+Number of Counted Birds – all,1317,Number of Counted Birds
+Number of Counted Birds – None,1317,Number of Counted Birds
+Particals PM 4.0,1320,Particals PM 0.5
+Particals PM 2.5,1320,Particals PM 0.5
+Particals PM 1.0,1320,Particals PM 0.5
+Particals PM 0.5,1320,Particals PM 0.5
+Particular Matter 10,1324,Particular Matter
+Particular Matter 2.5,1324,Particular Matter
+Particulas de Poeira - PM10,1326,Particulas de Poeira - PM10
+Particulas de Poeira - PM2.5,1326,Particulas de Poeira - PM10
+particulate matter 2.5,1328,particulate matter
+Particulate Matter 2.5,1328,particulate matter
+Particulate matter 2.5,1328,particulate matter
+particulate matter 10,1328,particulate matter
+Particulate Matter 10,1328,particulate matter
+Particulate Matter 1.0,1328,particulate matter
+particulate matter,1328,particulate matter
+Particulate matter 10,1328,particulate matter
+Particulate Matter 2.5µm,1336,Particulate Matter 2.5µm
+Particulate Matter <2.5µm concentration,1336,Particulate Matter 2.5µm
+PAX,1338,PAX
+pax,1338,PAX
+PaxCounter,1340,Paxcounter
+Paxcounter,1340,Paxcounter
+people,1342,People
+People,1342,People
+pH-Wert (Hochbeet),1344,ph Wert 9b
+PH-Wert,1344,ph Wert 9b
+pH-Wert,1344,ph Wert 9b
+ph Wert 9b,1344,ph Wert 9b
+rel. Luftfeuchte Wilgotność HECA,1349,Phenomenon: rel. Luftfeuchte - Wilgotność HECA
+Phenomenon: rel. Luftfeuchte - Wilgotność HECA,1349,Phenomenon: rel. Luftfeuchte - Wilgotność HECA
+rel. Luftfeuchte / Wilgotność HECA,1349,Phenomenon: rel. Luftfeuchte - Wilgotność HECA
+rel. Luftfeuchte (Wilgotność HECA),1349,Phenomenon: rel. Luftfeuchte - Wilgotność HECA
+Temperatur (Temperatura HECA),1353,Phenomenon: Temperatur - Temperatura HECA
+Temperatur | Temperatura,1353,Phenomenon: Temperatur - Temperatura HECA
+Temperatur Temperatura HECA,1353,Phenomenon: Temperatur - Temperatura HECA
+Temperatur / Temperatura HECA,1353,Phenomenon: Temperatur - Temperatura HECA
+Temperatur / Temperatura,1353,Phenomenon: Temperatur - Temperatura HECA
+Temperatur (temperatura),1353,Phenomenon: Temperatur - Temperatura HECA
+Phenomenon: Temperatur - Temperatura HECA,1353,Phenomenon: Temperatur - Temperatura HECA
+Temperatur  / Temperatura HECA,1353,Phenomenon: Temperatur - Temperatura HECA
+Temperatur (Temperatura),1353,Phenomenon: Temperatur - Temperatura HECA
+pluie,1358,Pluie
+Pluie,1358,Pluie
+PM 1,1360,PM
+PM 1.0,1360,PM
+PM 2.5,1360,PM
+PM 4,1360,PM
+pm 2.5,1360,PM
+PM 4.0,1360,PM
+PM0,1366,PM0
+PM0.1,1366,PM0
+pm0.5,1366,PM0
+PM01,1369,PM01
+Pm01,1369,PM01
+pm01,1369,PM01
+PM2.5 maximal (im Sende-Intervall),1372,PM10 maximal (im Sende-Intervall)
+PM10 maximal (im Sende-Intervall),1372,PM10 maximal (im Sende-Intervall)
+PM10 minimal (im Sende-Intervall),1374,PM10 minimal (im Sende-Intervall)
+PM2.5 minimal (im Sende-Intervall),1374,PM10 minimal (im Sende-Intervall)
+PM25,1376,PM25
+pm25,1376,PM25
+PM4,1378,PM4
+PM4.0,1378,PM4
+power,1380,Power
+Power,1380,Power
+power supply,1382,Power Supply
+Power Supply,1382,Power Supply
+Power supply,1382,Power Supply
+Pressão atmosférica,1385,Pressão atmosférica
+Pressão Atmosférica,1385,Pressão atmosférica
+Presure,1387,Presure
+presure,1387,Presure
+PV Power,1390,PV Power
+PV-Power,1390,PV Power
+Radiation,1392,Radiation
+radiation,1392,Radiation
+RADIATION,1392,Radiation
+Radiation - µSv/h - Error of micro sievert / hour,1395,Radiation - µSv/h - Error of micro sievert / hour
+Radiation - µSv/h - Micro sievert / hour,1395,Radiation - µSv/h - Error of micro sievert / hour
+Rain (1h),1397,Rain (1h)
+Rain 1h,1397,Rain (1h)
+rel. humidity,1399,rel Humidity
+Rel. Humidity,1399,rel Humidity
+REL. HUMIDITY,1399,rel Humidity
+rel. Humidity,1399,rel Humidity
+rel Humidity,1399,rel Humidity
+Rel.Humidity,1399,rel Humidity
+rel.Feuchte,1405,Rel. Feuchte
+Rel. Feuchte,1405,Rel. Feuchte
+rel. Luftfeuchte (HECA),1408,rel. Luftfeuchte (HECA)
+rel. Luftfeuchte (HECA) komora,1408,rel. Luftfeuchte (HECA)
+rel. Luftfeuchte (HECA) wilgotność,1408,rel. Luftfeuchte (HECA)
+rel. Luftfeuchte | Wilgotność Powietrza,1411,rel. Luftfeuchte (Wilgotność czujnika)
+Wilgotność powietrza,1411,rel. Luftfeuchte (Wilgotność czujnika)
+Wilgotność względna w szklarni,1411,rel. Luftfeuchte (Wilgotność czujnika)
+rel. Luftfeuchte (Wilgotność wzgl.),1411,rel. Luftfeuchte (Wilgotność czujnika)
+Wilgotność względna,1411,rel. Luftfeuchte (Wilgotność czujnika)
+rel. Luftfeuchte (Wilgotność czujnika),1411,rel. Luftfeuchte (Wilgotność czujnika)
+rel. Luftfeuchte (Wilgotność względna),1411,rel. Luftfeuchte (Wilgotność czujnika)
+rel. Luftfeuchte / Wilgotność,1411,rel. Luftfeuchte (Wilgotność czujnika)
+rel. Luftfeuchte DHT,1417,rel. Luftfeuchte DHT
+rel. Luftfeuchte DHT 22,1417,rel. Luftfeuchte DHT
+rel. Luftfeuchte-DHT,1417,rel. Luftfeuchte DHT
+rel. Luftfeuchte_2,1421,rel. Luftfeuchte_2
+rel.Luftfeuchte_2,1421,rel. Luftfeuchte_2
+rel. Luftfeuchtigkeit,1423,rel. Luftfeuchtigkeit
+rel.Luftfeuchtigkeit,1423,rel. Luftfeuchtigkeit
+Rel. Luftfeuchtigkeit,1423,rel. Luftfeuchtigkeit
+Relais 1,1426,Relais
+Relais 2,1426,Relais
+Relais 3,1426,Relais
+Relais 4,1426,Relais
+relative Humidity,1430,Relative Humidity
+relative humidity,1430,Relative Humidity
+Relative Humidity,1430,Relative Humidity
+Relative humidity,1430,Relative Humidity
+relative Luftfeuchtigkeit,1434,relative Luftfeuchtigkeit
+Relative Luftfeuchtigkeit,1434,relative Luftfeuchtigkeit
+RSSI,1436,RSSI
+rssi,1436,RSSI
+Rssi,1436,RSSI
+SCD30 - CO2- Carbon dioxide,1439,SCD30 - CO2 - Carbon dioxide
+SCD30 - CO2 - Carbon dioxide,1439,SCD30 - CO2 - Carbon dioxide
+SCD30_co2,1442,SCD30_co2
+SCD30_CO2,1442,SCD30_co2
+SDS011_P10,1444,SDS011_P10
+SDS011_p10,1444,SDS011_P10
+Sensor1,1446,sensor1
+sensor1,1446,sensor1
+sensor2,1448,sensor2
+Sensor2,1448,sensor2
+Sensor3,1450,sensor3
+sensor3,1450,sensor3
+Sensor4,1452,sensor4
+sensor4,1452,sensor4
+SHT31_1 Luftfeuchte A,1454,SHT31_1 Luftfeuchte A
+SHT31_1 Luftfeuchte B,1454,SHT31_1 Luftfeuchte A
+SHT31_1 Lufttemperatur B,1456,SHT31_1 Lufttemperatur A
+SHT31_1 Lufttemperatur A,1456,SHT31_1 Lufttemperatur A
+SHT31_4 Luftfeuchte A,1458,SHT31_4 Luftfeuchte A
+SHT31_4 Luftfeuchte B,1458,SHT31_4 Luftfeuchte A
+SHT31_4 Lufttemperatur B,1460,SHT31_4 Lufttemperatur A
+SHT31_4 Lufttemperatur A,1460,SHT31_4 Lufttemperatur A
+SHT85_2 Luftfeuchte B,1462,SHT85_2 Luftfeuchte A
+SHT85_2 Luftfeuchte A,1462,SHT85_2 Luftfeuchte A
+SHT85_2 Lufttemperatur A,1464,SHT85_2 Lufttemperatur A
+SHT85_2 Lufttemperatur B,1464,SHT85_2 Lufttemperatur A
+SHT85_3 Luftfeuchte A,1466,SHT85_3 Luftfeuchte A
+SHT85_3 Luftfeuchte B,1466,SHT85_3 Luftfeuchte A
+SHT85_3 Lufttemperatur A,1468,SHT85_3 Lufttemperatur A
+SHT85_3 Lufttemperatur B,1468,SHT85_3 Lufttemperatur A
+Signal,1470,Signal
+signal,1470,Signal
+Signalstärke am Gateway (RSSI),1472,Signalstärke am Gateway
+Signalstärke am Gateway,1472,Signalstärke am Gateway
+Soil Humidity,1474,Soil Humidity
+Soil humidity,1474,Soil Humidity
+soil moisture,1476,soil moisture
+Soil moisture,1476,soil moisture
+Solar Temperatur 2,1478,Solar Temperatur
+Solar Temperatur 1,1478,Solar Temperatur
+sound,1480,Sound
+Sound,1480,Sound
+Sound Level / Noise,1482,Sound Level
+Sound Level,1482,Sound Level
+Sound_dummy 1,1484,Sound_dummy
+Sound_dummy 2,1484,Sound_dummy
+Sound_dummy 3,1484,Sound_dummy
+speed,1487,Speed
+Speed,1487,Speed
+SPS30_P2,1489,SPS30_P2
+SPS30_P2.5,1489,SPS30_P2
+Supply Voltage,1491,Supply Voltage
+supply voltage,1491,Supply Voltage
+"T1, air at ground level",1494,"T1, air at ground level"
+"T1, air temperature at ground level",1494,"T1, air at ground level"
+T1: Air temperature at ground level,1494,"T1, air at ground level"
+"T2, pond #1",1497,"T2, pond #1"
+"T2, pond #28",1497,"T2, pond #1"
+"T2, pond #15",1497,"T2, pond #1"
+"T4, pond #3",1500,"T4, pond #27"
+"T4, pond #27",1500,"T4, pond #27"
+Temp,1502,Temp
+temp,1502,Temp
+TEMP,1502,Temp
+Temp 1,1502,Temp
+Temp 2,1502,Temp
+Temp.,1502,Temp
+Temperatur (Balkon 1),1512,Temperatur (Balkon 1)
+Temperatur (Balkon 2),1512,Temperatur (Balkon 1)
+Temperatur(Balkon),1512,Temperatur (Balkon 1)
+"Temperatur, BME280",1515,Temperatur (BME280)
+Temperatur (BME280),1515,Temperatur (BME280)
+Temperatur - BME280,1515,Temperatur (BME280)
+Temperatur BME280,1515,Temperatur (BME280)
+Temperatur (BMP280),1519,Temperatur (BMP280)
+Temperatur BMP280,1519,Temperatur (BMP280)
+Temperatur (Box),1521,Temperatur (Box)
+Temperatur Box,1521,Temperatur (Box)
+Temperatur (CPU),1523,Temperatur (CPU)
+Temperatur CPU,1523,Temperatur (CPU)
+Temperatur (DHT22),1525,Temperatur (DHT22)
+Temperatur DHT22,1525,Temperatur (DHT22)
+Temperatur DS18B20,1527,Temperatur (DS18B20)
+Temperatur ds18b20,1527,Temperatur (DS18B20)
+Temperatur (DS18B20),1527,Temperatur (DS18B20)
+Temperatur (HECA),1530,Temperatur (HECA)
+Temperatur(HECA),1530,Temperatur (HECA)
+Temperatur (intern),1532,Temperatur (intern)
+Temperatur intern,1532,Temperatur (intern)
+Temperatur intern Sensor,1532,Temperatur (intern)
+"Temperatur (Luft, HDC1080)",1535,"Temperatur (Luft, HDC1080)"
+Temperatur Luft,1535,"Temperatur (Luft, HDC1080)"
+Temperatur (Sensor 2),1537,Temperatur (Sensor 2)
+Temperatur Sensor,1537,Temperatur (Sensor 2)
+Temperatur SHT31,1539,Temperatur (SHT31)
+Temperatur (SHT31),1539,Temperatur (SHT31)
+Temperatur in Box,1541,Temperatur - in Box
+Temperatur - in Box,1541,Temperatur - in Box
+Temperatur-DHT,1543,Temperatur DHT
+Temperatur DHT 22,1543,Temperatur DHT
+Temperatur DHT,1543,Temperatur DHT
+"Temperatur, SHT31_0",1546,Temperatur SHT31_0
+Temperatur SHT31_0,1546,Temperatur SHT31_0
+"Temperatur, SHT31_1",1548,Temperatur SHT31_1
+Temperatur SHT31_1,1548,Temperatur SHT31_1
+TEMPERATURA,1550,Temperatura
+temperatura,1550,Temperatura
+Temperatura,1550,Temperatura
+Temperature-HECA,1553,Temperature (HECA)
+Temperature (HECA),1553,Temperature (HECA)
+temperatuur,1555,Temperatuur
+Temperatuur,1555,Temperatuur
+test,1557,Test
+Test,1557,Test
+TSL25911 - Visible light,1559,TSL25911 - Visible light
+Visible Light,1559,TSL25911 - Visible light
+tVOC,1561,TVOC
+TVOC,1561,TVOC
+UV-A Strahlung,1563,UV - Strahlung
+UV - Strahlung,1563,UV - Strahlung
+UV-Strahlung,1563,UV - Strahlung
+UV Strahlung,1563,UV - Strahlung
+UV-Licht,1567,UV Licht
+UV Licht,1567,UV Licht
+UV Light,1569,UV Light
+UV-Light,1569,UV Light
+UV-säteily,1571,UV- säteily
+UV- säteily,1571,UV- säteily
+UV-Säteily,1571,UV- säteily
+UV-A Radiation,1574,UV-A Radiation
+UV-B Radiation,1574,UV-A Radiation
+UV-Radiation,1574,UV-A Radiation
+UV-Sensor B,1577,UV-Sensor
+UV-Sensor A,1577,UV-Sensor
+UV-Sensor,1577,UV-Sensor
+var10,1580,var10
+Var10,1580,var10
+Var11,1582,var11
+var11,1582,var11
+VBAT,1584,vbat
+vbat,1584,vbat
+VEML6075 - UVI,1586,VEML6075 - UVI
+VEML6075 - UVI - Index,1586,VEML6075 - UVI
+VOC A,1588,VOC
+VOC,1588,VOC
+Voc,1588,VOC
+VOC index,1591,VOC Index
+VOC Index,1591,VOC Index
+W-LAN,1593,W-Lan
+W-Lan,1593,W-Lan
+WasserTemperatur,1595,Wassertemperatur
+Wassertemperatur,1595,Wassertemperatur
+Wassertemperatur (RTD,1597,Wassertemperatur (RTD
+Wassertemperatur (RTD),1597,Wassertemperatur (RTD
+Water level,1599,Water level
+Water Level,1599,Water level
+Water temperature,1601,Water temperature
+Water Temperature,1601,Water temperature
+Wifi,1603,Wifi
+wifi,1603,Wifi
+WiFi,1603,Wifi
+WiFi - RSSI,1606,WiFi - RSSI
+WiFi RSSI,1606,WiFi - RSSI
+Wifi devices,1608,Wifi devices
+WiFi Devices,1608,Wifi devices
+WiFi Qualität,1610,WiFi Qualität
+WIFI Qualität,1610,WiFi Qualität
+WiFi Signal Strength,1612,WiFi Signal
+WiFi signal,1612,WiFi Signal
+WiFi SIgnal,1612,WiFi Signal
+Wifi Signal,1612,WiFi Signal
+WiFi Signal,1612,WiFi Signal
+WiFi-Stärke,1617,Wifi-Stärke
+Wifi-Stärke,1617,Wifi-Stärke
+Wilgotność,1619,Wilgotność
+WILGOTNOŚĆ,1619,Wilgotność
+Wind,1622,Wind
+wind,1622,Wind
+Wind Angle Davis,1624,Wind Angle
+Wind Angle,1624,Wind Angle
+Wind Gust,1626,Wind Gust
+Wind Gust Speed,1626,Wind Gust
+Wind gust Speed,1626,Wind Gust
+WindDir,1629,WindDir
+Winddir,1629,WindDir
+WindDirection,1631,Winddirection
+Winddirection,1631,Winddirection
+Windgeschwindigkeit max.,1633,Windgeschwindigkeit Max
+Windgeschwindigkeit Max,1633,Windgeschwindigkeit Max
+Windspeed,1635,Windspeed
+WindSpeed,1635,Windspeed
+Wlan,1637,WLAN
+WLAN,1637,WLAN
