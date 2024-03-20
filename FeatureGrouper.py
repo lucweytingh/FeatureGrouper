@@ -21,8 +21,14 @@ class FeatureGrouper:
         options = [option.strip() for option in options if option.strip()]
         return options
 
+    @staticmethod
+    def _remove_literal_duplicates(option):
+        return re.sub(r"[_ ][\dabcdABCD]+$", "", option)
+
     def _calculate_tfidf(self):
-        return self.vectorizer.fit_transform(self.options)
+        return self.vectorizer.fit_transform(
+            list(map(self._remove_literal_duplicates, self.options))
+        )
 
     def _calculate_cosine_similarity(self):
         return cosine_similarity(self.tfidf_matrix)
@@ -59,8 +65,11 @@ class FeatureGrouper:
         output_df["GroupName"] = output_df["GroupName"].apply(
             self._simplify_option
         )
-        output_df.loc[output_df["Group"] == -1, "GroupName"] = "Ungrouped"
-        output_df = output_df.sort_values("Group")
+        # Rename the ungrouped phenomena to their orignal names
+        output_df.loc[output_df["Group"] == -1, "GroupName"] = output_df.loc[
+            output_df["Group"] == -1, "Option"
+        ]
+        output_df = output_df.sort_values("Group", ascending=False)
         return output_df
 
     @staticmethod
